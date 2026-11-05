@@ -1,0 +1,121 @@
+# key|topic|pos|english|indonesian
+hello|basics|interj|hello|halo
+goodbye|basics|interj|goodbye|sampai jumpa
+thanks|basics|interj|thank you|terima kasih
+please|basics|adv|please|tolong / silakan
+yes|basics|interj|yes|ya
+no|basics|interj|no|tidak
+sorry|basics|interj|sorry|maaf
+excuse|basics|interj|excuse me|permisi
+gmorning|basics|phrase|good morning|selamat pagi
+gnight|basics|phrase|good night|selamat malam / selamat tidur
+n1|numbers|num|one|satu
+n2|numbers|num|two|dua
+n3|numbers|num|three|tiga
+n4|numbers|num|four|empat
+n5|numbers|num|five|lima
+n6|numbers|num|six|enam
+n7|numbers|num|seven|tujuh
+n8|numbers|num|eight|delapan
+n9|numbers|num|nine|sembilan
+n10|numbers|num|ten|sepuluh
+family|people|noun|family|keluarga
+mother|people|noun|mother|ibu
+father|people|noun|father|ayah
+child|people|noun|child|anak
+friend|people|noun|friend|teman
+name|people|noun|name|nama
+water|food|noun|water|air
+coffee|food|noun|coffee|kopi
+tea|food|noun|tea|teh
+milk|food|noun|milk|susu
+bread|food|noun|bread|roti
+rice|food|noun|rice (cooked)|nasi
+egg|food|noun|egg|telur
+fish|food|noun|fish|ikan
+meat|food|noun|meat|daging
+chicken|food|noun|chicken (meat)|daging ayam
+fruit|food|noun|fruit|buah
+apple|food|noun|apple|apel
+salt|food|noun|salt|garam
+sugar|food|noun|sugar|gula
+restaurant|food|noun|restaurant|restoran
+delicious|food|adj|delicious|enak
+airport|travel|noun|airport|bandara
+station|travel|noun|(train) station|stasiun
+train|travel|noun|train|kereta api
+bus|travel|noun|bus|bus
+ticket|travel|noun|ticket|tiket
+hotel|travel|noun|hotel|hotel
+passport|travel|noun|passport|paspor
+room|travel|noun|room|kamar
+street|travel|noun|street|jalan
+left|travel|adv|left|kiri
+right|travel|adv|right|kanan
+city|travel|noun|city|kota
+house|daily|noun|house|rumah
+door|daily|noun|door|pintu
+book|daily|noun|book|buku
+money|daily|noun|money|uang
+key|daily|noun|key|kunci
+bed|daily|noun|bed|tempat tidur
+car|daily|noun|car|mobil
+phone|daily|noun|telephone|telepon
+today|time|adv|today|hari ini
+tomorrow|time|adv|tomorrow|besok
+yesterday|time|adv|yesterday|kemarin
+day|time|noun|day|hari
+week|time|noun|week|minggu
+month|time|noun|month|bulan
+year|time|noun|year|tahun
+now|time|adv|now|sekarang
+work|work|noun|work|pekerjaan
+office|work|noun|office|kantor
+meeting|work|noun|meeting|rapat
+doctor|work|noun|doctor|dokter
+teacher|work|noun|teacher|guru
+school|work|noun|school|sekolah
+happy|emotions|adj|happy|senang / bahagia
+sad|emotions|adj|sad|sedih
+tired|emotions|adj|tired|lelah / capek
+beautiful|adjectives|adj|beautiful|indah / cantik
+big|adjectives|adj|big|besar
+small|adjectives|adj|small|kecil
+good|adjectives|adj|good|baik / bagus
+bad|adjectives|adj|bad|buruk / jelek
+hot|adjectives|adj|hot|panas
+cold|adjectives|adj|cold|dingin
+new|adjectives|adj|new|baru
+old|adjectives|adj|old (thing)|lama / tua
+expensive|adjectives|adj|expensive|mahal
+cheap|adjectives|adj|cheap|murah
+go|verbs|verb|to go|pergi
+come|verbs|verb|to come|datang
+eat|verbs|verb|to eat|makan
+drink|verbs|verb|to drink|minum
+see|verbs|verb|to see|melihat
+speak|verbs|verb|to speak|berbicara
+understand|verbs|verb|to understand|mengerti
+buy|verbs|verb|to buy|membeli
+sleep|verbs|verb|to sleep|tidur
+read|verbs|verb|to read|membaca
+write|verbs|verb|to write|menulis
+learn|verbs|verb|to learn|belajar
+help|verbs|verb|to help|membantu
+love|verbs|verb|to love|mencintai
+p_howareyou|phrases|phrase|How are you?|Apa kabar?
+p_myname|phrases|phrase|My name is …|Nama saya …
+p_nicemeet|phrases|phrase|Nice to meet you.|Senang berkenalan dengan Anda.
+p_dontunderstand|phrases|phrase|I don't understand.|Saya tidak mengerti.
+p_slowly|phrases|phrase|Please speak more slowly.|Tolong bicara lebih pelan.
+p_speakenglish|phrases|phrase|Do you speak English?|Apakah Anda bisa berbahasa Inggris?
+p_toilet|phrases|phrase|Where is the toilet?|Di mana toilet?
+p_howmuch|phrases|phrase|How much is it?|Berapa harganya?
+p_bill|phrases|phrase|The bill, please.|Minta bonnya.
+p_coffeeplease|phrases|phrase|A coffee, please.|Satu kopi, ya.
+p_wherestation|phrases|phrase|Where is the station?|Di mana stasiun?
+p_help|phrases|phrase|Help!|Tolong!
+p_dontknow|phrases|phrase|I don't know.|Saya tidak tahu.
+p_seeyoutomorrow|phrases|phrase|See you tomorrow!|Sampai jumpa besok!
+p_whatisthis|phrases|phrase|What is this?|Apa ini?
+p_welcome|phrases|phrase|You're welcome.|Sama-sama.

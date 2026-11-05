@@ -1,0 +1,104 @@
+== ar: ok 111, mismatch 3, no-wikt-data 6
+    ('excuse', 'لو سمحت', ['آسِف!', 'آسِفَة!', 'المَعْذِرَة', 'اِعْذِرْنِي', 'عَذْرًا', 'عَفْوًا', 'عَفْوًا!', 'عَن إِذْنَك'])
+    ('p_slowly', 'تكلم ببطء من فضلك.', ['[[تَكَلَّم]] [[بُطْء', '[[تَكَلَّمِي]] [[بُطْء'])
+    ('p_speakenglish', 'هل تتكلم الإنجليزية؟', ['هَل تَتَكَلَّم بِالْعَرَبِيَّة؟', 'هَل تَتَكَلَّمُ بِالْإِنْجْلِيزِيَّة؟', 'هَل تَتَكَلَّمِين بِالْإِنْجْلِيزِيَّة؟', 'هَل تَتَكَلَّمِين بِالْعَرَبِيَّة؟'])
+== da: ok 110, mismatch 4, no-wikt-data 6
+    ('doctor', 'læge', ['doktor', 'doktorere', 'forfalske'])
+    ('p_dontunderstand', 'Jeg forstår det ikke.', ['jeg forstår ikke'])
+    ('p_slowly', 'Kan du tale langsommere?', ['har du mulighed for at tale lidt langsommere?', 'tal langsommere'])
+    ('p_howmuch', 'Hvad koster det?', ['[[hvor]] [[meget]]'])
+== de: ok 112, mismatch 2, no-wikt-data 6
+    ('p_dontunderstand', 'Ich verstehe das nicht.', ['ich verstehe nicht'])
+    ('p_slowly', 'Können Sie bitte langsamer sprechen?', ['sprechen Sie bitte langsamer'])
+== es: ok 109, mismatch 5, no-wikt-data 6
+    ('doctor', 'el médico', ['adulterar', 'doctor', 'doctora', 'doctorar'])
+    ('teacher', 'el profesor', ['enseñador', 'enseñadora', 'enseñante'])
+    ('beautiful', 'bonito', ['alegre', 'bel', 'bellido', 'bello', 'bravo', 'despejado', 'fermoso', 'hermoso'])
+    ('p_howareyou', '¿Cómo estás?', ['[[¿cómo]] [[está]] ([[usted]])?', '[[¿qué tal]] ([[está]] ([[usted]]))?'])
+    ('p_slowly', '¿Puede hablar más despacio, por favor?', ['por favor, habla más despacio', 'por favor, hable más despacio'])
+== fr: ok 112, mismatch 2, no-wikt-data 6
+    ('doctor', 'le médecin', ['docteur', 'docteure', 'docteuse', 'doctoresse', 'falsifier'])
+    ('p_slowly', "Pouvez-vous parler plus lentement, s'il vous plaît ?", ["parlez plus lentement, s'il vous plaît"])
+== hi: ok 104, mismatch 10, no-wikt-data 6
+    ('excuse', 'सुनिए', ['क्षमा कीजिए', 'ज़रा सुनिये', 'माफ़ करो', 'माफ़ कीजिए'])
+    ('mother', 'माँ', ['मां', 'माता', 'मादर', 'वालिदा'])
+    ('chicken', 'चिकन', ['कुक्कुट', 'मुरगा', 'मुर्ग़', 'मुर्ग़ा'])
+    ('restaurant', 'रेस्टोरेंट', ['भोजनालय', 'रेस्टोरेन्ट', 'रेस्तरां', 'रेस्तोरां', 'होटल'])
+    ('office', 'दफ़्तर', ['कार्यालय', 'पद'])
+    ('beautiful', 'सुंदर', ['आकर्षक', 'ख़ूबसूरत', 'प्यारा', 'मनोरम', 'मनोहर', 'मोहक', 'सुन्दर', 'हसीन'])
+    ('p_dontunderstand', 'मैं नहीं समझा।', ['मैं नहीं समझता हूँ', 'मैं नहीं समझती हूँ'])
+    ('p_slowly', 'कृपया धीरे बोलिए।', ['कृपया ज़रा धीरे बोलिये', 'धीरे-धीरे बोलिये'])
+    ('p_howmuch', 'यह कितने का है?', ['कितना', 'कितना है?'])
+    ('p_help', 'बचाओ!', ['उपकार', 'मदद', 'मदद करना', 'सहायक', 'सहायता'])
+== it: ok 111, mismatch 1, no-wikt-data 8
+    ('doctor', 'il medico', ['addottorare', 'adulterare', 'curare', 'dottore', 'dottoressa', 'falsificare', 'medicare', 'ritoccare'])
+== ja: ok 106, mismatch 8, no-wikt-data 6
+    ('hello', 'こんにちは', ['[[マジ]]？', '[[マジかよ]]？', '[[大丈夫]]？', 'おはよう', 'おはようございます', 'おーい', 'すみませーん', 'ちょっと'])
+    ('apple', 'りんご', ['リンゴ', '林檎', '苹果'])
+    ('delicious', 'おいしい', ['旨い', '美味しい'])
+    ('doctor', '医者', ['博士', '改竄'])
+    ('tired', '疲れた', ['疲れる'])
+    ('p_slowly', 'ゆっくり話してください。', ['[[もっと]][[ゆっくり]][[話す'])
+    ('p_speakenglish', '英語を話せますか？', ['[[日本語ができますか]]？', '[[日本語が話せますか]]？', '[[英語が話せますか]]？'])
+    ('p_dontknow', '知りません。', ['分かる', '知る'])
+== ko: ok 101, mismatch 13, no-wikt-data 6
+    ('please', '주세요', ['기쁘게 하다', '바라다', '제발', '주다'])
+    ('sorry', '죄송합니다', ['[[다시]] [[하나', '[[뭐]][[-이라고', '네', '네?', '뭐?', '미안-하다', '미안하다', '사과'])
+    ('excuse', '저기요', ['[[저기]][[-요]]', '뭐라고요', '미안하다', '실례하다', '여보세요', '잠시-만-요', '죄송하다'])
+    ('gmorning', '좋은 아침이에요', ['[[안녕히 주무셨어요]]?', '[[잘 잤어]]?', '[[좋다', '굿모닝', '안녕', '안녕하세요'])
+    ('doctor', '의사', ['박사(博士)'])
+    ('p_howareyou', '잘 지내세요?', ['안녕-하세요?', '안녕-하십니까?', '안녕?', '어떻게 지내세요?', '잘 지냈어요?', '처음 뵙겠습니다'])
+    ('p_myname', '제 이름은 …입니다.', ['내 이름-은 …-야', '내 이름-은 …-이야', '저-는 …-이라고 합니다', '저-는 …-입니다', '제 이름-은 …-예요', '제 이름-은 …-이에요', '제 이름-은 …-입니다'])
+    ('p_dontunderstand', '잘 모르겠어요.', ['[[이해]] [[못]][[하다', '[[이해]][[-가]] [[못]] [[알아듣다', '[[이해]][[-가]] [[안]] [[가다'])
+    ('p_slowly', '천천히 말해 주세요.', ['[[좀]] [[더]] [[천천히]] [[말씀하다'])
+    ('p_toilet', '화장실이 어디예요?', ['[[화장실]][[-이]] [[어디]][[-이다'])
+    ('p_help', '도와주세요!', ['[[돕다', '도우미', '도움', '도움말', '돕다', '원조(援助)', '조수(助手)'])
+    ('p_dontknow', '몰라요.', ['모르다'])
+    ('p_welcome', '천만에요.', ['[[별거]] 아니에요', '[[별것]] 아니었습니다', '[[별말씀]]-을-요', '[[천만]]-의 [[말씀]]-입니다', '고맙긴-요', '괜찮다', '뭘-요', '아니다'])
+== ms: ok 109, mismatch 3, no-wikt-data 8
+    ('understand', 'faham', ['paham'])
+    ('p_speakenglish', 'Boleh cakap bahasa Inggeris?', ['boleh anda cakap bahasa Inggeris?', 'boleh anda cakap bahasa Melayu?'])
+    ('p_toilet', 'Tandas di mana?', ['di mana tandas?'])
+== nb: ok 111, mismatch 0, no-wikt-data 9
+== nl: ok 112, mismatch 2, no-wikt-data 6
+    ('airport', 'het vliegveld', ['luchthaven', 'vlieghaven'])
+    ('p_slowly', 'Kunt u langzamer praten, alstublieft?', ['spreek alsjeblieft langzamer', 'spreek alstublieft langzamer'])
+== pl: ok 112, mismatch 2, no-wikt-data 6
+    ('doctor', 'lekarz', ['doktor', 'fabrykować', 'falsyfikować', 'fałszować'])
+    ('p_howareyou', 'Jak się masz?', ['co u ciebie?', 'co u was?'])
+== pt: ok 110, mismatch 4, no-wikt-data 6
+    ('sorry', 'desculpe', ['a lamentar', 'como', 'desculpa', 'foi mal', 'hein?', 'lamentar', 'lastimável', 'perdão'])
+    ('doctor', 'o médico', ['adulterar', 'doutor', 'doutora', 'doutorada', 'doutorado'])
+    ('p_howareyou', 'Como você está?', ['como está', 'como estás', 'como vai', 'como você vai?', 'tudo bem?'])
+    ('p_slowly', 'Pode falar mais devagar, por favor?', ['por favor fale mais devagar'])
+== ru: ok 112, mismatch 2, no-wikt-data 6
+    ('sorry', 'извините', ['[[просить', 'жа́лкий', 'жаль', 'извинить', 'извиниться', 'огорчённый', 'пардо́н', 'плаче́вный'])
+    ('excuse', 'извините', ['[[просить', 'извинить', 'извиниться', 'как-как?', 'пардо́н', 'прости́те', 'простить', 'прошу́ проще́ния'])
+== sv: ok 110, mismatch 4, no-wikt-data 6
+    ('delicious', 'god', ['delikat', 'härlig', 'läcker', 'smaklig', 'välsmakande'])
+    ('doctor', 'läkare', ['doktor', 'fiffla med', 'manipulera'])
+    ('p_slowly', 'Kan du prata långsammare?', ['kan du vara så snäll och tala långsammare?', 'tala långsammare är du snäll'])
+    ('p_howmuch', 'Vad kostar det?', ['[[hur]] [[mycket]]'])
+== th: ok 105, mismatch 5, no-wikt-data 7
+    ('now', 'ตอนนี้', ['บัดนี้', 'เดี๋ยวนี้'])
+    ('doctor', 'หมอ', ['ดอกเตอร์', 'ดุษฎีบัณฑิต'])
+    ('p_slowly', 'พูดช้าๆ หน่อย', ['[[พูด]][[ช้า]][[ลง]][[หน่อย]]'])
+    ('p_speakenglish', 'พูดภาษาอังกฤษได้ไหม', ['[[คุณ]][[พูด]][[ภาษา]][[อังกฤษ]][[เป็น]][[ไหม]]', '[[คุณ]][[พูด]][[ภาษา]][[ไทย]][[เป็น]][[ไหม]]'])
+    ('p_toilet', 'ห้องน้ำอยู่ที่ไหน', ['[[สุขา]][[อยู่]][[ไหน]]', '[[ห้องน้ำ]][[อยู่]][[ไหน]]'])
+== tr: ok 111, mismatch 2, no-wikt-data 7
+    ('p_slowly', 'Daha yavaş konuşur musunuz, lütfen?', ['lütfen daha yavaş konuş', 'lütfen daha yavaş konuşun'])
+    ('p_help', 'İmdat!', ['imdat', 'yardım', 'yardım etmek', 'yardımcı'])
+== vi: ok 105, mismatch 7, no-wikt-data 8
+    ('please', 'làm ơn', ['[[thôi]] [[mà]]', 'trời ơi', 'vui lòng', 'xin'])
+    ('child', 'trẻ em', ['con', 'đứa bé', 'đứa trẻ'])
+    ('meeting', 'cuộc họp', ['gặp gỡ', 'hội họp', 'hội nghị'])
+    ('doctor', 'bác sĩ', ['tiến sĩ', '進士'])
+    ('p_howareyou', 'Bạn có khỏe không?', ['dạo này sao?', 'khoẻ chứ?', 'khoẻ không?', 'ăn cơm chưa?', 'ăn cơm chửa?'])
+    ('p_slowly', 'Xin nói chậm lại.', ['làm ơn nói chậm hơn'])
+    ('p_help', 'Cứu tôi với!', ['giúp', 'giúp đỡ', 'hỗ trợ', 'trợ giúp', '助𠢞', '𠢞'])
+== zh: ok 109, mismatch 5, no-wikt-data 6
+    ('family', '家人', ['家', '家庭', '家族', '科', '語系'])
+    ('milk', '牛奶', ['乳', '乳汁', '奶', '擠奶', '牛乳', '產乳'])
+    ('doctor', '医生', ['博士', '篡改'])
+    ('sad', '难过', ['哀傷', '悲傷', '憂傷'])
+    ('p_toilet', '洗手间在哪儿？', ['[[廁所]][[在]][[哪裡]]？'])

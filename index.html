@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>POLYGLOT AI — Learn Every Language. Unlock Every World.</title>
+<meta name="description" content="POLYGLOT AI: platform belajar 22 bahasa — kosakata dengan spaced repetition, tata bahasa, listening, pelafalan, simulasi percakapan, dan tutor AI (Grok).">
+<meta name="theme-color" content="#070a1a">
+<meta name="color-scheme" content="dark">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="POLYGLOT AI">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/favicon-32.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+<aside class="sidebar" id="sidebar" aria-label="Menu utama">
+  <div class="brand">
+    <img src="icons/icon-192.png" alt="" width="34" height="34">
+    <div><strong>POLYGLOT AI</strong><span>Learn Every Language. Unlock Every World.</span></div>
+    <button class="icon-btn close-nav" id="closeNav" aria-label="Tutup menu">✕</button>
+  </div>
+  <nav id="nav" class="menu-card"></nav>
+  <div class="side-foot">
+    <button class="link" data-go="about">Tentang &amp; Integrasi</button>
+    <span class="muted small" id="saveState">Data tersimpan di perangkat ini</span>
+  </div>
+</aside>
+<main class="shell">
+  <header class="topbar">
+    <button class="icon-btn burger" id="openNav" aria-label="Buka menu"><span></span><span></span></button>
+    <div class="top-title"><img src="icons/favicon-32.png" alt="" width="20" height="20"><b>POLYGLOT AI</b></div>
+    <label class="lang-pill" title="Bahasa yang dipelajari"><span id="langFlag">🌐</span><select id="langSelect" aria-label="Bahasa yang dipelajari"></select></label>
+  </header>
+  <div id="view" class="view" tabindex="-1" aria-live="polite"><div class="loading"><div class="spinner"></div><p>Memuat POLYGLOT AI…</p></div></div>
+</main>
+<div id="toast" role="status" hidden></div>
+<input type="file" id="importFile" accept="application/json" hidden>
+<script src="js/core.js" defer></script>
+<script src="js/vocab.js" defer></script>
+<script src="js/skills.js" defer></script>
+<script src="js/ai.js" defer></script>
+<script src="js/pages.js" defer></script>
+</body>
+</html>

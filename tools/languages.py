@@ -1,0 +1,148 @@
+import json
+L=[]
+def add(code,name,native,family,script,tts,pron,order,gender,cases,articles,verbs,special,formal,regions,culture,dir='ltr'):
+    L.append(dict(code=code,name=name,native=native,family=family,script=script,tts=tts,dir=dir,pron=pron,
+      grammar=dict(order=order,gender=gender,cases=cases,articles=articles,verbs=verbs,special=special),formal=formal,regions=regions,culture=culture))
+add('en','Inggris','English','Indo-Eropa › Jermanik (Barat)','Latin (26 huruf)','en-US',
+ 'Ejaan tidak selalu mencerminkan bunyi (mis. "though", "through", "tough"). Bunyi khas: /θ/ dan /ð/ (th), vokal panjang–pendek (ship/sheep), schwa /ə/ pada suku tanpa tekanan. Tekanan kata bisa membedakan makna (REcord kb. vs reCORD kk.).',
+ 'SVO (Subjek–Predikat–Objek), cukup kaku.','Tidak ada gender gramatikal (kecuali kata ganti he/she/it).','Tidak ada kasus pada kata benda; sisa kasus hanya pada kata ganti (I/me, he/him).','Artikel tak tentu a/an dan artikel tentu the.',
+ 'Kala (tense) + aspek: simple, progressive, perfect, perfect progressive. Kata kerja bantu (do, be, have) untuk tanya/negasi. Konjugasi minim (hanya -s orang ke-3 tunggal).',
+ 'Phrasal verbs (give up, look after) sangat umum.',
+ 'Tidak ada pembedaan "Anda/kamu" (you untuk semua). Kesopanan lewat modal (could, would) dan kata please.',
+ 'Inggris Britania, Amerika, Australia, India, dsb. berbeda ejaan (colour/color), kosakata (flat/apartment) dan aksen.',
+ 'Di banyak budaya penutur Inggris, permintaan tidak langsung ("Could you…?") dianggap lebih sopan daripada perintah langsung.')
+add('it','Italia','Italiano','Indo-Eropa › Roman','Latin','it-IT',
+ 'Ejaan sangat fonetis. Konsonan ganda dilafalkan lebih panjang (pala vs palla). c/g lembut sebelum e/i (ciao, gelato); ch/gh keras (chiesa). gli /ʎ/, gn /ɲ/. r dilafalkan bergetar (trill).',
+ 'SVO, tapi subjek sering dihilangkan karena terlihat dari konjugasi (pro-drop).','Dua gender: maskulin & feminin.','Tidak ada kasus pada kata benda.','Artikel tentu il, lo, la, l\', i, gli, le; tak tentu un, uno, una, un\'. Artikel menyatu dengan preposisi (del, nella).',
+ 'Konjugasi kaya per orang & kala (presente, passato prossimo, imperfetto, futuro, congiuntivo, condizionale). Auxiliary essere/avere untuk passato prossimo.',
+ 'Kata sifat mengikuti gender & jumlah kata benda.',
+ 'tu (informal) vs Lei (formal, ditulis juga lei).','Banyak dialek/bahasa daerah (Napoletano, Siciliano, Veneto…); Italia standar berbasis dialek Toskana.',
+ 'Salam dengan cium pipi umum di antara kenalan; gunakan Lei dengan orang yang belum dikenal atau lebih tua.')
+add('es','Spanyol','Español','Indo-Eropa › Roman','Latin (+ ñ)','es-ES',
+ 'Ejaan sangat fonetis. Lima vokal murni. r tunggal tap, rr bergetar. ñ /ɲ/. Di sebagian besar Spanyol, c (sebelum e/i) dan z = /θ/; di Amerika Latin = /s/ (seseo). h tidak dibaca.',
+ 'SVO fleksibel; subjek sering dihilangkan (pro-drop).','Dua gender: maskulin & feminin.','Tidak ada kasus pada kata benda.','Artikel tentu el, la, los, las; tak tentu un, una, unos, unas.',
+ 'Konjugasi kaya; ser vs estar (dua "adalah"); indikatif vs subjuntivo; pretérito vs imperfecto.',
+ 'Tanda tanya/seru terbalik di awal kalimat (¿ ¡).',
+ 'tú (informal) vs usted (formal). Di sebagian Amerika Latin dipakai vos; vosotros hanya di Spanyol (Amerika Latin: ustedes).',
+ 'Spanyol (Kastilia) vs ragam Amerika Latin: kosakata (coche/carro), pengucapan (seseo), kata ganti (vosotros, voseo).',
+ 'Waktu makan di Spanyol cenderung lebih malam dibanding banyak negara lain.')
+add('fr','Prancis','Français','Indo-Eropa › Roman','Latin (+ diakritik é è ê ç …)','fr-FR',
+ 'Banyak huruf akhir tidak dibaca. Vokal sengau (an, on, in, un), vokal bulat depan /y/ (tu) dan /ø/ (deux). r uvular /ʁ/. Liaison: konsonan akhir dibaca jika kata berikutnya diawali vokal (les amis).',
+ 'SVO; pronomina objek diletakkan sebelum kata kerja (je le vois).','Dua gender: maskulin & feminin.','Tidak ada kasus pada kata benda.','Artikel tentu le, la, l\', les; tak tentu un, une, des; partitif du, de la.',
+ 'Konjugasi kaya; passé composé (avoir/être), imparfait, futur, subjonctif, conditionnel. Negasi ne … pas (lisan sering tanpa ne).',
+ 'Elisi (l\'eau, j\'ai) dan liaison.',
+ 'tu (informal) vs vous (formal atau jamak).','Prancis Eropa, Kanada (Québec), Belgia, Swiss, Afrika — beda kosakata dan aksen (mis. angka 70/90 di Belgia & Swiss: septante, nonante).',
+ 'Mengucap "Bonjour" saat masuk toko dianggap sopan dan penting.')
+add('de','Jerman','Deutsch','Indo-Eropa › Jermanik (Barat)','Latin (+ ä ö ü ß)','de-DE',
+ 'Umlaut ä ö ü; ch dibaca [ç] setelah vokal depan (ich) dan [x] setelah a/o/u (Bach). Konsonan akhir bersuara menjadi tak bersuara (Hund → [hʊnt]). Huruf w = /v/, v sering = /f/, z = /ts/.',
+ 'V2: kata kerja terkonjugasi di posisi kedua dalam kalimat utama; di anak kalimat kata kerja di akhir.','Tiga gender: maskulin (der), feminin (die), netral (das).','Empat kasus: Nominativ, Akkusativ, Dativ, Genitiv.','Artikel berubah menurut gender, kasus dan jumlah.',
+ 'Kata kerja terpisah (anrufen → ich rufe … an). Perfekt dengan haben/sein. Konjunktiv II untuk sopan/kondisional.',
+ 'Semua kata benda ditulis dengan huruf kapital. Kata majemuk panjang.',
+ 'du (informal) vs Sie (formal, selalu kapital).','Jerman, Austria, Swiss (Schweizerdeutsch sangat berbeda secara lisan), plus dialek regional.',
+ 'Ketepatan waktu dihargai; gunakan Sie dan gelar/nama keluarga sampai ditawari du.')
+add('pt','Portugis','Português','Indo-Eropa › Roman','Latin (+ ã õ ç …)','pt-BR',
+ 'Vokal sengau (ã, õ, -em). Portugis Brasil: t/d sebelum i sering dibaca [tʃ]/[dʒ] (tia, dia); Portugis Eropa: vokal tak bertekanan sangat tereduksi. r awal kata umumnya guttural.',
+ 'SVO; subjek sering dihilangkan.','Dua gender: maskulin & feminin.','Tidak ada kasus pada kata benda.','Artikel tentu o, a, os, as; tak tentu um, uma. Menyatu dengan preposisi (do, na).',
+ 'Konjugasi kaya; ser vs estar; infinitivo pessoal (khas Portugis); subjuntivo.',
+ 'Aplikasi ini memakai Portugis Brasil sebagai dasar, dengan catatan bentuk Portugal.',
+ 'Brasil: você (umum), o senhor/a senhora (formal); Portugal: tu (informal) dan você/o senhor (formal).','Brasil vs Portugal berbeda pengucapan, kosakata (ônibus/autocarro) dan kata ganti; juga Angola, Mozambik, dll.',
+ 'Di Brasil sapaan cenderung hangat; di Portugal penggunaan gelar (Senhor Doutor) lebih umum dalam konteks formal.')
+add('nl','Belanda','Nederlands','Indo-Eropa › Jermanik (Barat)','Latin','nl-NL',
+ 'g/ch frikatif di belakang mulut (gaan, lachen). ui, ij/ei, eu adalah diftong/vokal khas. Konsonan akhir bersuara menjadi tak bersuara.',
+ 'V2 seperti bahasa Jerman; kata kerja di akhir anak kalimat.','Dua kelompok: de-woorden (umum) dan het-woorden (netral).','Tidak ada kasus produktif (sisa-sisa dalam ungkapan).','de / het (tentu), een (tak tentu).',
+ 'Perfect dengan hebben/zijn; kata kerja terpisah (opbellen → ik bel … op).','Diminutif -je sangat sering dipakai.',
+ 'jij/je (informal) vs u (formal).','Belanda vs Flandria (Belgia, sering disebut Vlaams): beda aksen dan sebagian kosakata.',
+ 'Komunikasi cenderung langsung; keterusterangan biasanya tidak dimaksudkan kasar.')
+add('sv','Swedia','Svenska','Indo-Eropa › Jermanik (Utara)','Latin (+ å ä ö)','sv-SE',
+ 'Bahasa beraksen nada (pitch accent): dua pola nada kata. Vokal panjang–pendek. sj-bunyi khas (sjuk) dan tj-/k sebelum vokal depan (kjol, köpa).',
+ 'V2; SVO dalam kalimat dasar.','Dua gender: en (umum) dan ett (netral).','Tidak ada kasus pada kata benda (kecuali genitif -s).','Artikel tentu sebagai akhiran: bil → bilen, hus → huset.',
+ 'Kata kerja tidak berubah menurut orang (jag/du/han är).','Bentuk pasif dengan -s (dörren öppnas).',
+ 'Hampir semua orang memakai du; ni sebagai bentuk sopan jarang dipakai.','Swedia standar vs dialek regional; varian Swedia di Finlandia (finlandssvenska).',
+ 'Konsep "lagom" (secukupnya) dan "fika" (rehat kopi) sering disebut sebagai bagian budaya kerja dan sosial.')
+add('nb','Norwegia (Bokmål)','Norsk (bokmål)','Indo-Eropa › Jermanik (Utara)','Latin (+ æ ø å)','nb-NO',
+ 'Beraksen nada (dua pola nada). Vokal æ, ø, å. Pengucapan sangat bervariasi menurut dialek; tidak ada lafal standar resmi.',
+ 'V2; SVO dalam kalimat dasar.','Tiga gender (maskulin, feminin, netral), tetapi feminin boleh diperlakukan seperti maskulin di Bokmål.','Tidak ada kasus pada kata benda (kecuali genitif -s).','Artikel tentu sebagai akhiran (bil → bilen, hus → huset).',
+ 'Kata kerja tidak berubah menurut orang.','Dua bentuk tulis resmi: Bokmål (dipakai aplikasi ini) dan Nynorsk.',
+ 'du dipakai hampir di semua situasi; De (formal) sangat jarang.','Dialek sangat beragam dan dipakai luas, bahkan di media.',
+ 'Gaya komunikasi relatif egaliter; gelar jarang dipakai.')
+add('da','Denmark','Dansk','Indo-Eropa › Jermanik (Utara)','Latin (+ æ ø å)','da-DK',
+ 'Pengucapan jauh dari ejaan; stød (semacam hentian glotal/creaky voice) dapat membedakan kata. d lunak [ð] (mad). Banyak konsonan tereduksi.',
+ 'V2; SVO dalam kalimat dasar.','Dua gender: fælleskøn (en) dan intetkøn (et).','Tidak ada kasus pada kata benda (kecuali genitif -s).','Artikel tentu sebagai akhiran (bil → bilen, hus → huset).',
+ 'Kata kerja tidak berubah menurut orang.','Angka puluhan memakai sistem dua puluhan (halvtreds = 50).',
+ 'du dipakai hampir di semua situasi; De (formal) sangat jarang.','Dialek Jutlandia, Fyn, Zealand; bahasa Denmark standar berbasis Kopenhagen.',
+ '"Hygge" (suasana nyaman dan akrab) sering disebut sebagai nilai budaya.')
+add('pl','Polandia','Polski','Indo-Eropa › Slavia (Barat)','Latin (+ ą ć ę ł ń ó ś ź ż)','pl-PL',
+ 'Tekanan hampir selalu di suku kedua dari akhir. Gugus konsonan (szcz, prz). Bunyi desis dibedakan: s/ś/sz, c/ć/cz, z/ź/ż/rz. ł = [w]. Vokal sengau ą, ę.',
+ 'SVO dasar, tetapi urutan cukup bebas karena kasus.','Tiga gender (maskulin — dengan subkategori personal/animate, feminin, netral).','Tujuh kasus: nominatif, genitif, datif, akusatif, instrumental, lokatif, vokatif.','Tidak ada artikel.',
+ 'Aspek perfektif vs imperfektif untuk hampir setiap kata kerja; kata kerja gerak (iść/jechać).','Bentuk lampau berubah menurut gender.',
+ 'ty (informal) vs Pan/Pani + kata kerja orang ke-3 (formal).','Polandia standar; dialek regional dan bahasa Kashubia (diakui sebagai bahasa regional).',
+ 'Pemakaian Pan/Pani dengan orang dewasa yang belum akrab adalah norma.')
+add('ru','Rusia','Русский','Indo-Eropa › Slavia (Timur)','Kiril (33 huruf)','ru-RU',
+ 'Tekanan bebas dan dapat berpindah; vokal tak bertekanan tereduksi (о tanpa tekanan ≈ [a]). Konsonan keras vs lunak (palatal) membedakan makna. ы vokal khas.',
+ 'SVO dasar; urutan fleksibel untuk penekanan.','Tiga gender: maskulin, feminin, netral.','Enam kasus: nominatif, genitif, datif, akusatif, instrumental, prepositional.','Tidak ada artikel.',
+ 'Aspek perfektif/imperfektif; kata kerja gerak; kata kerja "adalah" (быть) dihilangkan di kala kini.','Lampau berubah menurut gender (я был / я была).',
+ 'ты (informal) vs вы (formal/jamak). Bentuk formal sering memakai nama + patronimik (Иван Петрович).','Variasi regional relatif kecil untuk ukuran wilayahnya; bahasa Rusia juga dipakai luas di negara-negara bekas Uni Soviet.',
+ 'Pemakaian nama + patronimik menunjukkan hormat; senyum kepada orang asing tanpa alasan bisa dianggap aneh oleh sebagian orang.')
+add('ar','Arab (Standar Modern)','العربية','Afro-Asia › Semit','Abjad Arab (kanan ke kiri; vokal pendek biasanya tidak ditulis)','ar-SA',
+ 'Konsonan faringal (ح ع) dan emfatik (ص ض ط ظ), uvular ق. Vokal pendek umumnya tidak ditulis, sehingga kosakata perlu dihafal dengan lafalnya. Panjang vokal membedakan makna.',
+ 'VSO dan SVO sama-sama dipakai dalam Bahasa Arab Standar; dialek cenderung SVO.','Dua gender: maskulin & feminin (sering ditandai ة).','Tiga kasus (nominatif, akusatif, genitif) ditandai vokal akhir, sering tidak diucapkan dalam percakapan.','Artikel tentu ال (al-); tidak ada artikel tak tentu tertulis (tanwin).',
+ 'Sistem akar tiga konsonan (k-t-b → kataba "menulis", kitāb "buku", maktab "kantor"). Dua bentuk dasar: lampau (perfektif) dan kini (imperfektif). Kata kerja berubah menurut orang, jumlah (termasuk dual), gender.',
+ 'Bentuk dual (dua) untuk kata benda dan kata kerja.',
+ 'Dalam percakapan sehari-hari orang memakai dialek (Mesir, Levant, Teluk, Maghribi…); Bahasa Arab Standar dipakai di media, pendidikan, tulisan.','Diglosia: Bahasa Arab Standar (Fuṣḥā) vs dialek regional yang bisa sangat berbeda.',
+ 'Salam "as-salāmu ʿalaykum" dijawab "wa ʿalaykum as-salām". Gunakan tangan kanan untuk makan dan memberi barang di banyak budaya Arab.','rtl')
+add('tr','Turki','Türkçe','Turkik (Oghuz)','Latin (+ ç ğ ı İ ö ş ü)','tr-TR',
+ 'Ejaan sangat fonetis. ı (tanpa titik) /ɯ/ berbeda dari i. ğ memanjangkan vokal sebelumnya. Harmoni vokal: akhiran menyesuaikan vokal kata dasar.',
+ 'SOV (kata kerja di akhir).','Tidak ada gender gramatikal (o = dia, untuk semua).','Enam kasus ditandai akhiran (akusatif -ı, datif -a, lokatif -da, ablatif -dan, genitif -ın).','Tidak ada artikel tentu; bir dapat berfungsi sebagai artikel tak tentu.',
+ 'Aglutinatif: akhiran ditumpuk (ev-ler-im-de = "di rumah-rumahku"). Akhiran untuk kala, modus, orang, negasi (-me/-ma).','Harmoni vokal dan konsonan dalam akhiran.',
+ 'sen (informal) vs siz (formal/jamak).','Turki Istanbul sebagai standar; dialek Anatolia, varian di Siprus dan Balkan.',
+ 'Teh (çay) ditawarkan sebagai tanda keramahan; menolak berkali-kali bisa terasa kurang sopan.')
+add('hi','Hindi','हिन्दी','Indo-Eropa › Indo-Arya','Devanagari (abugida)','hi-IN',
+ 'Konsonan beraspirasi vs tidak (k/kh, p/ph) membedakan makna. Retrofleks (ट ड) vs dental (त द). Vokal panjang–pendek. Vokal sengau (ँ).',
+ 'SOV (kata kerja di akhir); posposisi (bukan preposisi).','Dua gender: maskulin & feminin; kata kerja dan kata sifat ikut berubah.','Kasus langsung vs oblik, ditambah posposisi (ने, को, से, में).','Tidak ada artikel.',
+ 'Kala & aspek dibentuk dengan partisip + kata bantu होना. Konstruksi ergatif (ने) pada lampau transitif.','Hindi dan Urdu sangat mirip secara lisan tetapi berbeda aksara dan sebagian kosakata.',
+ 'तू (sangat akrab), तुम (akrab), आप (hormat).','Hindi Standar vs ragam regional; banyak kata serapan Inggris dalam percakapan kota.',
+ 'Namaste dengan kedua telapak tangan dirapatkan adalah salam hormat yang umum.')
+add('id','Indonesia','Bahasa Indonesia','Austronesia › Melayu-Polinesia','Latin','id-ID',
+ 'Ejaan sangat fonetis. r biasanya bergetar/tap. Konsonan p, t, k tidak beraspirasi. e bisa /e/ atau /ə/ (ejaan tidak membedakan).',
+ 'SVO.','Tidak ada gender gramatikal.','Tidak ada kasus.','Tidak ada artikel (penanda definit -nya, itu).',
+ 'Kata kerja tidak berubah menurut waktu/orang; waktu ditandai kata keterangan (sudah, sedang, akan). Afiks (me-, di-, ber-, -kan, -i) mengubah makna dan valensi.','Reduplikasi (anak-anak, jalan-jalan).',
+ 'Anda, Bapak/Ibu (formal) vs kamu, kau (informal); bahasa gaul kota (gue/lo di Jakarta).','Bahasa baku vs ragam lisan regional; ratusan bahasa daerah memengaruhi aksen dan kosakata.',
+ 'Sapaan Bapak/Ibu untuk orang yang lebih tua atau dihormati sangat penting.')
+add('ms','Melayu (Malaysia)','Bahasa Melayu','Austronesia › Melayu-Polinesia','Latin (Rumi); juga Jawi (berbasis Arab)','ms-MY',
+ 'Mirip bahasa Indonesia. Di banyak dialek Semenanjung, -a di akhir kata dilafalkan mendekati [ə] (saya → "saye").',
+ 'SVO.','Tidak ada gender gramatikal.','Tidak ada kasus.','Tidak ada artikel.',
+ 'Seperti bahasa Indonesia: tanpa konjugasi; afiks me-, di-, ber-, -kan, -i.','Banyak kata berbeda dari bahasa Indonesia meski tampak mirip (kereta = mobil, semalam = kemarin).',
+ 'anda/tuan/puan (formal) vs awak, kau (informal).','Malaysia, Brunei, Singapura (bahasa Melayu standar); dialek negeri (Kelantan, Kedah, dll.).',
+ 'Saat menunjuk, banyak orang Malaysia memakai ibu jari, bukan telunjuk, karena dianggap lebih sopan.')
+add('ja','Jepang','日本語','Japonik','Campuran kanji, hiragana, katakana','ja-JP',
+ 'Ketukan (mora) yang teratur; vokal panjang dan konsonan ganda membedakan makna (obasan vs obāsan). Aksen nada (tinggi–rendah), bukan tekanan. u dan i sering melemah (desu → "des").',
+ 'SOV; partikel menandai fungsi (は topik, が subjek, を objek, に/へ arah).','Tidak ada gender gramatikal.','Tidak ada kasus infleksi; fungsi ditandai partikel.','Tidak ada artikel.',
+ 'Kata kerja berubah menurut kesopanan (bentuk biasa vs ます), kala (lampau/non-lampau), negasi. Kata sifat juga berkonjugasi (い/な).','Sistem kehormatan (keigo): sonkeigo, kenjōgo, teineigo.',
+ 'Bentuk sopan (です/ます) untuk orang yang belum akrab; bentuk biasa untuk teman dekat.','Jepang standar (berbasis Tokyo) vs dialek seperti Kansai-ben.',
+ 'Membungkuk (ojigi) sebagai salam; panggil orang dengan nama keluarga + さん.')
+add('ko','Korea','한국어','Koreanik','Hangeul (alfabet berbentuk suku kata)','ko-KR',
+ 'Tiga jenis konsonan hambat: lunak (ㄱ), tegang (ㄲ), beraspirasi (ㅋ). Banyak perubahan bunyi antar suku kata (asimilasi). Tidak ada tekanan kata yang kuat.',
+ 'SOV; partikel menandai fungsi (은/는 topik, 이/가 subjek, 을/를 objek).','Tidak ada gender gramatikal.','Tidak ada kasus infleksi; fungsi ditandai partikel.','Tidak ada artikel.',
+ 'Kata kerja dan kata sifat berakhiran -다 dalam bentuk kamus; akhiran menandai kala dan tingkat tutur (해요체, 합쇼체, 반말).','Dua sistem angka: Sino-Korea dan asli Korea.',
+ 'Tingkat tutur: 반말 (akrab), 해요체 (sopan umum), 합쇼체 (formal).','Korea standar (Seoul) vs dialek seperti Gyeongsang dan Jeolla; Korea Utara memiliki norma sendiri.',
+ 'Usia dan senioritas memengaruhi cara bicara; terima barang dari orang lebih tua dengan dua tangan.')
+add('zh','Mandarin','普通话 / 中文','Sino-Tibet › Sinitik','Hanzi (aplikasi ini memakai aksara sederhana) + pinyin','zh-CN',
+ 'Empat nada + nada netral membedakan makna (mā 妈, má 麻, mǎ 马, mà 骂). Inisial retrofleks (zh ch sh r) vs alveolar (z c s) vs palatal (j q x).',
+ 'SVO; keterangan waktu/tempat sebelum kata kerja.','Tidak ada gender gramatikal.','Tidak ada kasus.','Tidak ada artikel; kata penggolong (量词) wajib dengan angka (一个人, 一本书).',
+ 'Kata kerja tidak berkonjugasi; aspek ditandai partikel (了, 过, 着).','Partikel akhir kalimat (吗 tanya, 吧 saran, 呢).',
+ '你 (umum) vs 您 (hormat).','Mandarin standar (Putonghua) vs Taiwan (Guoyu, aksara tradisional); bahasa Sinitik lain (Kanton, Hokkien) bukan dialek yang saling dimengerti.',
+ 'Memberi dan menerima kartu nama atau hadiah dengan dua tangan dianggap sopan.')
+add('th','Thai','ภาษาไทย','Kra-Dai › Tai','Aksara Thai (abugida; tanpa spasi antarkata)','th-TH',
+ 'Lima nada (tengah, rendah, turun, tinggi, naik) — ditentukan kombinasi kelas konsonan, tanda nada dan jenis suku kata. Konsonan beraspirasi vs tidak. Vokal panjang–pendek.',
+ 'SVO; kata sifat sesudah kata benda.','Tidak ada gender gramatikal (tetapi partikel sopan berbeda menurut penutur: ครับ pria, ค่ะ/คะ wanita).','Tidak ada kasus.','Tidak ada artikel; kata penggolong dipakai dengan angka.',
+ 'Kata kerja tidak berkonjugasi; waktu ditandai kata keterangan atau partikel (แล้ว, จะ).','Spasi dipakai antarkalimat, bukan antarkata.',
+ 'Partikel sopan ครับ/ค่ะ di akhir kalimat; kata ganti bervariasi menurut gender dan status.','Thai Tengah (standar), Isan (dekat dengan Lao), Utara (Lanna), Selatan.',
+ 'Salam wai (telapak tangan dirapatkan). Kepala dianggap bagian tubuh yang dihormati; jangan menyentuh kepala orang lain.')
+add('vi','Vietnam','Tiếng Việt','Austroasia › Vietik','Latin (Quốc ngữ) dengan banyak diakritik','vi-VN',
+ 'Enam nada di Vietnam Utara (ngang, huyền, sắc, hỏi, ngã, nặng); di Selatan hỏi dan ngã umumnya menyatu. Diakritik menunjukkan nada dan kualitas vokal (ă â ê ô ơ ư).',
+ 'SVO; kata sifat sesudah kata benda.','Tidak ada gender gramatikal.','Tidak ada kasus.','Tidak ada artikel; kata penggolong (cái, con) dipakai.',
+ 'Kata kerja tidak berkonjugasi; waktu ditandai đã (lampau), đang (sedang), sẽ (akan).','Sebagian besar kata bersuku satu; kata majemuk banyak.',
+ 'Kata ganti ditentukan relasi usia/status (anh, chị, em, ông, bà, cô, chú…).','Utara (Hà Nội, standar), Tengah (Huế), Selatan (Sài Gòn) — beda nada, bunyi dan kosakata.',
+ 'Memilih kata ganti yang tepat menunjukkan rasa hormat; bertanya usia di awal perkenalan cukup umum untuk menentukan sapaan.')
+json.dump(L,open('../data/languages.json','w'),ensure_ascii=False,indent=0)
+print(len(L))

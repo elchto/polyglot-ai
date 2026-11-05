@@ -1,0 +1,17 @@
+{
+  "name": "POLYGLOT AI — Learn Every Language",
+  "short_name": "POLYGLOT AI",
+  "description": "Learn Every Language. Unlock Every World. Belajar 22 bahasa dengan SRS, tata bahasa, listening, pelafalan, simulasi, dan tutor AI.",
+  "lang": "id",
+  "start_url": "./#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070a1a",
+  "theme_color": "#070a1a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

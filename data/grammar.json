@@ -1,0 +1,1745 @@
+[
+{
+"lang": "en",
+"id": "en-present-simple",
+"title": "Present Simple vs Present Continuous",
+"level": "A1",
+"cat": "Kala (tenses)",
+"explain": "Present Simple untuk kebiasaan, fakta, jadwal. Present Continuous untuk hal yang sedang terjadi sekarang atau situasi sementara.",
+"formula": "Simple: S + V1 (+s/es untuk he/she/it) · Continuous: S + am/is/are + V-ing",
+"examples": [
+{
+"t": "She works in a bank.",
+"tr": "Dia bekerja di bank (kebiasaan/fakta)."
+},
+{
+"t": "She is working from home this week.",
+"tr": "Minggu ini dia sedang bekerja dari rumah (sementara)."
+},
+{
+"t": "Water boils at 100 °C.",
+"tr": "Air mendidih pada 100 °C (fakta)."
+}
+],
+"mistakes": [
+"Lupa -s pada orang ke-3 tunggal: ✗ \"He work\" → ✓ \"He works\".",
+"Memakai continuous untuk kata kerja keadaan: ✗ \"I am knowing\" → ✓ \"I know\"."
+],
+"exercises": [
+{
+"q": "Pilih yang benar: \"Listen! The baby ___.\"",
+"o": [
+"cries",
+"is crying",
+"cry"
+],
+"a": 1,
+"why": "\"Listen!\" menandakan sedang terjadi sekarang → Present Continuous."
+},
+{
+"q": "\"He ___ coffee every morning.\"",
+"o": [
+"drink",
+"drinks",
+"is drinking"
+],
+"a": 1,
+"why": "Kebiasaan (every morning) + he → Present Simple dengan -s."
+},
+{
+"q": "\"I ___ the answer.\"",
+"o": [
+"know",
+"am knowing",
+"knows"
+],
+"a": 0,
+"why": "\"know\" adalah kata kerja keadaan (stative), biasanya tidak dipakai dalam bentuk -ing."
+}
+]
+},
+{
+"lang": "en",
+"id": "en-articles",
+"title": "Artikel a / an / the",
+"level": "A1",
+"cat": "Artikel",
+"explain": "a/an untuk benda tunggal yang dapat dihitung dan disebut pertama kali atau tidak spesifik; the untuk benda yang sudah jelas/spesifik bagi pendengar. an dipakai sebelum BUNYI vokal, bukan huruf vokal.",
+"formula": "a + bunyi konsonan · an + bunyi vokal · the + benda spesifik",
+"examples": [
+{
+"t": "I saw a dog. The dog was huge.",
+"tr": "Saya melihat seekor anjing. Anjing itu besar."
+},
+{
+"t": "an hour",
+"tr": "sejam (h tidak dibaca → bunyi vokal)"
+},
+{
+"t": "a university",
+"tr": "sebuah universitas (u dibaca /juː/ → bunyi konsonan)"
+}
+],
+"mistakes": [
+"✗ \"an university\" → ✓ \"a university\".",
+"Memakai artikel untuk benda jamak tak spesifik: ✗ \"I like the cats\" (umum) → ✓ \"I like cats\"."
+],
+"exercises": [
+{
+"q": "\"She is ___ honest person.\"",
+"o": [
+"a",
+"an",
+"the"
+],
+"a": 1,
+"why": "\"honest\" diawali bunyi vokal (h tidak dibaca) → an."
+},
+{
+"q": "\"Can you close ___ door, please?\" (pintu di ruangan ini)",
+"o": [
+"a",
+"an",
+"the"
+],
+"a": 2,
+"why": "Pintu yang jelas bagi kedua pihak → the."
+},
+{
+"q": "\"I need ___ umbrella.\"",
+"o": [
+"a",
+"an",
+"the"
+],
+"a": 1,
+"why": "\"umbrella\" diawali bunyi vokal → an."
+}
+]
+},
+{
+"lang": "en",
+"id": "en-past-simple",
+"title": "Past Simple vs Present Perfect",
+"level": "A2",
+"cat": "Kala (tenses)",
+"explain": "Past Simple untuk kejadian selesai pada waktu tertentu di masa lalu. Present Perfect menghubungkan masa lalu dengan sekarang (pengalaman, hasil, belum selesai), tanpa waktu spesifik.",
+"formula": "Past: S + V2 · Perfect: S + have/has + V3",
+"examples": [
+{
+"t": "I visited Rome in 2019.",
+"tr": "Saya mengunjungi Roma tahun 2019."
+},
+{
+"t": "I have visited Rome twice.",
+"tr": "Saya sudah dua kali ke Roma (pengalaman)."
+},
+{
+"t": "She has lost her keys.",
+"tr": "Dia kehilangan kuncinya (dan sekarang masih hilang)."
+}
+],
+"mistakes": [
+"✗ \"I have seen him yesterday\" → ✓ \"I saw him yesterday\" (waktu spesifik → Past Simple)."
+],
+"exercises": [
+{
+"q": "\"I ___ that film last week.\"",
+"o": [
+"have watched",
+"watched",
+"watch"
+],
+"a": 1,
+"why": "\"last week\" = waktu spesifik selesai → Past Simple."
+},
+{
+"q": "\"___ you ever been to Japan?\"",
+"o": [
+"Did",
+"Have",
+"Were"
+],
+"a": 1,
+"why": "Pengalaman seumur hidup dengan \"ever\" → Present Perfect."
+},
+{
+"q": "\"She ___ here since 2020.\"",
+"o": [
+"lives",
+"has lived",
+"lived"
+],
+"a": 1,
+"why": "\"since\" + masih berlangsung → Present Perfect."
+}
+]
+},
+{
+"lang": "en",
+"id": "en-conditionals",
+"title": "Kalimat Pengandaian (First & Second Conditional)",
+"level": "B1",
+"cat": "Kalimat kompleks",
+"explain": "First conditional: kemungkinan nyata di masa depan. Second conditional: situasi khayalan/tidak mungkin di masa kini atau masa depan.",
+"formula": "1st: If + present, will + V1 · 2nd: If + past, would + V1",
+"examples": [
+{
+"t": "If it rains, we will stay home.",
+"tr": "Kalau hujan, kami akan di rumah."
+},
+{
+"t": "If I had more time, I would learn Japanese.",
+"tr": "Seandainya saya punya lebih banyak waktu, saya akan belajar bahasa Jepang."
+},
+{
+"t": "If I were you, I would call her.",
+"tr": "Kalau saya jadi kamu, saya akan meneleponnya."
+}
+],
+"mistakes": [
+"✗ \"If it will rain…\" → ✓ \"If it rains…\" (tidak memakai will di anak kalimat if)."
+],
+"exercises": [
+{
+"q": "\"If I ___ rich, I would travel the world.\"",
+"o": [
+"am",
+"were",
+"will be"
+],
+"a": 1,
+"why": "Second conditional (khayalan) → past: were."
+},
+{
+"q": "\"If you heat ice, it ___.\"",
+"o": [
+"melts",
+"would melt",
+"melted"
+],
+"a": 0,
+"why": "Fakta umum (zero conditional) → present + present."
+},
+{
+"q": "\"If she calls, I ___ you.\"",
+"o": [
+"tell",
+"will tell",
+"would tell"
+],
+"a": 1,
+"why": "Kemungkinan nyata → will + V1."
+}
+]
+},
+{
+"lang": "en",
+"id": "en-passive",
+"title": "Kalimat Pasif",
+"level": "B1",
+"cat": "Struktur kalimat",
+"explain": "Pasif dipakai ketika pelaku tidak penting/tidak diketahui atau fokus pada objek. Bentuk be mengikuti kala.",
+"formula": "Objek + be (sesuai kala) + V3 (+ by pelaku)",
+"examples": [
+{
+"t": "The bridge was built in 1932.",
+"tr": "Jembatan itu dibangun tahun 1932."
+},
+{
+"t": "English is spoken here.",
+"tr": "Bahasa Inggris dipakai di sini."
+},
+{
+"t": "The report will be sent tomorrow.",
+"tr": "Laporan akan dikirim besok."
+}
+],
+"mistakes": [
+"Memakai V2 bukan V3: ✗ \"was wrote\" → ✓ \"was written\"."
+],
+"exercises": [
+{
+"q": "\"The letters ___ yesterday.\"",
+"o": [
+"sent",
+"were sent",
+"was sent"
+],
+"a": 1,
+"why": "Jamak (letters) + lampau → were + V3."
+},
+{
+"q": "\"This song ___ by millions of people.\"",
+"o": [
+"is loved",
+"loves",
+"is loving"
+],
+"a": 0,
+"why": "Pasif kala kini → is + V3."
+}
+]
+},
+{
+"lang": "it",
+"id": "it-articoli",
+"title": "Artikel Tentu (il, lo, la, l', i, gli, le)",
+"level": "A1",
+"cat": "Artikel",
+"explain": "Bentuk artikel tentu ditentukan oleh gender, jumlah dan bunyi awal kata berikutnya.",
+"formula": "m. tunggal: il (umum) · lo (s+konsonan, z, gn, ps, y) · l' (vokal) · m. jamak: i / gli · f.: la / l' · f. jamak: le",
+"examples": [
+{
+"t": "il libro → i libri",
+"tr": "buku → buku-buku"
+},
+{
+"t": "lo studente → gli studenti",
+"tr": "mahasiswa → para mahasiswa"
+},
+{
+"t": "l'amica → le amiche",
+"tr": "teman (pr.) → teman-teman (pr.)"
+}
+],
+"mistakes": [
+"✗ \"il studente\" → ✓ \"lo studente\".",
+"✗ \"i amici\" → ✓ \"gli amici\"."
+],
+"exercises": [
+{
+"q": "___ zaino (tas ransel)",
+"o": [
+"il",
+"lo",
+"la"
+],
+"a": 1,
+"why": "Kata maskulin diawali z → lo."
+},
+{
+"q": "___ amici",
+"o": [
+"i",
+"gli",
+"le"
+],
+"a": 1,
+"why": "Maskulin jamak diawali vokal → gli."
+},
+{
+"q": "___ casa",
+"o": [
+"il",
+"la",
+"l'"
+],
+"a": 1,
+"why": "Feminin tunggal diawali konsonan → la."
+}
+]
+},
+{
+"lang": "it",
+"id": "it-presente",
+"title": "Presente: kata kerja -are, -ere, -ire",
+"level": "A1",
+"cat": "Konjugasi",
+"explain": "Kata kerja beraturan dibagi tiga kelompok. Subjek sering dihilangkan karena akhiran sudah menunjukkan pelaku.",
+"formula": "parlare: parlo, parli, parla, parliamo, parlate, parlano · vedere: vedo, vedi, vede, vediamo, vedete, vedono · dormire: dormo, dormi, dorme, dormiamo, dormite, dormono",
+"examples": [
+{
+"t": "Parlo italiano.",
+"tr": "Saya berbicara bahasa Italia."
+},
+{
+"t": "Vediamo un film.",
+"tr": "Kami menonton film."
+},
+{
+"t": "Dormono molto.",
+"tr": "Mereka tidur banyak."
+}
+],
+"mistakes": [
+"Menambahkan subjek terus-menerus (io parlo) tidak salah tetapi terdengar menekankan.",
+"Sebagian kata kerja -ire memakai -isc- (capire → capisco)."
+],
+"exercises": [
+{
+"q": "Noi ___ (parlare) inglese.",
+"o": [
+"parliamo",
+"parlate",
+"parlano"
+],
+"a": 0,
+"why": "noi + -are → -iamo."
+},
+{
+"q": "Loro ___ (vedere) il mare.",
+"o": [
+"vedete",
+"vedono",
+"vede"
+],
+"a": 1,
+"why": "loro + -ere → -ono."
+},
+{
+"q": "Io ___ (capire).",
+"o": [
+"capo",
+"capisco",
+"capisce"
+],
+"a": 1,
+"why": "capire memakai -isc-: io capisco."
+}
+]
+},
+{
+"lang": "it",
+"id": "it-passato-prossimo",
+"title": "Passato prossimo (avere / essere)",
+"level": "A2",
+"cat": "Kala (tenses)",
+"explain": "Lampau yang selesai. Kebanyakan kata kerja memakai avere; kata kerja gerak/perubahan keadaan dan refleksif memakai essere, dan partisipnya menyesuaikan gender/jumlah subjek.",
+"formula": "avere/essere (presente) + participio passato",
+"examples": [
+{
+"t": "Ho mangiato una pizza.",
+"tr": "Saya (sudah) makan pizza."
+},
+{
+"t": "Maria è andata a Roma.",
+"tr": "Maria pergi ke Roma."
+},
+{
+"t": "Ci siamo svegliati presto.",
+"tr": "Kami bangun pagi-pagi."
+}
+],
+"mistakes": [
+"✗ \"Ho andato\" → ✓ \"Sono andato/a\".",
+"Lupa persesuaian dengan essere: ✗ \"Lei è andato\" → ✓ \"Lei è andata\"."
+],
+"exercises": [
+{
+"q": "Ieri (io) ___ al cinema.",
+"o": [
+"ho andato",
+"sono andato",
+"ho andata"
+],
+"a": 1,
+"why": "andare memakai essere; penutur pria → sono andato (penutur wanita: sono andata)."
+},
+{
+"q": "Noi ___ la cena.",
+"o": [
+"abbiamo preparato",
+"siamo preparati",
+"abbiamo preparata"
+],
+"a": 0,
+"why": "preparare transitif → avere; partisip tidak berubah."
+}
+]
+},
+{
+"lang": "es",
+"id": "es-ser-estar",
+"title": "Ser vs Estar",
+"level": "A1",
+"cat": "Kata kerja dasar",
+"explain": "Keduanya berarti \"adalah\". Ser untuk identitas, asal, profesi, ciri tetap, waktu. Estar untuk lokasi, keadaan sementara, emosi, hasil.",
+"formula": "ser: soy, eres, es, somos, sois, son · estar: estoy, estás, está, estamos, estáis, están",
+"examples": [
+{
+"t": "Soy de Indonesia.",
+"tr": "Saya dari Indonesia (asal)."
+},
+{
+"t": "Estoy cansado.",
+"tr": "Saya capek (keadaan)."
+},
+{
+"t": "Madrid está en España.",
+"tr": "Madrid ada di Spanyol (lokasi)."
+}
+],
+"mistakes": [
+"✗ \"Soy en casa\" → ✓ \"Estoy en casa\".",
+"Arti berubah: \"es aburrido\" (membosankan) vs \"está aburrido\" (sedang bosan)."
+],
+"exercises": [
+{
+"q": "Mi hermana ___ médica.",
+"o": [
+"es",
+"está"
+],
+"a": 0,
+"why": "Profesi → ser."
+},
+{
+"q": "¿Dónde ___ el baño?",
+"o": [
+"es",
+"está"
+],
+"a": 1,
+"why": "Lokasi → estar."
+},
+{
+"q": "Hoy ___ muy contentos.",
+"o": [
+"somos",
+"estamos"
+],
+"a": 1,
+"why": "Emosi/keadaan sementara → estar."
+}
+]
+},
+{
+"lang": "es",
+"id": "es-genero",
+"title": "Gender & Persesuaian",
+"level": "A1",
+"cat": "Kata benda & sifat",
+"explain": "Setiap kata benda maskulin atau feminin. Umumnya -o maskulin dan -a feminin, tetapi ada pengecualian. Artikel dan kata sifat menyesuaikan gender dan jumlah.",
+"formula": "el/un + m. · la/una + f. · kata sifat: -o/-a/-os/-as",
+"examples": [
+{
+"t": "el libro rojo",
+"tr": "buku merah"
+},
+{
+"t": "la casa blanca",
+"tr": "rumah putih"
+},
+{
+"t": "el día / la mano",
+"tr": "hari (m.) / tangan (f.) — pengecualian"
+}
+],
+"mistakes": [
+"✗ \"la problema\" → ✓ \"el problema\" (kata -ma dari Yunani sering maskulin)."
+],
+"exercises": [
+{
+"q": "___ mano",
+"o": [
+"el",
+"la"
+],
+"a": 1,
+"why": "mano adalah pengecualian: feminin."
+},
+{
+"q": "Las casas son ___.",
+"o": [
+"blanco",
+"blancas",
+"blanca"
+],
+"a": 1,
+"why": "Feminin jamak → -as."
+}
+]
+},
+{
+"lang": "es",
+"id": "es-preterito",
+"title": "Pretérito indefinido vs imperfecto",
+"level": "B1",
+"cat": "Kala (tenses)",
+"explain": "Indefinido untuk aksi selesai pada titik waktu tertentu. Imperfecto untuk latar, kebiasaan di masa lalu, deskripsi, atau aksi yang sedang berlangsung.",
+"formula": "hablar → hablé (indef.) / hablaba (imperf.) · comer → comí / comía",
+"examples": [
+{
+"t": "Ayer comí paella.",
+"tr": "Kemarin saya makan paella."
+},
+{
+"t": "De niño, comía mucha fruta.",
+"tr": "Waktu kecil, saya (biasa) makan banyak buah."
+},
+{
+"t": "Leía cuando sonó el teléfono.",
+"tr": "Saya sedang membaca ketika telepon berbunyi."
+}
+],
+"mistakes": [
+"Memakai indefinido untuk kebiasaan: ✗ \"Cada verano fui a la playa\" (jika maksudnya kebiasaan) → ✓ \"iba\"."
+],
+"exercises": [
+{
+"q": "Cuando era pequeño, ___ en Bali.",
+"o": [
+"viví",
+"vivía"
+],
+"a": 1,
+"why": "Latar/keadaan berlangsung di masa lalu → imperfecto."
+},
+{
+"q": "El año pasado ___ a México.",
+"o": [
+"fui",
+"iba"
+],
+"a": 0,
+"why": "Peristiwa selesai pada waktu tertentu → indefinido."
+}
+]
+},
+{
+"lang": "fr",
+"id": "fr-articles",
+"title": "Artikel tentu, tak tentu & partitif",
+"level": "A1",
+"cat": "Artikel",
+"explain": "Bahasa Prancis hampir selalu memakai artikel. Partitif (du, de la, de l') untuk jumlah tak tentu dari benda tak terhitung. Setelah negasi, un/une/des/du/de la menjadi de/d'.",
+"formula": "le/la/l'/les · un/une/des · du/de la/de l'/des · negasi: pas de",
+"examples": [
+{
+"t": "Je bois du café.",
+"tr": "Saya minum kopi (sejumlah)."
+},
+{
+"t": "J'aime le café.",
+"tr": "Saya suka kopi (secara umum)."
+},
+{
+"t": "Je n'ai pas de voiture.",
+"tr": "Saya tidak punya mobil."
+}
+],
+"mistakes": [
+"✗ \"Je n'ai pas une voiture\" (umumnya) → ✓ \"pas de voiture\".",
+"✗ \"J'aime du café\" → ✓ \"J'aime le café\" (preferensi umum memakai artikel tentu)."
+],
+"exercises": [
+{
+"q": "Je mange ___ pain.",
+"o": [
+"le",
+"du",
+"de"
+],
+"a": 1,
+"why": "Jumlah tak tentu → partitif du."
+},
+{
+"q": "Il n'y a pas ___ lait.",
+"o": [
+"du",
+"de",
+"le"
+],
+"a": 1,
+"why": "Setelah negasi → de."
+},
+{
+"q": "J'adore ___ musique.",
+"o": [
+"la",
+"de la",
+"une"
+],
+"a": 0,
+"why": "Preferensi umum → artikel tentu."
+}
+]
+},
+{
+"lang": "fr",
+"id": "fr-passe-compose",
+"title": "Passé composé (avoir / être)",
+"level": "A2",
+"cat": "Kala (tenses)",
+"explain": "Lampau untuk aksi selesai. Kebanyakan kata kerja memakai avoir; kata kerja gerak tertentu (aller, venir, partir, arriver, naître, mourir…) dan kata kerja refleksif memakai être dengan persesuaian partisip.",
+"formula": "avoir/être (présent) + participe passé",
+"examples": [
+{
+"t": "J'ai fini mes devoirs.",
+"tr": "Saya sudah menyelesaikan PR."
+},
+{
+"t": "Elle est partie hier.",
+"tr": "Dia (pr.) berangkat kemarin."
+},
+{
+"t": "Nous nous sommes levés tôt.",
+"tr": "Kami bangun pagi."
+}
+],
+"mistakes": [
+"✗ \"J'ai allé\" → ✓ \"Je suis allé(e)\"."
+],
+"exercises": [
+{
+"q": "Hier, ils ___ au cinéma.",
+"o": [
+"ont allé",
+"sont allés",
+"sont allé"
+],
+"a": 1,
+"why": "aller → être; subjek maskulin jamak → allés."
+},
+{
+"q": "Tu ___ ton café ?",
+"o": [
+"as bu",
+"es bu",
+"as boire"
+],
+"a": 0,
+"why": "boire transitif → avoir + bu."
+}
+]
+},
+{
+"lang": "fr",
+"id": "fr-negation",
+"title": "Negasi ne … pas",
+"level": "A1",
+"cat": "Negasi",
+"explain": "Negasi standar mengapit kata kerja terkonjugasi: ne (n' sebelum vokal) + verba + pas. Dalam percakapan santai, ne sering dihilangkan.",
+"formula": "S + ne + V + pas (+ ...) · n' sebelum vokal",
+"examples": [
+{
+"t": "Je ne parle pas allemand.",
+"tr": "Saya tidak berbicara bahasa Jerman."
+},
+{
+"t": "Il n'aime pas le thé.",
+"tr": "Dia tidak suka teh."
+},
+{
+"t": "Je n'ai jamais vu Paris.",
+"tr": "Saya belum pernah melihat Paris."
+}
+],
+"mistakes": [
+"✗ \"Je ne pas parle\" → ✓ \"Je ne parle pas\"."
+],
+"exercises": [
+{
+"q": "Nous ___ comprenons ___.",
+"o": [
+"ne … pas",
+"pas … ne",
+"n' … pas"
+],
+"a": 0,
+"why": "comprenons diawali konsonan → ne … pas."
+},
+{
+"q": "Elle ___ habite ___ ici.",
+"o": [
+"ne … pas",
+"n' … pas",
+"pas … ne"
+],
+"a": 1,
+"why": "habite diawali h bisu (vokal) → n'."
+}
+]
+},
+{
+"lang": "de",
+"id": "de-v2",
+"title": "Posisi kata kerja (V2 & akhir kalimat)",
+"level": "A1",
+"cat": "Urutan kata",
+"explain": "Dalam kalimat utama, kata kerja terkonjugasi selalu di posisi kedua, walau yang pertama adalah keterangan. Dalam anak kalimat (weil, dass, wenn), kata kerja terkonjugasi pindah ke akhir.",
+"formula": "Pos.1 (apa saja) + VERB + … · Anak kalimat: Konjungsi + S + … + VERB",
+"examples": [
+{
+"t": "Heute gehe ich ins Kino.",
+"tr": "Hari ini saya pergi ke bioskop."
+},
+{
+"t": "Ich bleibe zu Hause, weil ich müde bin.",
+"tr": "Saya di rumah karena saya capek."
+},
+{
+"t": "Ich weiß, dass er Deutsch spricht.",
+"tr": "Saya tahu bahwa dia berbahasa Jerman."
+}
+],
+"mistakes": [
+"✗ \"Heute ich gehe…\" → ✓ \"Heute gehe ich…\".",
+"✗ \"…weil ich bin müde\" → ✓ \"…weil ich müde bin\"."
+],
+"exercises": [
+{
+"q": "Morgen ___ wir nach Berlin.",
+"o": [
+"wir fahren",
+"fahren",
+"fahren wir nach"
+],
+"a": 1,
+"why": "Kata kerja di posisi 2 setelah \"Morgen\": Morgen fahren wir…"
+},
+{
+"q": "Ich lerne Deutsch, weil ich in Wien ___.",
+"o": [
+"arbeite",
+"arbeite ich",
+"ich arbeite"
+],
+"a": 0,
+"why": "Dalam anak kalimat dengan weil, kata kerja di akhir: weil ich in Wien arbeite."
+}
+]
+},
+{
+"lang": "de",
+"id": "de-akkusativ",
+"title": "Akkusativ (objek langsung)",
+"level": "A1",
+"cat": "Kasus",
+"explain": "Objek langsung memakai Akkusativ. Hanya artikel maskulin yang berubah: der → den, ein → einen. Feminin, netral dan jamak tetap.",
+"formula": "m.: den/einen · f.: die/eine · n.: das/ein · pl.: die/–",
+"examples": [
+{
+"t": "Ich habe einen Bruder.",
+"tr": "Saya punya seorang saudara laki-laki."
+},
+{
+"t": "Sie kauft den Apfel.",
+"tr": "Dia membeli apel itu."
+},
+{
+"t": "Wir sehen das Haus.",
+"tr": "Kami melihat rumah itu."
+}
+],
+"mistakes": [
+"✗ \"Ich habe ein Hund\" → ✓ \"Ich habe einen Hund\"."
+],
+"exercises": [
+{
+"q": "Ich trinke ___ Kaffee. (der Kaffee)",
+"o": [
+"der",
+"den",
+"dem"
+],
+"a": 1,
+"why": "Objek langsung maskulin → den."
+},
+{
+"q": "Er liest ___ Buch. (das Buch)",
+"o": [
+"das",
+"den",
+"dem"
+],
+"a": 0,
+"why": "Netral tidak berubah di Akkusativ."
+},
+{
+"q": "Wir brauchen ___ Tisch. (der Tisch)",
+"o": [
+"ein",
+"einen",
+"einem"
+],
+"a": 1,
+"why": "Maskulin tak tentu Akkusativ → einen."
+}
+]
+},
+{
+"lang": "de",
+"id": "de-perfekt",
+"title": "Perfekt (haben / sein)",
+"level": "A2",
+"cat": "Kala (tenses)",
+"explain": "Lampau yang paling umum dalam percakapan. Kebanyakan kata kerja memakai haben; kata kerja gerak/perubahan keadaan (gehen, fahren, kommen, werden) memakai sein. Partisip II di akhir kalimat.",
+"formula": "haben/sein (konjugasi) + … + Partizip II (ge-…-t / ge-…-en)",
+"examples": [
+{
+"t": "Ich habe Pizza gegessen.",
+"tr": "Saya (sudah) makan pizza."
+},
+{
+"t": "Wir sind nach Hamburg gefahren.",
+"tr": "Kami pergi (berkendara) ke Hamburg."
+},
+{
+"t": "Hast du gut geschlafen?",
+"tr": "Apakah kamu tidur nyenyak?"
+}
+],
+"mistakes": [
+"✗ \"Ich habe gegangen\" → ✓ \"Ich bin gegangen\"."
+],
+"exercises": [
+{
+"q": "Er ___ gestern spät nach Hause gekommen.",
+"o": [
+"hat",
+"ist"
+],
+"a": 1,
+"why": "kommen = gerak → sein."
+},
+{
+"q": "Wir ___ einen Film gesehen.",
+"o": [
+"haben",
+"sind"
+],
+"a": 0,
+"why": "sehen transitif → haben."
+}
+]
+},
+{
+"lang": "pt",
+"id": "pt-ser-estar",
+"title": "Ser vs Estar",
+"level": "A1",
+"cat": "Kata kerja dasar",
+"explain": "Mirip bahasa Spanyol: ser untuk identitas/ciri tetap/asal; estar untuk keadaan sementara dan lokasi benda yang bisa berpindah. Lokasi tetap (kota, bangunan) sering dengan ser atau ficar.",
+"formula": "ser: sou, é, somos, são · estar: estou, está, estamos, estão (bentuk você)",
+"examples": [
+{
+"t": "Eu sou brasileiro.",
+"tr": "Saya orang Brasil."
+},
+{
+"t": "Estou com fome.",
+"tr": "Saya lapar."
+},
+{
+"t": "Onde fica o hotel?",
+"tr": "Di mana hotelnya (letaknya)?"
+}
+],
+"mistakes": [
+"✗ \"Sou cansado\" (maksud: sedang capek) → ✓ \"Estou cansado\"."
+],
+"exercises": [
+{
+"q": "Ela ___ professora.",
+"o": [
+"é",
+"está"
+],
+"a": 0,
+"why": "Profesi → ser."
+},
+{
+"q": "Nós ___ muito felizes hoje.",
+"o": [
+"somos",
+"estamos"
+],
+"a": 1,
+"why": "Emosi hari ini → estar."
+}
+]
+},
+{
+"lang": "pt",
+"id": "pt-artigos-preposicoes",
+"title": "Gabungan preposisi + artikel",
+"level": "A1",
+"cat": "Artikel",
+"explain": "Preposisi de, em, a, por bergabung dengan artikel tentu.",
+"formula": "de+o=do, de+a=da · em+o=no, em+a=na · a+a=à · por+o=pelo",
+"examples": [
+{
+"t": "Sou do Rio.",
+"tr": "Saya dari Rio."
+},
+{
+"t": "Ela está na escola.",
+"tr": "Dia di sekolah."
+},
+{
+"t": "Vou à praia.",
+"tr": "Saya pergi ke pantai."
+}
+],
+"mistakes": [
+"✗ \"em a casa\" → ✓ \"na casa\"."
+],
+"exercises": [
+{
+"q": "O livro está ___ mesa.",
+"o": [
+"em a",
+"na",
+"no"
+],
+"a": 1,
+"why": "em + a (mesa feminin) = na."
+},
+{
+"q": "Ele é ___ Brasil.",
+"o": [
+"de o",
+"do",
+"da"
+],
+"a": 1,
+"why": "de + o = do."
+}
+]
+},
+{
+"lang": "ja",
+"id": "ja-wa-ga",
+"title": "Partikel は (wa) dan が (ga)",
+"level": "A1",
+"cat": "Partikel",
+"explain": "は menandai topik (apa yang sedang dibicarakan); が menandai subjek gramatikal, sering untuk informasi baru, penekanan, atau dengan kata seperti 好き/ある/いる.",
+"formula": "Topik は Komentar · Subjek が Predikat",
+"examples": [
+{
+"t": "私は学生です。",
+"tr": "Saya (topik) adalah pelajar."
+},
+{
+"t": "猫がいます。",
+"tr": "Ada kucing (informasi baru)."
+},
+{
+"t": "誰が来ましたか？",
+"tr": "Siapa yang datang? (kata tanya sebagai subjek → が)"
+}
+],
+"mistakes": [
+"✗ \"誰は来ましたか\" → ✓ \"誰が来ましたか\" (kata tanya sebagai subjek memakai が)."
+],
+"exercises": [
+{
+"q": "私___日本語が好きです。",
+"o": [
+"は",
+"が",
+"を"
+],
+"a": 0,
+"why": "\"Saya\" sebagai topik → は; objek kesukaan memakai が."
+},
+{
+"q": "あそこに犬___います。",
+"o": [
+"は",
+"が",
+"を"
+],
+"a": 1,
+"why": "Keberadaan/info baru dengan います → が."
+},
+{
+"q": "何___ありますか？",
+"o": [
+"は",
+"が",
+"を"
+],
+"a": 1,
+"why": "Kata tanya sebagai subjek → が."
+}
+]
+},
+{
+"lang": "ja",
+"id": "ja-masu",
+"title": "Bentuk sopan ます",
+"level": "A1",
+"cat": "Konjugasi",
+"explain": "Bentuk ます dipakai dalam percakapan sopan. Kata kerja grup 1 (u): ubah akhiran -u → -i + ます; grup 2 (ru): hapus る + ます; tak beraturan: する→します, 来る→来ます.",
+"formula": "Positif: ～ます · Negatif: ～ません · Lampau: ～ました · Lampau negatif: ～ませんでした",
+"examples": [
+{
+"t": "毎日コーヒーを飲みます。",
+"tr": "Setiap hari saya minum kopi."
+},
+{
+"t": "昨日は寝ませんでした。",
+"tr": "Kemarin saya tidak tidur."
+},
+{
+"t": "明日、東京に行きます。",
+"tr": "Besok saya pergi ke Tokyo."
+}
+],
+"mistakes": [
+"✗ \"食べるます\" → ✓ \"食べます\" (grup 2: hapus る)."
+],
+"exercises": [
+{
+"q": "書く → ?",
+"o": [
+"書きます",
+"書くます",
+"書けます"
+],
+"a": 0,
+"why": "Grup 1: ku → ki + ます."
+},
+{
+"q": "見る → ? (negatif)",
+"o": [
+"見りません",
+"見ません",
+"見ないます"
+],
+"a": 1,
+"why": "Grup 2: hapus る + ません."
+},
+{
+"q": "する → ? (lampau)",
+"o": [
+"しました",
+"すました",
+"しませんでした"
+],
+"a": 0,
+"why": "Tak beraturan: します → しました."
+}
+]
+},
+{
+"lang": "ja",
+"id": "ja-wo-ni-de",
+"title": "Partikel を, に, で",
+"level": "A1",
+"cat": "Partikel",
+"explain": "を menandai objek langsung. に menandai tujuan, titik waktu, lokasi keberadaan (いる/ある). で menandai tempat terjadinya aksi atau alat/cara.",
+"formula": "Objek を V · Tujuan/waktu に · Tempat aksi/alat で",
+"examples": [
+{
+"t": "パンを食べます。",
+"tr": "Saya makan roti."
+},
+{
+"t": "七時に起きます。",
+"tr": "Saya bangun jam tujuh."
+},
+{
+"t": "図書館で勉強します。",
+"tr": "Saya belajar di perpustakaan."
+}
+],
+"mistakes": [
+"✗ \"図書館に勉強します\" → ✓ \"図書館で勉強します\" (tempat aksi → で)."
+],
+"exercises": [
+{
+"q": "レストラン___食べます。",
+"o": [
+"に",
+"で",
+"を"
+],
+"a": 1,
+"why": "Tempat aksi → で."
+},
+{
+"q": "駅___行きます。",
+"o": [
+"に",
+"で",
+"を"
+],
+"a": 0,
+"why": "Tujuan → に (atau へ)."
+},
+{
+"q": "バス___来ました。",
+"o": [
+"に",
+"で",
+"を"
+],
+"a": 1,
+"why": "Alat/cara → で."
+}
+]
+},
+{
+"lang": "ko",
+"id": "ko-particles",
+"title": "Partikel 은/는, 이/가, 을/를",
+"level": "A1",
+"cat": "Partikel",
+"explain": "Bentuk partikel tergantung apakah kata sebelumnya berakhiran konsonan (batchim) atau vokal. 은/는 topik/kontras; 이/가 subjek; 을/를 objek.",
+"formula": "Konsonan: 은 · 이 · 을 | Vokal: 는 · 가 · 를",
+"examples": [
+{
+"t": "저는 학생이에요.",
+"tr": "Saya pelajar."
+},
+{
+"t": "책이 있어요.",
+"tr": "Ada buku."
+},
+{
+"t": "사과를 먹어요.",
+"tr": "Saya makan apel."
+}
+],
+"mistakes": [
+"✗ \"책를\" → ✓ \"책을\" (책 berakhiran konsonan)."
+],
+"exercises": [
+{
+"q": "물___ 마셔요.",
+"o": [
+"을",
+"를"
+],
+"a": 0,
+"why": "물 berakhiran konsonan ㄹ → 을."
+},
+{
+"q": "친구___ 와요.",
+"o": [
+"이",
+"가"
+],
+"a": 1,
+"why": "친구 berakhiran vokal → 가."
+},
+{
+"q": "저___ 한국 사람이 아니에요.",
+"o": [
+"은",
+"는"
+],
+"a": 1,
+"why": "저 berakhiran vokal → 는."
+}
+]
+},
+{
+"lang": "ko",
+"id": "ko-haeyo",
+"title": "Akhiran sopan -아요/-어요",
+"level": "A1",
+"cat": "Konjugasi",
+"explain": "Tingkat tutur sopan sehari-hari. Ambil batang kata (hapus 다). Jika vokal terakhir ㅏ/ㅗ → -아요; selain itu → -어요; 하다 → 해요.",
+"formula": "ㅏ/ㅗ + 아요 · lainnya + 어요 · 하다 → 해요",
+"examples": [
+{
+"t": "가다 → 가요",
+"tr": "pergi (가 + 아요 → 가요, kontraksi)"
+},
+{
+"t": "먹다 → 먹어요",
+"tr": "makan"
+},
+{
+"t": "공부하다 → 공부해요",
+"tr": "belajar"
+}
+],
+"mistakes": [
+"✗ \"먹아요\" → ✓ \"먹어요\" (vokal ㅓ → 어요)."
+],
+"exercises": [
+{
+"q": "읽다 → ?",
+"o": [
+"읽아요",
+"읽어요",
+"읽해요"
+],
+"a": 1,
+"why": "Vokal ㅣ → 어요."
+},
+{
+"q": "살다 → ?",
+"o": [
+"살아요",
+"살어요",
+"사요"
+],
+"a": 0,
+"why": "Vokal ㅏ → 아요."
+},
+{
+"q": "일하다 → ?",
+"o": [
+"일하요",
+"일해요",
+"일어요"
+],
+"a": 1,
+"why": "하다 → 해요."
+}
+]
+},
+{
+"lang": "ko",
+"id": "ko-negation",
+"title": "Negasi 안 dan -지 않다",
+"level": "A1",
+"cat": "Negasi",
+"explain": "Dua cara negasi: 안 sebelum kata kerja (lebih lisan, pendek) atau batang + 지 않아요 (lebih netral/formal). Untuk 하다-kata kerja dengan kata benda, 안 masuk sebelum 하다.",
+"formula": "안 + V · V-batang + 지 않아요 · N 안 해요",
+"examples": [
+{
+"t": "안 가요.",
+"tr": "(Saya) tidak pergi."
+},
+{
+"t": "먹지 않아요.",
+"tr": "(Saya) tidak makan."
+},
+{
+"t": "공부 안 해요.",
+"tr": "(Saya) tidak belajar."
+}
+],
+"mistakes": [
+"✗ \"안 공부해요\" → ✓ \"공부 안 해요\"."
+],
+"exercises": [
+{
+"q": "운동하다 (negatif dengan 안)",
+"o": [
+"안 운동해요",
+"운동 안 해요"
+],
+"a": 1,
+"why": "Kata benda + 하다 → 안 masuk sebelum 하다."
+},
+{
+"q": "자다 (negatif dengan -지 않다)",
+"o": [
+"자지 않아요",
+"안 자지요"
+],
+"a": 0,
+"why": "Batang 자 + 지 않아요."
+}
+]
+},
+{
+"lang": "zh",
+"id": "zh-shi-de-ma",
+"title": "Kalimat dasar: 是, 吗, 不",
+"level": "A1",
+"cat": "Struktur kalimat",
+"explain": "是 menghubungkan dua kata benda (\"adalah\"); tidak dipakai sebelum kata sifat. 吗 di akhir mengubah pernyataan menjadi pertanyaan ya/tidak. 不 untuk negasi umum.",
+"formula": "A 是 B · Pernyataan + 吗？ · S + 很 + Adj",
+"examples": [
+{
+"t": "我是学生。",
+"tr": "Saya pelajar."
+},
+{
+"t": "你是老师吗？",
+"tr": "Apakah kamu guru?"
+},
+{
+"t": "她很高兴。",
+"tr": "Dia senang (kata sifat memakai 很, bukan 是)."
+}
+],
+"mistakes": [
+"✗ \"我是高兴\" → ✓ \"我很高兴\"."
+],
+"exercises": [
+{
+"q": "他___忙。 (Dia sibuk.)",
+"o": [
+"是",
+"很",
+"吗"
+],
+"a": 1,
+"why": "Kata sifat sebagai predikat biasanya memakai 很, bukan 是."
+},
+{
+"q": "你喝咖啡___？",
+"o": [
+"吗",
+"是",
+"不"
+],
+"a": 0,
+"why": "Pertanyaan ya/tidak → 吗 di akhir."
+}
+]
+},
+{
+"lang": "zh",
+"id": "zh-le",
+"title": "Partikel 了 (aspek selesai / perubahan)",
+"level": "A2",
+"cat": "Aspek",
+"explain": "了 setelah kata kerja menandai aksi sudah selesai. 了 di akhir kalimat menandai perubahan keadaan. Negasi aksi selesai memakai 没(有) tanpa 了.",
+"formula": "V + 了 (+ O) · Kalimat + 了 (perubahan) · 没 + V (negasi lampau)",
+"examples": [
+{
+"t": "我吃了饭。",
+"tr": "Saya sudah makan."
+},
+{
+"t": "下雨了。",
+"tr": "Hujan turun (sekarang hujan)."
+},
+{
+"t": "我没去。",
+"tr": "Saya tidak (jadi) pergi."
+}
+],
+"mistakes": [
+"✗ \"我没去了\" → ✓ \"我没去\".",
+"了 bukan penanda lampau murni: kebiasaan di masa lalu tidak memakai 了."
+],
+"exercises": [
+{
+"q": "昨天我___去学校。 (Kemarin saya tidak pergi ke sekolah.)",
+"o": [
+"不",
+"没",
+"了"
+],
+"a": 1,
+"why": "Negasi aksi yang tidak terjadi di masa lalu → 没."
+},
+{
+"q": "我买___三本书。",
+"o": [
+"了",
+"吗",
+"是"
+],
+"a": 0,
+"why": "Aksi selesai dengan objek bilangan → V + 了."
+}
+]
+},
+{
+"lang": "zh",
+"id": "zh-measure",
+"title": "Kata penggolong (量词)",
+"level": "A1",
+"cat": "Kata benda",
+"explain": "Angka atau 这/那 tidak bisa langsung diikuti kata benda; harus ada kata penggolong. 个 paling umum; ada yang khusus (本 untuk buku, 杯 untuk gelas, 张 untuk benda pipih).",
+"formula": "Angka/这/那 + Penggolong + Kata benda · 2 = 两 sebelum penggolong",
+"examples": [
+{
+"t": "一个人",
+"tr": "satu orang"
+},
+{
+"t": "两本书",
+"tr": "dua buku"
+},
+{
+"t": "三杯咖啡",
+"tr": "tiga gelas kopi"
+}
+],
+"mistakes": [
+"✗ \"二本书\" → ✓ \"两本书\".",
+"✗ \"一书\" → ✓ \"一本书\"."
+],
+"exercises": [
+{
+"q": "我有___本书。 (dua)",
+"o": [
+"二",
+"两"
+],
+"a": 1,
+"why": "Sebelum penggolong, 2 = 两."
+},
+{
+"q": "一___咖啡",
+"o": [
+"本",
+"杯",
+"张"
+],
+"a": 1,
+"why": "Minuman dalam gelas → 杯."
+}
+]
+},
+{
+"lang": "id",
+"id": "id-me-di",
+"title": "Aktif me- vs Pasif di-",
+"level": "A2",
+"cat": "Afiks",
+"explain": "Kalimat aktif transitif memakai me- (dengan perubahan bunyi: me-, mem-, men-, meng-, meny-). Pasif orang ke-3 memakai di-; pasif orang ke-1/2 memakai pronomina + kata dasar (saya baca, kamu ambil).",
+"formula": "Aktif: S + meN-V + O · Pasif: O + di-V + (oleh) pelaku · Pasif pronomina: O + saya/kamu + V",
+"examples": [
+{
+"t": "Saya membaca buku itu.",
+"tr": "I read the book."
+},
+{
+"t": "Buku itu dibaca oleh Ani.",
+"tr": "The book was read by Ani."
+},
+{
+"t": "Buku itu sudah saya baca.",
+"tr": "I have read the book (pasif pronomina)."
+}
+],
+"mistakes": [
+"✗ \"Buku itu dibaca oleh saya\" (kaku) → lebih baku: \"Buku itu saya baca\".",
+"✗ \"mempukul\" → ✓ \"memukul\" (p luluh)."
+],
+"exercises": [
+{
+"q": "Ia ___ (tulis) surat.",
+"o": [
+"menulis",
+"mentulis",
+"ditulis"
+],
+"a": 0,
+"why": "t luluh setelah men- → menulis."
+},
+{
+"q": "Surat itu ___ oleh Budi.",
+"o": [
+"menulis",
+"ditulis",
+"tulis"
+],
+"a": 1,
+"why": "Pasif dengan pelaku orang ke-3 → di-."
+},
+{
+"q": "meN- + sapu → ?",
+"o": [
+"mensapu",
+"menyapu",
+"mesapu"
+],
+"a": 1,
+"why": "s luluh menjadi meny-."
+}
+]
+},
+{
+"lang": "id",
+"id": "id-aspek",
+"title": "Penanda waktu: sudah, sedang, akan, belum",
+"level": "A1",
+"cat": "Waktu & aspek",
+"explain": "Kata kerja tidak berubah bentuk; waktu dan aspek ditandai kata keterangan.",
+"formula": "sudah/telah (selesai) · sedang (berlangsung) · akan (masa depan) · belum (belum terjadi)",
+"examples": [
+{
+"t": "Saya sudah makan.",
+"tr": "I have eaten."
+},
+{
+"t": "Dia sedang tidur.",
+"tr": "She is sleeping."
+},
+{
+"t": "Kami belum pernah ke Bali.",
+"tr": "We have never been to Bali."
+}
+],
+"mistakes": [
+"Menjawab \"Sudah makan?\" dengan \"Tidak\" terdengar janggal; jawaban wajar: \"Belum.\""
+],
+"exercises": [
+{
+"q": "\"Apakah kamu sudah makan?\" (belum) → \"___.\"",
+"o": [
+"Tidak",
+"Belum",
+"Bukan"
+],
+"a": 1,
+"why": "Untuk sesuatu yang belum terjadi → belum."
+}
+]
+},
+{
+"lang": "ar",
+"id": "ar-al",
+"title": "Artikel ال dan huruf matahari/bulan",
+"level": "A1",
+"cat": "Artikel",
+"explain": "ال menjadikan kata benda tentu. Sebelum \"huruf matahari\" (t, th, d, dh, r, z, s, sh, ṣ, ḍ, ṭ, ẓ, l, n), bunyi l melebur ke konsonan berikutnya yang menjadi ganda; sebelum \"huruf bulan\", l tetap dibaca.",
+"formula": "al- + huruf bulan: al-qamar · al- + huruf matahari: ash-shams",
+"examples": [
+{
+"t": "الكتاب (al-kitāb)",
+"tr": "buku itu (k = huruf bulan)"
+},
+{
+"t": "الشمس (ash-shams)",
+"tr": "matahari (sh = huruf matahari)"
+},
+{
+"t": "الرجل (ar-rajul)",
+"tr": "laki-laki itu (r = huruf matahari)"
+}
+],
+"mistakes": [
+"✗ \"al-shams\" → ✓ \"ash-shams\"."
+],
+"exercises": [
+{
+"q": "ال + نور (nūr, cahaya) → ?",
+"o": [
+"al-nūr",
+"an-nūr"
+],
+"a": 1,
+"why": "n adalah huruf matahari → an-nūr."
+},
+{
+"q": "ال + باب (bāb, pintu) → ?",
+"o": [
+"al-bāb",
+"ab-bāb"
+],
+"a": 0,
+"why": "b adalah huruf bulan → al-bāb."
+}
+]
+},
+{
+"lang": "ar",
+"id": "ar-nominal",
+"title": "Kalimat nominal (tanpa \"adalah\")",
+"level": "A1",
+"cat": "Struktur kalimat",
+"explain": "Dalam kala kini, Bahasa Arab tidak memakai kata kerja \"adalah\". Subjek tentu + predikat tak tentu membentuk kalimat lengkap.",
+"formula": "Mubtada' (tentu) + Khabar (tak tentu)",
+"examples": [
+{
+"t": "البيت كبير. (al-baytu kabīr)",
+"tr": "Rumah itu besar."
+},
+{
+"t": "أنا طالب. (anā ṭālib)",
+"tr": "Saya pelajar."
+},
+{
+"t": "الجو حار. (al-jawwu ḥārr)",
+"tr": "Cuacanya panas."
+}
+],
+"mistakes": [
+"\"البيت الكبير\" (al-bayt al-kabīr) = \"rumah yang besar\" (frasa), bukan kalimat \"rumah itu besar\"."
+],
+"exercises": [
+{
+"q": "\"Rumah itu besar\" = ?",
+"o": [
+"البيت كبير",
+"البيت الكبير"
+],
+"a": 0,
+"why": "Predikat tak tentu (tanpa ال) membentuk kalimat."
+}
+]
+},
+{
+"lang": "ru",
+"id": "ru-gender",
+"title": "Gender kata benda",
+"level": "A1",
+"cat": "Kata benda",
+"explain": "Gender umumnya bisa ditebak dari akhiran: konsonan → maskulin, -а/-я → feminin, -о/-е → netral. Akhiran -ь bisa maskulin atau feminin (harus dihafal). Kata seperti папа tetap maskulin karena maknanya.",
+"formula": "m.: стол · f.: книга · n.: окно · -ь: день (m.), ночь (f.)",
+"examples": [
+{
+"t": "мой дом",
+"tr": "rumahku (m.)"
+},
+{
+"t": "моя книга",
+"tr": "bukuku (f.)"
+},
+{
+"t": "моё окно",
+"tr": "jendelaku (n.)"
+}
+],
+"mistakes": [
+"✗ \"моя папа\" → ✓ \"мой папа\"."
+],
+"exercises": [
+{
+"q": "___ машина (milikku)",
+"o": [
+"мой",
+"моя",
+"моё"
+],
+"a": 1,
+"why": "машина berakhiran -а → feminin → моя."
+},
+{
+"q": "___ письмо (milikku)",
+"o": [
+"мой",
+"моя",
+"моё"
+],
+"a": 2,
+"why": "письмо berakhiran -о → netral → моё."
+}
+]
+},
+{
+"lang": "ru",
+"id": "ru-byt",
+"title": "Kalimat tanpa \"adalah\" di kala kini",
+"level": "A1",
+"cat": "Struktur kalimat",
+"explain": "Kata kerja быть (\"adalah/ada\") dihilangkan di kala kini. Dalam tulisan, tanda pisah (—) dipakai di antara dua kata benda.",
+"formula": "S + (∅) + Predikat · N — N",
+"examples": [
+{
+"t": "Я студент.",
+"tr": "Saya mahasiswa."
+},
+{
+"t": "Москва — столица России.",
+"tr": "Moskow adalah ibu kota Rusia."
+},
+{
+"t": "Он дома.",
+"tr": "Dia di rumah."
+}
+],
+"mistakes": [
+"✗ \"Я есть студент\" → ✓ \"Я студент\"."
+],
+"exercises": [
+{
+"q": "\"Dia dokter.\" = ?",
+"o": [
+"Он есть врач.",
+"Он врач."
+],
+"a": 1,
+"why": "Kala kini tanpa быть."
+}
+]
+}
+]

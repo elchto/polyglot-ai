@@ -1,0 +1,1771 @@
+{
+"phonetics": [
+{
+"lang": "en",
+"sound": "th tak bersuara",
+"ipa": "/θ/",
+"how": "Ujung lidah di antara gigi atas dan bawah (atau di belakang gigi atas), udara dihembuskan tanpa getaran pita suara. Jangan diganti /t/ atau /s/.",
+"ex": [
+{
+"w": "thought",
+"ipa": "/θɔːt/ (UK) · /θɔt/ atau /θɑt/ (US)",
+"m": "pikiran"
+},
+{
+"w": "think",
+"ipa": "/θɪŋk/",
+"m": "berpikir"
+},
+{
+"w": "three",
+"ipa": "/θriː/",
+"m": "tiga"
+}
+],
+"tip": "Bandingkan: thank vs tank, think vs sink."
+},
+{
+"lang": "en",
+"sound": "th bersuara",
+"ipa": "/ð/",
+"how": "Posisi sama dengan /θ/, tetapi pita suara bergetar (rasakan getaran di leher).",
+"ex": [
+{
+"w": "this",
+"ipa": "/ðɪs/",
+"m": "ini"
+},
+{
+"w": "mother",
+"ipa": "/ˈmʌðə/ (UK) · /ˈmʌðɚ/ (US)",
+"m": "ibu"
+},
+{
+"w": "they",
+"ipa": "/ðeɪ/",
+"m": "mereka"
+}
+],
+"tip": ""
+},
+{
+"lang": "en",
+"sound": "i pendek vs i panjang",
+"ipa": "/ɪ/ vs /iː/",
+"how": "/ɪ/ lebih pendek dan lidah sedikit lebih rendah/rileks; /iː/ panjang dengan bibir agak melebar.",
+"ex": [
+{
+"w": "ship",
+"ipa": "/ʃɪp/",
+"m": "kapal"
+},
+{
+"w": "sheep",
+"ipa": "/ʃiːp/",
+"m": "domba"
+},
+{
+"w": "live",
+"ipa": "/lɪv/",
+"m": "tinggal"
+},
+{
+"w": "leave",
+"ipa": "/liːv/",
+"m": "pergi"
+}
+],
+"tip": "Pasangan minimal ini sering membedakan makna."
+},
+{
+"lang": "en",
+"sound": "schwa",
+"ipa": "/ə/",
+"how": "Vokal netral yang sangat pendek dan rileks pada suku kata tanpa tekanan; mulut setengah terbuka, lidah di tengah.",
+"ex": [
+{
+"w": "about",
+"ipa": "/əˈbaʊt/",
+"m": "tentang"
+},
+{
+"w": "banana",
+"ipa": "/bəˈnɑːnə/ (UK)",
+"m": "pisang"
+},
+{
+"w": "teacher",
+"ipa": "/ˈtiːtʃə/ (UK)",
+"m": "guru"
+}
+],
+"tip": "Bahasa Inggris berirama tekanan: suku tanpa tekanan sering menjadi /ə/."
+},
+{
+"lang": "en",
+"sound": "v vs w",
+"ipa": "/v/ vs /w/",
+"how": "/v/: gigi atas menyentuh bibir bawah, bergetar. /w/: kedua bibir membulat, tanpa sentuhan gigi.",
+"ex": [
+{
+"w": "very",
+"ipa": "/ˈveri/",
+"m": "sangat"
+},
+{
+"w": "wine",
+"ipa": "/waɪn/",
+"m": "anggur (minuman)"
+},
+{
+"w": "vest",
+"ipa": "/vest/",
+"m": "rompi"
+},
+{
+"w": "west",
+"ipa": "/west/",
+"m": "barat"
+}
+],
+"tip": ""
+},
+{
+"lang": "es",
+"sound": "r tunggal vs rr",
+"ipa": "/ɾ/ vs /r/",
+"how": "/ɾ/: satu sentuhan cepat ujung lidah di gusi atas. /r/: ujung lidah bergetar beberapa kali (juga untuk r di awal kata).",
+"ex": [
+{
+"w": "pero",
+"ipa": "/ˈpeɾo/",
+"m": "tetapi"
+},
+{
+"w": "perro",
+"ipa": "/ˈpero/",
+"m": "anjing"
+},
+{
+"w": "rojo",
+"ipa": "/ˈroxo/",
+"m": "merah"
+}
+],
+"tip": ""
+},
+{
+"lang": "es",
+"sound": "ñ",
+"ipa": "/ɲ/",
+"how": "Bagian tengah lidah menempel ke langit-langit keras — seperti \"ny\" dalam bahasa Indonesia \"nyanyi\".",
+"ex": [
+{
+"w": "año",
+"ipa": "/ˈaɲo/",
+"m": "tahun"
+},
+{
+"w": "España",
+"ipa": "/esˈpaɲa/",
+"m": "Spanyol"
+}
+],
+"tip": "Jangan diucapkan \"an-o\": ano berarti \"anus\"."
+},
+{
+"lang": "es",
+"sound": "j / g lembut",
+"ipa": "/x/",
+"how": "Frikatif di belakang mulut (langit-langit lunak), seperti \"kh\" dalam \"khusus\". Di banyak dialek Amerika Latin/Karibia lebih lemah, mendekati /h/.",
+"ex": [
+{
+"w": "jamón",
+"ipa": "/xaˈmon/",
+"m": "ham"
+},
+{
+"w": "gente",
+"ipa": "/ˈxente/",
+"m": "orang-orang"
+}
+],
+"tip": ""
+},
+{
+"lang": "fr",
+"sound": "u Prancis",
+"ipa": "/y/",
+"how": "Ucapkan \"i\" lalu bulatkan bibir tanpa memindahkan lidah.",
+"ex": [
+{
+"w": "tu",
+"ipa": "/ty/",
+"m": "kamu"
+},
+{
+"w": "tout",
+"ipa": "/tu/",
+"m": "semua"
+},
+{
+"w": "rue",
+"ipa": "/ʁy/",
+"m": "jalan"
+},
+{
+"w": "roue",
+"ipa": "/ʁu/",
+"m": "roda"
+}
+],
+"tip": "Membedakan /y/ dan /u/ penting untuk makna."
+},
+{
+"lang": "fr",
+"sound": "vokal sengau",
+"ipa": "/ɑ̃/ /ɔ̃/ /ɛ̃/",
+"how": "Udara keluar lewat mulut DAN hidung; n/m tidak dibaca sebagai konsonan penuh.",
+"ex": [
+{
+"w": "blanc",
+"ipa": "/blɑ̃/",
+"m": "putih"
+},
+{
+"w": "bon",
+"ipa": "/bɔ̃/",
+"m": "baik"
+},
+{
+"w": "vin",
+"ipa": "/vɛ̃/",
+"m": "anggur (minuman)"
+}
+],
+"tip": ""
+},
+{
+"lang": "fr",
+"sound": "r Prancis",
+"ipa": "/ʁ/",
+"how": "Dihasilkan di belakang tenggorokan (uvula), mirip bunyi berkumur halus; bukan r bergetar ujung lidah.",
+"ex": [
+{
+"w": "rouge",
+"ipa": "/ʁuʒ/",
+"m": "merah"
+},
+{
+"w": "Paris",
+"ipa": "/paʁi/",
+"m": "Paris"
+}
+],
+"tip": ""
+},
+{
+"lang": "de",
+"sound": "ü dan ö",
+"ipa": "/yː/ /øː/",
+"how": "ü: ucapkan \"i\" dengan bibir dibulatkan. ö: ucapkan \"e\" dengan bibir dibulatkan.",
+"ex": [
+{
+"w": "über",
+"ipa": "/ˈyːbɐ/",
+"m": "di atas/tentang"
+},
+{
+"w": "schön",
+"ipa": "/ʃøːn/",
+"m": "indah"
+},
+{
+"w": "Tür",
+"ipa": "/tyːɐ̯/",
+"m": "pintu"
+}
+],
+"tip": ""
+},
+{
+"lang": "de",
+"sound": "ich-Laut vs ach-Laut",
+"ipa": "/ç/ vs /x/",
+"how": "ch setelah e, i, ä, ö, ü, atau konsonan → /ç/ (seperti mendesis \"hy\"). ch setelah a, o, u, au → /x/ (di belakang mulut).",
+"ex": [
+{
+"w": "ich",
+"ipa": "/ɪç/",
+"m": "saya"
+},
+{
+"w": "Milch",
+"ipa": "/mɪlç/",
+"m": "susu"
+},
+{
+"w": "Bach",
+"ipa": "/bax/",
+"m": "sungai kecil"
+},
+{
+"w": "Buch",
+"ipa": "/buːx/",
+"m": "buku"
+}
+],
+"tip": ""
+},
+{
+"lang": "de",
+"sound": "pelepasan suara akhir",
+"ipa": "Auslautverhärtung",
+"how": "b, d, g di akhir suku kata dilafalkan p, t, k.",
+"ex": [
+{
+"w": "Hund",
+"ipa": "/hʊnt/",
+"m": "anjing"
+},
+{
+"w": "Tag",
+"ipa": "/taːk/",
+"m": "hari"
+},
+{
+"w": "gelb",
+"ipa": "/ɡɛlp/",
+"m": "kuning"
+}
+],
+"tip": ""
+},
+{
+"lang": "it",
+"sound": "konsonan ganda",
+"ipa": "/pp/ /tt/ /ll/…",
+"how": "Tahan konsonan sedikit lebih lama; suku kata sebelumnya terasa lebih pendek. Ini membedakan makna.",
+"ex": [
+{
+"w": "pala",
+"ipa": "/ˈpala/",
+"m": "sekop"
+},
+{
+"w": "palla",
+"ipa": "/ˈpalla/",
+"m": "bola"
+},
+{
+"w": "nono",
+"ipa": "/ˈnɔno/",
+"m": "kesembilan"
+},
+{
+"w": "nonno",
+"ipa": "/ˈnɔnno/",
+"m": "kakek"
+}
+],
+"tip": ""
+},
+{
+"lang": "it",
+"sound": "gli dan gn",
+"ipa": "/ʎ/ dan /ɲ/",
+"how": "gli: bagian tengah lidah menempel ke langit-langit, seperti \"ly\" yang menyatu. gn: seperti \"ny\".",
+"ex": [
+{
+"w": "figlio",
+"ipa": "/ˈfiʎʎo/",
+"m": "anak laki-laki"
+},
+{
+"w": "gnocchi",
+"ipa": "/ˈɲɔkki/",
+"m": "gnocchi"
+},
+{
+"w": "bagno",
+"ipa": "/ˈbaɲɲo/",
+"m": "kamar mandi"
+}
+],
+"tip": ""
+},
+{
+"lang": "it",
+"sound": "c dan g sebelum e/i",
+"ipa": "/tʃ/ /dʒ/ vs /k/ /ɡ/",
+"how": "c/g + e/i = \"c\"/\"j\" Indonesia. ch/gh + e/i = \"k\"/\"g\" keras.",
+"ex": [
+{
+"w": "ciao",
+"ipa": "/ˈtʃao/",
+"m": "halo"
+},
+{
+"w": "chiesa",
+"ipa": "/ˈkjɛːza/",
+"m": "gereja"
+},
+{
+"w": "gelato",
+"ipa": "/dʒeˈlaːto/",
+"m": "es krim"
+},
+{
+"w": "spaghetti",
+"ipa": "/spaˈɡetti/",
+"m": "spageti"
+}
+],
+"tip": ""
+},
+{
+"lang": "pt",
+"sound": "ão sengau",
+"ipa": "/ɐ̃w̃/",
+"how": "Diftong sengau: mulut dari \"a\" menuju \"u\" sambil udara lewat hidung.",
+"ex": [
+{
+"w": "pão",
+"ipa": "/ˈpɐ̃w̃/",
+"m": "roti"
+},
+{
+"w": "não",
+"ipa": "/ˈnɐ̃w̃/",
+"m": "tidak"
+}
+],
+"tip": ""
+},
+{
+"lang": "pt",
+"sound": "lh dan nh",
+"ipa": "/ʎ/ dan /ɲ/",
+"how": "lh mirip gli Italia; nh seperti \"ny\".",
+"ex": [
+{
+"w": "filho",
+"ipa": "/ˈfiʎu/ (BR)",
+"m": "anak laki-laki"
+},
+{
+"w": "vinho",
+"ipa": "/ˈviɲu/ (BR)",
+"m": "anggur (minuman)"
+}
+],
+"tip": ""
+},
+{
+"lang": "ja",
+"sound": "vokal panjang",
+"ipa": "ā ō ū (dua mora)",
+"how": "Vokal panjang dihitung dua ketukan. Memendekkan/memanjangkan bisa mengubah arti.",
+"ex": [
+{
+"w": "おばさん",
+"ipa": "obasan",
+"m": "bibi"
+},
+{
+"w": "おばあさん",
+"ipa": "obāsan",
+"m": "nenek"
+},
+{
+"w": "ここ",
+"ipa": "koko",
+"m": "di sini"
+},
+{
+"w": "こうこう",
+"ipa": "kōkō",
+"m": "SMA"
+}
+],
+"tip": ""
+},
+{
+"lang": "ja",
+"sound": "konsonan ganda っ",
+"ipa": "/kk/ /tt/ /pp/",
+"how": "Jeda sejenak (satu ketukan) sebelum konsonan.",
+"ex": [
+{
+"w": "きて",
+"ipa": "kite",
+"m": "datanglah"
+},
+{
+"w": "きって",
+"ipa": "kitte",
+"m": "perangko"
+}
+],
+"tip": ""
+},
+{
+"lang": "ja",
+"sound": "ら行 (r Jepang)",
+"ipa": "/ɾ/",
+"how": "Satu sentuhan ringan ujung lidah di belakang gigi atas, di antara r, l dan d. Bukan r bergetar.",
+"ex": [
+{
+"w": "りんご",
+"ipa": "ringo",
+"m": "apel"
+},
+{
+"w": "ありがとう",
+"ipa": "arigatō",
+"m": "terima kasih"
+}
+],
+"tip": ""
+},
+{
+"lang": "ko",
+"sound": "tiga jenis konsonan",
+"ipa": "ㄷ /t/ · ㄸ /t͈/ · ㅌ /tʰ/",
+"how": "Lunak (sedikit napas), tegang (otot tenggorokan tegang, tanpa napas), beraspirasi (hembusan kuat). Sama untuk ㄱ/ㄲ/ㅋ, ㅂ/ㅃ/ㅍ, ㅈ/ㅉ/ㅊ.",
+"ex": [
+{
+"w": "달",
+"ipa": "dal",
+"m": "bulan"
+},
+{
+"w": "딸",
+"ipa": "ttal",
+"m": "anak perempuan"
+},
+{
+"w": "탈",
+"ipa": "tal",
+"m": "topeng"
+}
+],
+"tip": "Letakkan tisu di depan mulut: hanya ㅌ yang membuatnya bergerak kuat."
+},
+{
+"lang": "ko",
+"sound": "ㅓ dan ㅡ",
+"ipa": "/ʌ/ dan /ɯ/",
+"how": "ㅓ: \"o\" dengan mulut terbuka dan bibir tidak bulat. ㅡ: \"u\" dengan bibir rata (tidak dibulatkan).",
+"ex": [
+{
+"w": "어머니",
+"ipa": "eomeoni",
+"m": "ibu"
+},
+{
+"w": "그",
+"ipa": "geu",
+"m": "itu"
+}
+],
+"tip": ""
+},
+{
+"lang": "zh",
+"sound": "empat nada",
+"ipa": "1 ˉ · 2 ˊ · 3 ˇ · 4 ˋ",
+"how": "Nada 1 tinggi datar; nada 2 naik; nada 3 rendah (turun lalu naik bila diucapkan sendiri); nada 4 turun tajam.",
+"ex": [
+{
+"w": "妈 mā",
+"ipa": "nada 1",
+"m": "ibu"
+},
+{
+"w": "麻 má",
+"ipa": "nada 2",
+"m": "rami"
+},
+{
+"w": "马 mǎ",
+"ipa": "nada 3",
+"m": "kuda"
+},
+{
+"w": "骂 mà",
+"ipa": "nada 4",
+"m": "memarahi"
+}
+],
+"tip": "Dua nada 3 berurutan: yang pertama menjadi nada 2 (nǐ hǎo → ní hǎo)."
+},
+{
+"lang": "zh",
+"sound": "j q x",
+"ipa": "/tɕ/ /tɕʰ/ /ɕ/",
+"how": "Bunyi palatal: ujung lidah di belakang gigi bawah, bagian depan lidah naik ke langit-langit; bibir agak melebar.",
+"ex": [
+{
+"w": "谢谢 xièxie",
+"ipa": "[ɕjɛ]",
+"m": "terima kasih"
+},
+{
+"w": "去 qù",
+"ipa": "[tɕʰy]",
+"m": "pergi"
+},
+{
+"w": "鸡 jī",
+"ipa": "[tɕi]",
+"m": "ayam"
+}
+],
+"tip": ""
+},
+{
+"lang": "zh",
+"sound": "retrofleks zh ch sh r",
+"ipa": "/ʈʂ/ /ʈʂʰ/ /ʂ/ /ʐ/",
+"how": "Ujung lidah ditekuk sedikit ke belakang menuju langit-langit keras.",
+"ex": [
+{
+"w": "是 shì",
+"ipa": "[ʂʐ̩] (kira-kira)",
+"m": "adalah"
+},
+{
+"w": "吃 chī",
+"ipa": "[ʈʂʰʐ̩]",
+"m": "makan"
+},
+{
+"w": "中 zhōng",
+"ipa": "[ʈʂʊŋ]",
+"m": "tengah"
+}
+],
+"tip": ""
+},
+{
+"lang": "ar",
+"sound": "ع ʿayn",
+"ipa": "/ʕ/",
+"how": "Konsonan faringal bersuara: tenggorokan menyempit seperti tercekik ringan sambil bersuara.",
+"ex": [
+{
+"w": "عين",
+"ipa": "ʿayn",
+"m": "mata"
+},
+{
+"w": "عربي",
+"ipa": "ʿarabī",
+"m": "Arab"
+}
+],
+"tip": ""
+},
+{
+"lang": "ar",
+"sound": "ح ḥāʾ vs ه hāʾ",
+"ipa": "/ħ/ vs /h/",
+"how": "ح: hembusan kuat dari tenggorokan yang menyempit (seperti meniup kaca berembun dengan keras). ه: h biasa.",
+"ex": [
+{
+"w": "حب",
+"ipa": "ḥubb",
+"m": "cinta"
+},
+{
+"w": "هو",
+"ipa": "huwa",
+"m": "dia (lk.)"
+}
+],
+"tip": ""
+},
+{
+"lang": "ar",
+"sound": "emfatik ص vs س",
+"ipa": "/sˤ/ vs /s/",
+"how": "Konsonan emfatik: pangkal lidah ditarik ke belakang, membuat vokal di sekitarnya lebih \"gelap\".",
+"ex": [
+{
+"w": "صيف",
+"ipa": "ṣayf",
+"m": "musim panas"
+},
+{
+"w": "سيف",
+"ipa": "sayf",
+"m": "pedang"
+}
+],
+"tip": ""
+},
+{
+"lang": "ru",
+"sound": "ы",
+"ipa": "/ɨ/",
+"how": "Ucapkan \"i\" sambil menarik lidah ke belakang; bibir tidak bulat.",
+"ex": [
+{
+"w": "мы",
+"ipa": "my /mɨ/",
+"m": "kami"
+},
+{
+"w": "ты",
+"ipa": "ty /tɨ/",
+"m": "kamu"
+},
+{
+"w": "сыр",
+"ipa": "syr /sɨr/",
+"m": "keju"
+}
+],
+"tip": ""
+},
+{
+"lang": "ru",
+"sound": "konsonan lunak (palatal)",
+"ipa": "/tʲ/ /lʲ/…",
+"how": "Tanda lunak ь atau vokal я/е/ё/ю/и menunjukkan konsonan sebelumnya dilunakkan (bagian tengah lidah naik).",
+"ex": [
+{
+"w": "мат",
+"ipa": "mat",
+"m": "skakmat"
+},
+{
+"w": "мать",
+"ipa": "mat' /matʲ/",
+"m": "ibu"
+}
+],
+"tip": ""
+},
+{
+"lang": "ru",
+"sound": "reduksi vokal",
+"ipa": "о → [ɐ]/[ə]",
+"how": "о tanpa tekanan tidak dibaca \"o\", tetapi mendekati \"a\" atau schwa.",
+"ex": [
+{
+"w": "молоко",
+"ipa": "moloko /məlɐˈko/",
+"m": "susu"
+},
+{
+"w": "хорошо",
+"ipa": "khorosho /xərɐˈʂo/",
+"m": "baik"
+}
+],
+"tip": ""
+},
+{
+"lang": "hi",
+"sound": "aspirasi",
+"ipa": "/k/ vs /kʰ/",
+"how": "Konsonan beraspirasi diucapkan dengan hembusan napas yang jelas; ini membedakan makna.",
+"ex": [
+{
+"w": "काल",
+"ipa": "kāl",
+"m": "waktu"
+},
+{
+"w": "खाल",
+"ipa": "khāl",
+"m": "kulit"
+}
+],
+"tip": ""
+},
+{
+"lang": "hi",
+"sound": "retrofleks vs dental",
+"ipa": "ड /ɖ/ vs द /d̪/",
+"how": "द: ujung lidah menyentuh belakang gigi atas. ड: ujung lidah ditekuk ke belakang menyentuh langit-langit.",
+"ex": [
+{
+"w": "दाल",
+"ipa": "dāl",
+"m": "kacang lentil (dal)"
+},
+{
+"w": "डाल",
+"ipa": "ḍāl",
+"m": "dahan"
+}
+],
+"tip": ""
+},
+{
+"lang": "th",
+"sound": "nada",
+"ipa": "5 nada",
+"how": "Nada ditentukan kelas konsonan, tanda nada, dan jenis suku kata — harus dihafal bersama kata.",
+"ex": [
+{
+"w": "ใกล้",
+"ipa": "klai (nada turun)",
+"m": "dekat"
+},
+{
+"w": "ไกล",
+"ipa": "klai (nada tengah)",
+"m": "jauh"
+}
+],
+"tip": "Romanisasi umum (RTGS) tidak menulis nada."
+},
+{
+"lang": "vi",
+"sound": "enam nada",
+"ipa": "ngang, huyền, sắc, hỏi, ngã, nặng",
+"how": "Setiap suku kata membawa nada; diakritik menunjukkan nadanya.",
+"ex": [
+{
+"w": "ma",
+"ipa": "nada datar",
+"m": "hantu"
+},
+{
+"w": "mà",
+"ipa": "nada turun",
+"m": "tetapi"
+},
+{
+"w": "má",
+"ipa": "nada naik",
+"m": "ibu (Selatan) / pipi"
+},
+{
+"w": "mả",
+"ipa": "nada hỏi",
+"m": "kuburan"
+},
+{
+"w": "mã",
+"ipa": "nada ngã",
+"m": "kuda"
+},
+{
+"w": "mạ",
+"ipa": "nada berat",
+"m": "bibit padi"
+}
+],
+"tip": "Di Vietnam Selatan, hỏi dan ngã umumnya terdengar sama."
+},
+{
+"lang": "tr",
+"sound": "ı tanpa titik",
+"ipa": "/ɯ/",
+"how": "Seperti \"u\" tetapi bibir rata (tidak bulat), atau seperti e pepet yang lebih tertutup.",
+"ex": [
+{
+"w": "kız",
+"ipa": "/kɯz/",
+"m": "anak perempuan"
+},
+{
+"w": "ışık",
+"ipa": "/ɯˈʃɯk/",
+"m": "cahaya"
+}
+],
+"tip": ""
+},
+{
+"lang": "pl",
+"sound": "ł",
+"ipa": "/w/",
+"how": "Dalam bahasa Polandia modern, ł dibaca seperti \"w\" dalam bahasa Inggris.",
+"ex": [
+{
+"w": "łąka",
+"ipa": "/ˈwɔŋka/",
+"m": "padang rumput"
+},
+{
+"w": "mały",
+"ipa": "/ˈmawɨ/",
+"m": "kecil"
+}
+],
+"tip": ""
+},
+{
+"lang": "pl",
+"sound": "sz/cz vs ś/ć",
+"ipa": "/ʂ/ /ʈʂ/ vs /ɕ/ /tɕ/",
+"how": "sz, cz: lidah agak ditekuk ke belakang (keras). ś, ć (atau si, ci): bagian tengah lidah naik (lunak).",
+"ex": [
+{
+"w": "szary",
+"ipa": "/ˈʂarɨ/",
+"m": "abu-abu"
+},
+{
+"w": "siwy",
+"ipa": "/ˈɕivɨ/",
+"m": "beruban"
+},
+{
+"w": "czas",
+"ipa": "/ʈʂas/",
+"m": "waktu"
+}
+],
+"tip": ""
+},
+{
+"lang": "nl",
+"sound": "g/ch Belanda",
+"ipa": "/ɣ/ atau /x/",
+"how": "Frikatif di belakang mulut. Di Belanda bagian utara terdengar kasar/tak bersuara; di selatan dan Flandria lebih lembut.",
+"ex": [
+{
+"w": "goed",
+"ipa": "/ɣut/ (sering [xut])",
+"m": "baik"
+},
+{
+"w": "lachen",
+"ipa": "/ˈlɑxə(n)/",
+"m": "tertawa"
+}
+],
+"tip": ""
+},
+{
+"lang": "sv",
+"sound": "sj-bunyi",
+"ipa": "/ɧ/",
+"how": "Bunyi desis khas bahasa Swedia, mirip \"hw\"/\"sy\" yang diucapkan dengan bibir sedikit membulat. Variasi regional besar.",
+"ex": [
+{
+"w": "sju",
+"ipa": "/ɧʉː/",
+"m": "tujuh"
+},
+{
+"w": "sjuk",
+"ipa": "/ɧʉːk/",
+"m": "sakit"
+}
+],
+"tip": ""
+},
+{
+"lang": "id",
+"sound": "e pepet vs e taling",
+"ipa": "/ə/ vs /e/",
+"how": "Ejaan tidak membedakan; harus dihafal per kata.",
+"ex": [
+{
+"w": "apel (buah)",
+"ipa": "/ˈapəl/",
+"m": "apple"
+},
+{
+"w": "apel (upacara)",
+"ipa": "/aˈpel/",
+"m": "roll call"
+},
+{
+"w": "seri",
+"ipa": "/səˈri/ (imbang) · /ˈseri/ (urutan)",
+"m": "draw / series"
+}
+],
+"tip": ""
+}
+],
+"culture": [
+{
+"lang": "en",
+"kind": "idiom",
+"expr": "break the ice",
+"lit": "memecah es",
+"meaning": "mencairkan suasana; memulai percakapan dengan orang yang belum dikenal",
+"region": "umum (semua ragam)",
+"register": "netral",
+"when": "Aman di situasi kerja maupun santai."
+},
+{
+"lang": "en",
+"kind": "idiom",
+"expr": "It's raining cats and dogs",
+"lit": "",
+"meaning": "hujan sangat deras",
+"region": "terutama Inggris (UK)",
+"register": "informal",
+"when": "Dikenal luas tetapi terdengar klise/kuno; penutur asli jarang memakainya sehari-hari."
+},
+{
+"lang": "en",
+"kind": "ungkapan",
+"expr": "Cheers!",
+"lit": "",
+"meaning": "bersulang; di Inggris (UK) juga \"terima kasih\" atau \"dah\" secara santai",
+"region": "UK, Australia (makna \"terima kasih\")",
+"register": "informal",
+"when": "Di AS umumnya hanya untuk bersulang."
+},
+{
+"lang": "en",
+"kind": "etiket",
+"expr": "Antre (queueing)",
+"lit": "",
+"meaning": "Menyerobot antrean dianggap sangat tidak sopan.",
+"region": "UK (sangat kuat), umum di negara berbahasa Inggris",
+"register": "—",
+"when": "Selalu ikuti antrean di halte, toko, loket."
+},
+{
+"lang": "it",
+"kind": "idiom",
+"expr": "In bocca al lupo! — Crepi!",
+"lit": "di mulut serigala",
+"meaning": "semoga berhasil; dijawab \"Crepi (il lupo)!\"",
+"region": "seluruh Italia",
+"register": "informal–netral",
+"when": "Sebelum ujian, wawancara, pertunjukan. Menjawab \"grazie\" dianggap kurang lazim oleh sebagian orang."
+},
+{
+"lang": "it",
+"kind": "ungkapan",
+"expr": "Non vedo l'ora!",
+"lit": "aku tidak melihat jamnya",
+"meaning": "tidak sabar menunggu",
+"region": "seluruh Italia",
+"register": "netral",
+"when": "Untuk acara yang dinantikan."
+},
+{
+"lang": "it",
+"kind": "etiket",
+"expr": "Cappuccino di pagi hari",
+"lit": "",
+"meaning": "Banyak orang Italia minum cappuccino terutama saat sarapan, bukan setelah makan siang/malam.",
+"region": "Italia",
+"register": "—",
+"when": "Kebiasaan, bukan aturan; memesan setelah makan tidak salah, hanya menandai turis."
+},
+{
+"lang": "es",
+"kind": "idiom",
+"expr": "Estar en las nubes",
+"lit": "berada di awan",
+"meaning": "melamun, tidak fokus",
+"region": "umum",
+"register": "informal",
+"when": "Untuk menegur halus atau bercanda."
+},
+{
+"lang": "es",
+"kind": "slang",
+"expr": "¡Qué guay!",
+"lit": "",
+"meaning": "keren!",
+"region": "Spanyol",
+"register": "informal",
+"when": "Tidak umum di Amerika Latin (Meksiko: ¡Qué padre!, Argentina: ¡Qué copado!). Jangan anggap universal."
+},
+{
+"lang": "es",
+"kind": "idiom",
+"expr": "Tomar el pelo",
+"lit": "mengambil rambut",
+"meaning": "menggoda/mempermainkan seseorang",
+"region": "umum",
+"register": "informal",
+"when": "\"¿Me estás tomando el pelo?\" = \"Kamu bercanda/mempermainkanku?\""
+},
+{
+"lang": "fr",
+"kind": "idiom",
+"expr": "Avoir le cafard",
+"lit": "memiliki kecoak",
+"meaning": "merasa sedih/murung",
+"region": "Prancis & negara francophone",
+"register": "informal",
+"when": "Percakapan santai."
+},
+{
+"lang": "fr",
+"kind": "idiom",
+"expr": "Poser un lapin",
+"lit": "menaruh kelinci",
+"meaning": "tidak datang ke janji temu tanpa kabar",
+"region": "Prancis",
+"register": "informal",
+"when": "\"Il m'a posé un lapin\" = dia tidak datang."
+},
+{
+"lang": "fr",
+"kind": "ungkapan",
+"expr": "Ça marche",
+"lit": "itu berjalan",
+"meaning": "oke, setuju, beres",
+"region": "Prancis",
+"register": "informal–netral",
+"when": "Sangat umum di kafe/restoran dan antar rekan."
+},
+{
+"lang": "fr",
+"kind": "etiket",
+"expr": "La bise",
+"lit": "",
+"meaning": "Cium pipi sebagai salam di antara kenalan/teman; jumlah ciuman bervariasi menurut daerah.",
+"region": "Prancis (bervariasi)",
+"register": "—",
+"when": "Dengan orang yang baru dikenal di konteks bisnis, jabat tangan lebih aman."
+},
+{
+"lang": "de",
+"kind": "idiom",
+"expr": "Daumen drücken",
+"lit": "menekan ibu jari",
+"meaning": "semoga berhasil (saya mendoakanmu)",
+"region": "Jerman, Austria",
+"register": "netral",
+"when": "\"Ich drücke dir die Daumen!\""
+},
+{
+"lang": "de",
+"kind": "idiom",
+"expr": "Ich verstehe nur Bahnhof",
+"lit": "saya hanya mengerti \"stasiun\"",
+"meaning": "saya sama sekali tidak paham",
+"region": "Jerman",
+"register": "informal",
+"when": "Lelucon saat bingung."
+},
+{
+"lang": "de",
+"kind": "ungkapan",
+"expr": "Feierabend",
+"lit": "",
+"meaning": "waktu selesai kerja / waktu santai setelah kerja",
+"region": "Jerman, Austria, Swiss",
+"register": "netral",
+"when": "\"Schönen Feierabend!\" diucapkan ke rekan saat pulang."
+},
+{
+"lang": "pt",
+"kind": "ungkapan",
+"expr": "Saudade",
+"lit": "",
+"meaning": "rindu mendalam akan seseorang/sesuatu yang jauh atau telah berlalu",
+"region": "Brasil & Portugal",
+"register": "netral",
+"when": "Dipakai dalam percakapan dan lagu; sering disebut sulit diterjemahkan satu kata."
+},
+{
+"lang": "pt",
+"kind": "idiom",
+"expr": "Pagar o pato",
+"lit": "membayar bebeknya",
+"meaning": "menanggung kesalahan/akibat perbuatan orang lain",
+"region": "Brasil & Portugal",
+"register": "informal",
+"when": "\"Eu é que paguei o pato.\""
+},
+{
+"lang": "pt",
+"kind": "slang",
+"expr": "Fazer uma vaquinha",
+"lit": "membuat sapi kecil",
+"meaning": "patungan uang",
+"region": "Brasil",
+"register": "informal",
+"when": "Di antara teman/kolega."
+},
+{
+"lang": "nl",
+"kind": "ungkapan",
+"expr": "Gezellig",
+"lit": "",
+"meaning": "suasana nyaman, akrab, menyenangkan",
+"region": "Belanda & Flandria",
+"register": "netral",
+"when": "Untuk tempat, acara, atau kebersamaan."
+},
+{
+"lang": "nl",
+"kind": "ungkapan",
+"expr": "Lekker!",
+"lit": "",
+"meaning": "enak/menyenangkan — tidak hanya untuk makanan",
+"region": "Belanda",
+"register": "informal",
+"when": "\"Lekker weer\" = cuaca enak; \"Lekker geslapen?\" = tidur nyenyak?"
+},
+{
+"lang": "nl",
+"kind": "idiom",
+"expr": "Dat is andere koek",
+"lit": "itu kue lain",
+"meaning": "itu hal yang sangat berbeda (biasanya lebih sulit)",
+"region": "Belanda",
+"register": "informal",
+"when": "Membandingkan dua situasi."
+},
+{
+"lang": "sv",
+"kind": "ungkapan",
+"expr": "Fika",
+"lit": "",
+"meaning": "rehat kopi bersama, biasanya dengan kue",
+"region": "Swedia",
+"register": "netral",
+"when": "Kebiasaan sosial di rumah dan kantor."
+},
+{
+"lang": "sv",
+"kind": "ungkapan",
+"expr": "Lagom",
+"lit": "",
+"meaning": "secukupnya, tidak terlalu banyak atau sedikit",
+"region": "Swedia",
+"register": "netral",
+"when": "\"Lagom är bäst\" = secukupnya paling baik."
+},
+{
+"lang": "sv",
+"kind": "idiom",
+"expr": "Det är ingen ko på isen",
+"lit": "tidak ada sapi di atas es",
+"meaning": "tidak ada masalah/tak perlu terburu-buru",
+"region": "Swedia",
+"register": "informal",
+"when": "Menenangkan orang lain."
+},
+{
+"lang": "nb",
+"kind": "ungkapan",
+"expr": "Takk for sist",
+"lit": "",
+"meaning": "\"terima kasih untuk pertemuan terakhir\" — salam saat bertemu kembali",
+"region": "Norwegia",
+"register": "netral",
+"when": "Diucapkan saat bertemu lagi dengan orang yang sebelumnya menjamu/bertemu Anda."
+},
+{
+"lang": "nb",
+"kind": "ungkapan",
+"expr": "Ut på tur, aldri sur",
+"lit": "",
+"meaning": "\"keluar berjalan-jalan, tidak pernah cemberut\"",
+"region": "Norwegia",
+"register": "informal",
+"when": "Pepatah populer tentang kegiatan di alam terbuka (friluftsliv)."
+},
+{
+"lang": "nb",
+"kind": "etiket",
+"expr": "Matpakke",
+"lit": "",
+"meaning": "Banyak orang membawa bekal roti isi dari rumah untuk makan siang.",
+"region": "Norwegia",
+"register": "—",
+"when": "Kebiasaan umum di sekolah dan kantor."
+},
+{
+"lang": "da",
+"kind": "ungkapan",
+"expr": "Hygge",
+"lit": "",
+"meaning": "suasana nyaman, hangat dan akrab",
+"region": "Denmark",
+"register": "netral",
+"when": "Untuk momen santai bersama, lilin, makanan."
+},
+{
+"lang": "da",
+"kind": "etiket",
+"expr": "Tak for mad",
+"lit": "",
+"meaning": "\"terima kasih untuk makanannya\" diucapkan setelah makan kepada tuan rumah",
+"region": "Denmark",
+"register": "netral",
+"when": "Hampir wajib setelah dijamu makan."
+},
+{
+"lang": "da",
+"kind": "etiket",
+"expr": "Skål!",
+"lit": "",
+"meaning": "bersulang — biasanya sambil menatap mata orang lain",
+"region": "Denmark (dan Skandinavia)",
+"register": "informal–netral",
+"when": "Saat minum bersama."
+},
+{
+"lang": "pl",
+"kind": "idiom",
+"expr": "Nie mój cyrk, nie moje małpy",
+"lit": "bukan sirkus saya, bukan monyet saya",
+"meaning": "bukan urusanku",
+"region": "Polandia",
+"register": "informal",
+"when": "Bercanda di antara teman."
+},
+{
+"lang": "pl",
+"kind": "etiket",
+"expr": "Smacznego!",
+"lit": "",
+"meaning": "selamat makan",
+"region": "Polandia",
+"register": "netral",
+"when": "Sebelum makan bersama."
+},
+{
+"lang": "pl",
+"kind": "etiket",
+"expr": "Imieniny",
+"lit": "",
+"meaning": "perayaan \"hari nama\" (hari santo yang namanya sama) — sering dirayakan seperti ulang tahun",
+"region": "Polandia",
+"register": "—",
+"when": "Mengucapkan selamat pada hari nama kolega adalah hal biasa."
+},
+{
+"lang": "ru",
+"kind": "idiom",
+"expr": "Ни пуха ни пера! — К чёрту!",
+"lit": "tanpa bulu halus, tanpa bulu",
+"meaning": "semoga berhasil; dijawab \"k chyortu!\"",
+"region": "Rusia",
+"register": "informal",
+"when": "Sebelum ujian. Jangan menjawab \"spasibo\"."
+},
+{
+"lang": "ru",
+"kind": "etiket",
+"expr": "Bunga berjumlah ganjil",
+"lit": "",
+"meaning": "Buket hadiah biasanya berjumlah ganjil; jumlah genap untuk pemakaman.",
+"region": "Rusia (dan beberapa negara Eropa Timur)",
+"register": "—",
+"when": "Saat memberi bunga."
+},
+{
+"lang": "ru",
+"kind": "ungkapan",
+"expr": "Приятного аппетита!",
+"lit": "",
+"meaning": "selamat makan",
+"region": "Rusia",
+"register": "netral",
+"when": "Sebelum/saat makan."
+},
+{
+"lang": "ar",
+"kind": "ungkapan",
+"expr": "إن شاء الله (in shāʾ allāh)",
+"lit": "",
+"meaning": "\"jika Allah menghendaki\" — dipakai untuk rencana masa depan",
+"region": "seluruh dunia Arab",
+"register": "netral",
+"when": "Sangat umum; konteks kadang membuatnya terdengar sebagai jawaban yang tidak pasti."
+},
+{
+"lang": "ar",
+"kind": "ungkapan",
+"expr": "الحمد لله (al-ḥamdu lillāh)",
+"lit": "",
+"meaning": "\"segala puji bagi Allah\" — jawaban umum atas \"apa kabar?\"",
+"region": "seluruh dunia Arab",
+"register": "netral",
+"when": "Kayfa ḥāluk? — Al-ḥamdu lillāh, bikhayr."
+},
+{
+"lang": "ar",
+"kind": "ungkapan",
+"expr": "يعطيك العافية (yaʿṭīk al-ʿāfiya)",
+"lit": "",
+"meaning": "ungkapan apresiasi kepada orang yang sedang/baru bekerja",
+"region": "terutama Levant & Teluk (dialek)",
+"register": "informal–netral",
+"when": "Kepada pelayan, rekan kerja, pekerja."
+},
+{
+"lang": "ar",
+"kind": "etiket",
+"expr": "Tangan kanan",
+"lit": "",
+"meaning": "Makan dan memberi/menerima barang dengan tangan kanan.",
+"region": "umum di dunia Arab",
+"register": "—",
+"when": "Terutama saat makan bersama."
+},
+{
+"lang": "tr",
+"kind": "ungkapan",
+"expr": "Kolay gelsin",
+"lit": "",
+"meaning": "\"semoga mudah\" — kepada orang yang sedang bekerja",
+"region": "Turki",
+"register": "netral",
+"when": "Saat masuk toko atau melihat orang bekerja."
+},
+{
+"lang": "tr",
+"kind": "ungkapan",
+"expr": "Afiyet olsun",
+"lit": "",
+"meaning": "selamat makan",
+"region": "Turki",
+"register": "netral",
+"when": "Sebelum/saat makan."
+},
+{
+"lang": "tr",
+"kind": "ungkapan",
+"expr": "Geçmiş olsun",
+"lit": "",
+"meaning": "\"semoga cepat berlalu\" — simpati untuk orang sakit atau sedang kesulitan",
+"region": "Turki",
+"register": "netral",
+"when": "Saat seseorang sakit atau mengalami masalah."
+},
+{
+"lang": "hi",
+"kind": "ungkapan",
+"expr": "जी (jī)",
+"lit": "",
+"meaning": "akhiran hormat setelah nama/sebutan (Sharma-ji, Mā-ji) atau sebagai \"ya\" sopan",
+"region": "India Utara",
+"register": "sopan",
+"when": "Kepada orang lebih tua atau yang dihormati."
+},
+{
+"lang": "hi",
+"kind": "slang",
+"expr": "जुगाड़ (jugāṛ)",
+"lit": "",
+"meaning": "solusi kreatif/improvisasi dengan sumber daya terbatas",
+"region": "India Utara",
+"register": "informal",
+"when": "Bisa positif (kreatif) atau berkonotasi akal-akalan."
+},
+{
+"lang": "hi",
+"kind": "slang",
+"expr": "अरे यार (are yār)",
+"lit": "",
+"meaning": "\"aduh, kawan\" — ekspresi akrab/kesal",
+"region": "India Utara",
+"register": "sangat informal",
+"when": "Hanya dengan teman dekat."
+},
+{
+"lang": "id",
+"kind": "ungkapan",
+"expr": "Sudah makan?",
+"lit": "",
+"meaning": "basa-basi untuk menunjukkan perhatian, bukan selalu ajakan makan",
+"region": "Indonesia",
+"register": "informal–netral",
+"when": "Antar kenalan/rekan."
+},
+{
+"lang": "id",
+"kind": "slang",
+"expr": "gue / lo",
+"lit": "",
+"meaning": "saya / kamu",
+"region": "Jakarta & media nasional",
+"register": "sangat informal",
+"when": "Hanya dengan teman sebaya; tidak sopan kepada orang lebih tua. Bukan bahasa Indonesia umum."
+},
+{
+"lang": "id",
+"kind": "ungkapan",
+"expr": "jam karet",
+"lit": "jam (dari) karet",
+"meaning": "kebiasaan tidak tepat waktu",
+"region": "Indonesia",
+"register": "informal",
+"when": "Dipakai bercanda atau mengkritik."
+},
+{
+"lang": "ms",
+"kind": "slang",
+"expr": "…lah",
+"lit": "",
+"meaning": "partikel penegas lisan (\"jomlah!\" = ayo!, \"okaylah\")",
+"region": "Malaysia, Singapura",
+"register": "informal",
+"when": "Percakapan santai; jarang dalam tulisan formal."
+},
+{
+"lang": "ms",
+"kind": "slang",
+"expr": "tapau",
+"lit": "",
+"meaning": "membungkus makanan untuk dibawa pulang",
+"region": "Malaysia (dari Kantonis)",
+"register": "informal",
+"when": "\"Nak makan sini atau tapau?\""
+},
+{
+"lang": "ms",
+"kind": "ungkapan",
+"expr": "boleh tahan",
+"lit": "",
+"meaning": "lumayan, cukup bagus",
+"region": "Malaysia",
+"register": "informal",
+"when": "Menilai sesuatu secara positif tapi sedang."
+},
+{
+"lang": "ja",
+"kind": "etiket",
+"expr": "いただきます / ごちそうさまでした",
+"lit": "",
+"meaning": "diucapkan sebelum dan sesudah makan",
+"region": "Jepang",
+"register": "netral",
+"when": "Hampir selalu, termasuk saat makan sendiri di depan orang lain."
+},
+{
+"lang": "ja",
+"kind": "ungkapan",
+"expr": "よろしくお願いします",
+"lit": "",
+"meaning": "\"mohon kerja samanya/mohon bantuannya\" — sangat serbaguna",
+"region": "Jepang",
+"register": "sopan",
+"when": "Saat berkenalan, meminta sesuatu, memulai kerja sama."
+},
+{
+"lang": "ja",
+"kind": "ungkapan",
+"expr": "お疲れ様です",
+"lit": "",
+"meaning": "\"terima kasih atas kerja kerasnya\" — salam antar rekan kerja",
+"region": "Jepang",
+"register": "sopan",
+"when": "Di kantor, saat bertemu atau pulang. Jangan dipakai kepada pelanggan."
+},
+{
+"lang": "ja",
+"kind": "ungkapan",
+"expr": "空気を読む (kūki o yomu)",
+"lit": "",
+"meaning": "\"membaca suasana\" — memahami hal yang tak terucap",
+"region": "Jepang",
+"register": "netral",
+"when": "Nilai sosial penting dalam komunikasi."
+},
+{
+"lang": "ko",
+"kind": "ungkapan",
+"expr": "수고하셨습니다",
+"lit": "",
+"meaning": "\"terima kasih atas kerja kerasnya\"",
+"region": "Korea",
+"register": "sopan",
+"when": "Di akhir kerja atau kepada staf/penjual saat pergi."
+},
+{
+"lang": "ko",
+"kind": "slang",
+"expr": "화이팅! / 파이팅!",
+"lit": "",
+"meaning": "semangat!",
+"region": "Korea",
+"register": "informal",
+"when": "Menyemangati teman atau tim."
+},
+{
+"lang": "ko",
+"kind": "etiket",
+"expr": "Minum di depan orang lebih tua",
+"lit": "",
+"meaning": "Menuang dengan dua tangan; saat minum, sering memalingkan wajah sedikit dari orang yang lebih tua.",
+"region": "Korea",
+"register": "—",
+"when": "Acara makan/minum dengan atasan atau orang lebih tua."
+},
+{
+"lang": "zh",
+"kind": "ungkapan",
+"expr": "加油 (jiāyóu)",
+"lit": "tambah minyak",
+"meaning": "semangat!",
+"region": "Tiongkok, Taiwan",
+"register": "informal",
+"when": "Menyemangati seseorang."
+},
+{
+"lang": "zh",
+"kind": "ungkapan",
+"expr": "马马虎虎 (mǎmǎhūhū)",
+"lit": "kuda kuda harimau harimau",
+"meaning": "biasa saja, lumayan",
+"region": "umum",
+"register": "informal",
+"when": "Menjawab \"bagaimana?\" dengan rendah hati."
+},
+{
+"lang": "zh",
+"kind": "ungkapan",
+"expr": "面子 (miànzi)",
+"lit": "",
+"meaning": "\"muka\" — reputasi/harga diri sosial",
+"region": "umum",
+"register": "—",
+"when": "Hindari mempermalukan orang di depan umum."
+},
+{
+"lang": "th",
+"kind": "ungkapan",
+"expr": "ไม่เป็นไร (mai pen rai)",
+"lit": "",
+"meaning": "tidak apa-apa / sama-sama / jangan khawatir",
+"region": "Thailand",
+"register": "netral",
+"when": "Sangat umum; mencerminkan sikap santai."
+},
+{
+"lang": "th",
+"kind": "ungkapan",
+"expr": "เกรงใจ (kreng chai)",
+"lit": "",
+"meaning": "sungkan — enggan merepotkan orang lain",
+"region": "Thailand",
+"register": "—",
+"when": "Menjelaskan mengapa orang menghindari permintaan langsung."
+},
+{
+"lang": "th",
+"kind": "etiket",
+"expr": "Kepala dan kaki",
+"lit": "",
+"meaning": "Jangan menyentuh kepala orang lain; jangan menunjuk dengan kaki.",
+"region": "Thailand",
+"register": "—",
+"when": "Selalu."
+},
+{
+"lang": "vi",
+"kind": "ungkapan",
+"expr": "Ăn cơm chưa?",
+"lit": "",
+"meaning": "\"sudah makan nasi?\" — sapaan menunjukkan perhatian",
+"region": "Vietnam",
+"register": "informal",
+"when": "Antar kenalan dan keluarga."
+},
+{
+"lang": "vi",
+"kind": "peribahasa",
+"expr": "Một con ngựa đau, cả tàu bỏ cỏ",
+"lit": "",
+"meaning": "\"satu kuda sakit, seluruh kandang tidak makan rumput\" — solidaritas",
+"region": "Vietnam",
+"register": "netral",
+"when": "Tentang kebersamaan dalam kelompok."
+},
+{
+"lang": "vi",
+"kind": "etiket",
+"expr": "Kata ganti menurut usia",
+"lit": "",
+"meaning": "Memakai anh/chị/em/cô/chú sesuai usia & hubungan menunjukkan hormat.",
+"region": "Vietnam",
+"register": "—",
+"when": "Tanyakan cara memanggil jika ragu."
+}
+],
+"cefr": {
+"listening": {
+"A1": "Saya bisa mengenali kata-kata yang sangat umum dan frasa dasar tentang diri sendiri, keluarga, dan lingkungan terdekat jika orang berbicara pelan dan jelas.",
+"A2": "Saya bisa memahami frasa dan kosakata umum tentang hal-hal yang sangat relevan (info pribadi dan keluarga, belanja, lingkungan, pekerjaan). Saya bisa menangkap inti pesan dan pengumuman singkat yang jelas.",
+"B1": "Saya bisa memahami poin utama dari ucapan yang jelas dan standar tentang hal-hal akrab di tempat kerja, sekolah, waktu luang. Saya bisa memahami inti banyak program radio/TV tentang topik terkini jika pengucapannya relatif pelan dan jelas.",
+"B2": "Saya bisa memahami ceramah dan pidato yang cukup panjang, dan mengikuti argumen yang kompleks jika topiknya cukup akrab. Saya bisa memahami sebagian besar berita TV dan film dalam bahasa standar.",
+"C1": "Saya bisa memahami ucapan panjang meskipun tidak terstruktur dengan jelas dan hubungan antargagasan hanya tersirat. Saya bisa memahami program TV dan film tanpa banyak usaha.",
+"C2": "Saya tidak kesulitan memahami bahasa lisan apa pun, langsung maupun siaran, bahkan dengan kecepatan penutur asli, asalkan ada waktu untuk membiasakan diri dengan aksennya."
+},
+"reading": {
+"A1": "Saya bisa memahami nama, kata, dan kalimat yang sangat sederhana, misalnya di papan pengumuman, poster, atau katalog.",
+"A2": "Saya bisa membaca teks pendek yang sangat sederhana dan menemukan informasi spesifik dalam materi sehari-hari (iklan, menu, jadwal). Saya bisa memahami surat pribadi pendek.",
+"B1": "Saya bisa memahami teks yang sebagian besar berisi bahasa sehari-hari atau terkait pekerjaan. Saya bisa memahami deskripsi peristiwa, perasaan, dan harapan dalam surat pribadi.",
+"B2": "Saya bisa membaca artikel dan laporan tentang masalah kontemporer di mana penulis mengambil sikap tertentu. Saya bisa memahami prosa sastra kontemporer.",
+"C1": "Saya bisa memahami teks faktual dan sastra yang panjang dan kompleks serta menghargai perbedaan gaya. Saya bisa memahami artikel khusus dan instruksi teknis panjang, bahkan di luar bidang saya.",
+"C2": "Saya bisa dengan mudah membaca hampir semua bentuk bahasa tertulis, termasuk teks abstrak atau kompleks secara struktur/bahasa seperti manual, artikel khusus, dan karya sastra."
+},
+"speaking": {
+"A1": "Saya bisa berinteraksi secara sederhana jika lawan bicara mau mengulang atau berbicara lebih pelan dan membantu saya. Saya bisa mengajukan dan menjawab pertanyaan sederhana tentang kebutuhan langsung, dan memakai frasa sederhana untuk menggambarkan tempat tinggal dan orang yang saya kenal.",
+"A2": "Saya bisa berkomunikasi dalam tugas rutin sederhana yang membutuhkan pertukaran informasi langsung tentang topik akrab. Saya bisa melakukan percakapan sosial yang sangat singkat, dan menjelaskan keluarga, kondisi hidup, latar pendidikan, dan pekerjaan saat ini dengan kalimat sederhana.",
+"B1": "Saya bisa menangani sebagian besar situasi saat bepergian di wilayah penutur bahasa tersebut. Saya bisa ikut percakapan tanpa persiapan tentang topik akrab, dan menceritakan pengalaman, peristiwa, mimpi, harapan, serta memberi alasan singkat untuk pendapat dan rencana.",
+"B2": "Saya bisa berinteraksi dengan cukup lancar dan spontan sehingga interaksi rutin dengan penutur asli cukup mungkin. Saya bisa memberi deskripsi jelas dan rinci tentang beragam topik, menjelaskan sudut pandang dan pro-kontra berbagai pilihan.",
+"C1": "Saya bisa mengekspresikan diri dengan lancar dan spontan tanpa terlalu jelas mencari kata. Saya bisa memakai bahasa secara fleksibel dan efektif untuk keperluan sosial dan profesional, serta menyajikan deskripsi jelas dan terstruktur tentang topik kompleks.",
+"C2": "Saya bisa ikut serta dalam percakapan atau diskusi apa pun dengan mudah dan akrab dengan idiom serta ungkapan sehari-hari. Saya bisa menyampaikan nuansa makna dengan tepat dan menyajikan argumen yang mengalir lancar dengan gaya yang sesuai konteks."
+},
+"writing": {
+"A1": "Saya bisa menulis kartu pos pendek sederhana dan mengisi formulir dengan data pribadi (nama, kebangsaan, alamat).",
+"A2": "Saya bisa menulis catatan dan pesan pendek sederhana terkait kebutuhan langsung, serta surat pribadi yang sangat sederhana (misalnya berterima kasih).",
+"B1": "Saya bisa menulis teks sederhana yang tersambung tentang topik akrab, serta surat pribadi yang menggambarkan pengalaman dan kesan.",
+"B2": "Saya bisa menulis teks jelas dan rinci tentang beragam topik, esai atau laporan yang menyampaikan informasi atau argumen, dan surat yang menonjolkan makna pribadi dari peristiwa dan pengalaman.",
+"C1": "Saya bisa menulis teks yang jelas dan terstruktur baik, mengungkapkan sudut pandang secara panjang, menulis tentang topik kompleks dengan menonjolkan poin penting, dan memilih gaya yang sesuai pembaca.",
+"C2": "Saya bisa menulis teks yang jelas, mengalir lancar, dengan gaya yang tepat; menulis surat, laporan, atau artikel kompleks dengan struktur logis yang efektif, serta ringkasan dan ulasan karya profesional atau sastra."
+}
+},
+"personalities": [
+{
+"id": "teacher",
+"name": "Professional Teacher",
+"idn": "Guru Profesional",
+"desc": "Sabar, terstruktur, detail. Menjelaskan langkah demi langkah.",
+"prompt": "Act as a patient, structured, detailed professional language teacher."
+},
+{
+"id": "friend",
+"name": "Friendly Conversation Partner",
+"idn": "Teman Ngobrol",
+"desc": "Santai dan natural; koreksi ringan agar percakapan tetap mengalir.",
+"prompt": "Act as a friendly, relaxed, natural conversation partner; correct only important mistakes, gently."
+},
+{
+"id": "strict",
+"name": "Strict Grammar Coach",
+"idn": "Pelatih Tata Bahasa Ketat",
+"desc": "Fokus pada ketepatan; setiap kesalahan dikoreksi dan dijelaskan.",
+"prompt": "Act as a strict grammar coach: correct every error precisely and explain the rule."
+},
+{
+"id": "native",
+"name": "Native Speaker Simulator",
+"idn": "Simulator Penutur Asli",
+"desc": "Ungkapan alami, idiom dan percakapan realistis.",
+"prompt": "Act as a native speaker using natural, idiomatic, realistic language (but stay understandable for my level)."
+},
+{
+"id": "exam",
+"name": "Exam Preparation Coach",
+"idn": "Pelatih Persiapan Ujian",
+"desc": "Latihan terstruktur ala ujian dan penilaian berbasis kriteria.",
+"prompt": "Act as an exam preparation coach: structured practice tasks, criteria-based feedback, exam-style questions."
+},
+{
+"id": "vocab",
+"name": "Vocabulary Specialist",
+"idn": "Spesialis Kosakata",
+"desc": "Fokus pada kata, kolokasi, ungkapan dan retensi.",
+"prompt": "Act as a vocabulary specialist: focus on words, collocations, expressions, and memory techniques."
+}
+]
+}

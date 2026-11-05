@@ -1,0 +1,2934 @@
+{
+"scenarios": [
+{
+"id": "restaurant",
+"name": "Restoran",
+"level": "A1–A2",
+"steps": [
+{
+"tr": "Selamat malam! Meja untuk berapa orang?",
+"goal": "Sebutkan jumlah orang"
+},
+{
+"tr": "Mau minum apa?",
+"goal": "Pesan minuman"
+},
+{
+"tr": "Dan untuk makan?",
+"goal": "Pesan makanan"
+},
+{
+"tr": "Ada lagi?",
+"goal": "Minta bon"
+}
+],
+"endTr": "Ini dia. Selamat malam!"
+},
+{
+"id": "interview",
+"name": "Wawancara Kerja",
+"level": "B1",
+"steps": [
+{
+"tr": "Halo, silakan duduk. Bisa perkenalkan diri?",
+"goal": "Perkenalkan diri"
+},
+{
+"tr": "Mengapa Anda menginginkan pekerjaan ini?",
+"goal": "Beri alasan"
+},
+{
+"tr": "Apa kelebihan Anda?",
+"goal": "Sebutkan kelebihan"
+},
+{
+"tr": "Ada pertanyaan untuk kami?",
+"goal": "Ajukan pertanyaan"
+}
+],
+"endTr": "Terima kasih. Kami akan segera menghubungi Anda."
+},
+{
+"id": "office",
+"name": "Kantor",
+"level": "A2–B1",
+"steps": [
+{
+"tr": "Selamat pagi! Ada waktu untuk rapat singkat hari ini?",
+"goal": "Setujui/atur waktu rapat"
+},
+{
+"tr": "Bisa kirimkan laporannya?",
+"goal": "Tanggapi permintaan"
+},
+{
+"tr": "Apakah proyeknya sesuai jadwal?",
+"goal": "Laporkan status proyek"
+},
+{
+"tr": "Bagus. Sampai nanti!",
+"goal": "Tutup percakapan"
+}
+],
+"endTr": "Sampai nanti!"
+},
+{
+"id": "airport",
+"name": "Perjalanan / Bandara",
+"level": "A1–A2",
+"steps": [
+{
+"tr": "Selamat pagi. Paspornya, silakan.",
+"goal": "Serahkan paspor"
+},
+{
+"tr": "Terbang ke mana?",
+"goal": "Sebutkan tujuan"
+},
+{
+"tr": "Ada bagasi untuk check-in?",
+"goal": "Jawab soal bagasi"
+},
+{
+"tr": "Kursi dekat jendela atau lorong?",
+"goal": "Pilih kursi"
+}
+],
+"endTr": "Ini boarding pass Anda. Gerbang 12."
+},
+{
+"id": "hotel",
+"name": "Hotel",
+"level": "A1–A2",
+"steps": [
+{
+"tr": "Selamat malam. Apakah Anda punya reservasi?",
+"goal": "Konfirmasi reservasi"
+},
+{
+"tr": "Untuk berapa malam?",
+"goal": "Sebutkan jumlah malam"
+},
+{
+"tr": "Sarapan dari jam tujuh sampai sepuluh. Ada lagi yang dibutuhkan?",
+"goal": "Tanyakan sesuatu (mis. Wi-Fi)"
+}
+],
+"endTr": "Silakan, ini kunci kamar Anda. Selamat beristirahat!"
+},
+{
+"id": "doctor",
+"name": "Dokter",
+"level": "A2–B1",
+"steps": [
+{
+"tr": "Halo, apa keluhannya?",
+"goal": "Jelaskan gejala"
+},
+{
+"tr": "Sejak kapan?",
+"goal": "Sebutkan sejak kapan"
+},
+{
+"tr": "Apakah Anda alergi obat tertentu?",
+"goal": "Jawab soal alergi"
+}
+],
+"endTr": "Minum ini dua kali sehari dan istirahatlah."
+},
+{
+"id": "shopping",
+"name": "Belanja",
+"level": "A1–A2",
+"steps": [
+{
+"tr": "Halo, ada yang bisa saya bantu?",
+"goal": "Katakan apa yang dicari"
+},
+{
+"tr": "Ukuran berapa?",
+"goal": "Sebutkan ukuran"
+},
+{
+"tr": "Yang ini harganya 50 euro.",
+"goal": "Tanggapi (coba/beli)"
+},
+{
+"tr": "Tunai atau kartu?",
+"goal": "Pilih cara bayar"
+}
+],
+"endTr": "Terima kasih, semoga hari Anda menyenangkan!"
+},
+{
+"id": "emergency",
+"name": "Darurat",
+"level": "A2",
+"steps": [
+{
+"tr": "Layanan darurat, apa yang terjadi?",
+"goal": "Jelaskan kejadian"
+},
+{
+"tr": "Anda di mana?",
+"goal": "Sebutkan lokasi"
+},
+{
+"tr": "Apakah ada yang terluka?",
+"goal": "Jawab soal korban"
+}
+],
+"endTr": "Bantuan sedang menuju ke sana. Tetap tenang."
+},
+{
+"id": "social",
+"name": "Sosial / Berkenalan",
+"level": "A1",
+"steps": [
+{
+"tr": "Hai! Saya Anna. Siapa namamu?",
+"goal": "Sebutkan nama"
+},
+{
+"tr": "Kamu dari mana?",
+"goal": "Sebutkan asal"
+},
+{
+"tr": "Apa yang kamu lakukan di waktu luang?",
+"goal": "Ceritakan hobi"
+},
+{
+"tr": "Asyik! Mau minum kopi bareng kapan-kapan?",
+"goal": "Terima/tolak ajakan"
+}
+],
+"endTr": "Bagus! Sampai jumpa!"
+}
+],
+"langs": {
+"en": {
+"clarify": "Sorry, could you say that again?",
+"s": {
+"restaurant": {
+"steps": [
+{
+"say": "Good evening! A table for how many people?",
+"hint": "A table for two, please.",
+"kw": [
+"one",
+"two",
+"three",
+"four",
+"five",
+"six",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "What would you like to drink?",
+"hint": "Some water, please.",
+"kw": [
+"water",
+"coffee",
+"wine",
+"beer",
+"juice",
+"tea",
+"cola",
+"lemonade"
+]
+},
+{
+"say": "And to eat?",
+"hint": "I'd like the pasta, please.",
+"kw": [
+"i'd like",
+"i would like",
+"i'll have",
+"i will have",
+"pasta",
+"pizza",
+"salad",
+"fish",
+"chicken",
+"steak",
+"soup",
+"the"
+]
+},
+{
+"say": "Anything else?",
+"hint": "No, thank you. The bill, please.",
+"kw": [
+"bill",
+"check",
+"no",
+"that's all"
+]
+}
+],
+"end": "Here you are. Have a nice evening!"
+},
+"interview": {
+"steps": [
+{
+"say": "Hello, please have a seat. Can you introduce yourself?",
+"hint": "My name is Max and I'm a designer.",
+"kw": [
+"my name",
+"i'm",
+"i am",
+"name is"
+]
+},
+{
+"say": "Why do you want this job?",
+"hint": "Because I'm interested in your company.",
+"kw": [
+"because",
+"interested",
+"i want",
+"i'd like",
+"i would like",
+"experience",
+"passion"
+]
+},
+{
+"say": "What are your strengths?",
+"hint": "I'm organised and I work well in a team.",
+"kw": [
+"i'm",
+"i am",
+"good at",
+"strength",
+"organi",
+"team",
+"reliable",
+"creative"
+]
+},
+{
+"say": "Do you have any questions for us?",
+"hint": "Yes, when could I start?",
+"kw": [
+"yes",
+"no",
+"question",
+"when",
+"how",
+"what",
+"could"
+]
+}
+],
+"end": "Thank you. We'll contact you soon."
+},
+"office": {
+"steps": [
+{
+"say": "Good morning! Do you have time for a short meeting today?",
+"hint": "Yes, how about three o'clock?",
+"kw": [
+"yes",
+"sure",
+"of course",
+"no",
+"sorry",
+"afternoon",
+"o'clock",
+"at",
+"how about"
+]
+},
+{
+"say": "Could you send me the report?",
+"hint": "Sure, I'll send it today.",
+"kw": [
+"sure",
+"yes",
+"of course",
+"today",
+"tomorrow",
+"send",
+"okay",
+"ok"
+]
+},
+{
+"say": "Is the project on schedule?",
+"hint": "Yes, it's almost finished.",
+"kw": [
+"yes",
+"no",
+"delay",
+"late",
+"on time",
+"almost",
+"schedule",
+"finished"
+]
+},
+{
+"say": "Great. See you later!",
+"hint": "See you later!",
+"kw": [
+"see you",
+"bye",
+"thanks",
+"thank you"
+]
+}
+],
+"end": "See you later!"
+},
+"airport": {
+"steps": [
+{
+"say": "Good morning. Your passport, please.",
+"hint": "Here you are.",
+"kw": [
+"here",
+"yes",
+"of course",
+"sure"
+]
+},
+{
+"say": "Where are you flying to?",
+"hint": "To Rome.",
+"kw": [
+"to",
+"rome",
+"paris",
+"london",
+"jakarta",
+"tokyo",
+"madrid",
+"berlin"
+]
+},
+{
+"say": "Do you have any luggage to check in?",
+"hint": "Yes, one suitcase.",
+"kw": [
+"yes",
+"no",
+"one",
+"suitcase",
+"bag",
+"luggage"
+]
+},
+{
+"say": "Window or aisle seat?",
+"hint": "Window, please.",
+"kw": [
+"window",
+"aisle"
+]
+}
+],
+"end": "Here's your boarding pass. Gate 12."
+},
+"hotel": {
+"steps": [
+{
+"say": "Good evening. Do you have a reservation?",
+"hint": "Yes, under the name Verstappen.",
+"kw": [
+"yes",
+"no",
+"reservation",
+"name",
+"booked",
+"booking"
+]
+},
+{
+"say": "How many nights?",
+"hint": "Three nights.",
+"kw": [
+"night",
+"one",
+"two",
+"three",
+"four",
+"five",
+"six",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "Breakfast is from seven to ten. Do you need anything else?",
+"hint": "What's the Wi-Fi password?",
+"kw": [
+"wi-fi",
+"wifi",
+"password",
+"no",
+"thanks",
+"thank you",
+"towel",
+"yes"
+]
+}
+],
+"end": "Here's your key. Enjoy your stay!"
+},
+"doctor": {
+"steps": [
+{
+"say": "Hello, what seems to be the problem?",
+"hint": "I have a headache and a fever.",
+"kw": [
+"hurt",
+"pain",
+"headache",
+"fever",
+"sick",
+"cough",
+"ache",
+"sore"
+]
+},
+{
+"say": "Since when?",
+"hint": "Since yesterday.",
+"kw": [
+"since",
+"yesterday",
+"day",
+"week",
+"today",
+"morning"
+]
+},
+{
+"say": "Are you allergic to any medicine?",
+"hint": "No, I'm not.",
+"kw": [
+"no",
+"yes",
+"allergic",
+"penicillin",
+"not"
+]
+}
+],
+"end": "Take this twice a day and get some rest."
+},
+"shopping": {
+"steps": [
+{
+"say": "Hello, can I help you?",
+"hint": "Yes, I'm looking for a jacket.",
+"kw": [
+"looking for",
+"i need",
+"yes",
+"just looking",
+"jacket",
+"shirt",
+"shoes"
+]
+},
+{
+"say": "What size?",
+"hint": "Medium, please.",
+"kw": [
+"small",
+"medium",
+"large",
+"size",
+"s",
+"m",
+"l"
+]
+},
+{
+"say": "This one costs fifty euros.",
+"hint": "Can I try it on?",
+"kw": [
+"try",
+"take",
+"buy",
+"expensive",
+"okay",
+"ok"
+]
+},
+{
+"say": "Cash or card?",
+"hint": "By card, please.",
+"kw": [
+"card",
+"cash"
+]
+}
+],
+"end": "Thank you, have a nice day!"
+},
+"emergency": {
+"steps": [
+{
+"say": "Emergency services, what's happened?",
+"hint": "There's been an accident.",
+"kw": [
+"accident",
+"fire",
+"help",
+"injured",
+"hurt",
+"stolen",
+"robbed",
+"ill"
+]
+},
+{
+"say": "Where are you?",
+"hint": "Near the train station.",
+"kw": [
+"street",
+"near",
+"at",
+"in front",
+"address",
+"station",
+"road"
+]
+},
+{
+"say": "Is anyone injured?",
+"hint": "Yes, one person.",
+"kw": [
+"yes",
+"no",
+"one",
+"man",
+"woman",
+"person",
+"bleeding"
+]
+}
+],
+"end": "Help is on the way. Stay calm."
+},
+"social": {
+"steps": [
+{
+"say": "Hi! I'm Anna. What's your name?",
+"hint": "Hi, I'm Max.",
+"kw": [
+"i'm",
+"i am",
+"my name",
+"name"
+]
+},
+{
+"say": "Where are you from?",
+"hint": "I'm from Indonesia.",
+"kw": [
+"from",
+"indonesia",
+"italy",
+"spain"
+]
+},
+{
+"say": "What do you do in your free time?",
+"hint": "I like playing football.",
+"kw": [
+"like",
+"love",
+"play",
+"read",
+"watch",
+"football",
+"music",
+"travel"
+]
+},
+{
+"say": "Nice! Shall we have a coffee sometime?",
+"hint": "Sure, I'd love to!",
+"kw": [
+"yes",
+"sure",
+"of course",
+"love to",
+"no",
+"sorry"
+]
+}
+],
+"end": "Great! See you!"
+}
+}
+},
+"it": {
+"clarify": "Scusi, può ripetere?",
+"s": {
+"restaurant": {
+"steps": [
+{
+"say": "Buonasera! Un tavolo per quante persone?",
+"hint": "Un tavolo per due, per favore.",
+"kw": [
+"uno",
+"due",
+"tre",
+"quattro",
+"cinque",
+"sei",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "Cosa desidera da bere?",
+"hint": "Dell'acqua, per favore.",
+"kw": [
+"acqua",
+"caffè",
+"vino",
+"birra",
+"succo",
+"tè",
+"coca"
+]
+},
+{
+"say": "E da mangiare?",
+"hint": "Vorrei la pasta, per favore.",
+"kw": [
+"vorrei",
+"prendo",
+"pasta",
+"pizza",
+"insalata",
+"pesce",
+"pollo",
+"bistecca",
+"zuppa"
+]
+},
+{
+"say": "Altro?",
+"hint": "No, grazie. Il conto, per favore.",
+"kw": [
+"conto",
+"no",
+"basta"
+]
+}
+],
+"end": "Ecco a Lei. Buona serata!"
+},
+"interview": {
+"steps": [
+{
+"say": "Buongiorno, si accomodi. Può presentarsi?",
+"hint": "Mi chiamo Max e sono un designer.",
+"kw": [
+"mi chiamo",
+"sono",
+"il mio nome"
+]
+},
+{
+"say": "Perché vuole questo lavoro?",
+"hint": "Perché sono interessato alla vostra azienda.",
+"kw": [
+"perché",
+"interess",
+"vorrei",
+"voglio",
+"esperienza"
+]
+},
+{
+"say": "Quali sono i suoi punti di forza?",
+"hint": "Sono organizzato e lavoro bene in squadra.",
+"kw": [
+"sono",
+"organizzat",
+"squadra",
+"affidabile",
+"creativ",
+"bravo"
+]
+},
+{
+"say": "Ha domande per noi?",
+"hint": "Sì, quando potrei cominciare?",
+"kw": [
+"sì",
+"si",
+"no",
+"quando",
+"come",
+"cosa",
+"domanda"
+]
+}
+],
+"end": "Grazie. La contatteremo presto."
+},
+"office": {
+"steps": [
+{
+"say": "Buongiorno! Hai tempo per una breve riunione oggi?",
+"hint": "Sì, alle tre va bene?",
+"kw": [
+"sì",
+"si",
+"certo",
+"no",
+"alle",
+"pomeriggio",
+"va bene"
+]
+},
+{
+"say": "Mi puoi mandare il rapporto?",
+"hint": "Certo, te lo mando oggi.",
+"kw": [
+"certo",
+"sì",
+"si",
+"oggi",
+"domani",
+"mando",
+"va bene"
+]
+},
+{
+"say": "Il progetto è nei tempi?",
+"hint": "Sì, è quasi finito.",
+"kw": [
+"sì",
+"si",
+"no",
+"ritardo",
+"quasi",
+"finito",
+"tempi"
+]
+},
+{
+"say": "Perfetto. A dopo!",
+"hint": "A dopo!",
+"kw": [
+"a dopo",
+"ciao",
+"grazie",
+"arrivederci"
+]
+}
+],
+"end": "A dopo!"
+},
+"airport": {
+"steps": [
+{
+"say": "Buongiorno. Il passaporto, per favore.",
+"hint": "Ecco a Lei.",
+"kw": [
+"ecco",
+"sì",
+"si",
+"certo"
+]
+},
+{
+"say": "Dove va?",
+"hint": "A Roma.",
+"kw": [
+"a",
+"roma",
+"parigi",
+"londra",
+"giacarta",
+"tokyo",
+"madrid",
+"berlino"
+]
+},
+{
+"say": "Ha bagagli da imbarcare?",
+"hint": "Sì, una valigia.",
+"kw": [
+"sì",
+"si",
+"no",
+"una",
+"valigia",
+"bagaglio",
+"borsa"
+]
+},
+{
+"say": "Finestrino o corridoio?",
+"hint": "Finestrino, per favore.",
+"kw": [
+"finestrino",
+"corridoio"
+]
+}
+],
+"end": "Ecco la Sua carta d'imbarco. Uscita 12."
+},
+"hotel": {
+"steps": [
+{
+"say": "Buonasera. Ha una prenotazione?",
+"hint": "Sì, a nome Verstappen.",
+"kw": [
+"sì",
+"si",
+"no",
+"prenotazione",
+"nome"
+]
+},
+{
+"say": "Per quante notti?",
+"hint": "Tre notti.",
+"kw": [
+"nott",
+"uno",
+"due",
+"tre",
+"quattro",
+"cinque",
+"sei",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "La colazione è dalle sette alle dieci. Le serve altro?",
+"hint": "Qual è la password del Wi-Fi?",
+"kw": [
+"wi-fi",
+"wifi",
+"password",
+"no",
+"grazie",
+"asciugamano",
+"sì"
+]
+}
+],
+"end": "Ecco la chiave. Buona permanenza!"
+},
+"doctor": {
+"steps": [
+{
+"say": "Buongiorno, qual è il problema?",
+"hint": "Ho mal di testa e la febbre.",
+"kw": [
+"mal di",
+"dolore",
+"febbre",
+"tosse",
+"male",
+"sto male"
+]
+},
+{
+"say": "Da quando?",
+"hint": "Da ieri.",
+"kw": [
+"da",
+"ieri",
+"giorni",
+"settimana",
+"oggi",
+"stamattina"
+]
+},
+{
+"say": "È allergico a qualche medicinale?",
+"hint": "No, non sono allergico.",
+"kw": [
+"no",
+"sì",
+"si",
+"allergic",
+"penicillina"
+]
+}
+],
+"end": "Prenda questo due volte al giorno e si riposi."
+},
+"shopping": {
+"steps": [
+{
+"say": "Buongiorno, posso aiutarLa?",
+"hint": "Sì, cerco una giacca.",
+"kw": [
+"cerco",
+"vorrei",
+"sì",
+"si",
+"sto solo guardando",
+"giacca",
+"camicia",
+"scarpe"
+]
+},
+{
+"say": "Che taglia?",
+"hint": "Media, per favore.",
+"kw": [
+"small",
+"media",
+"large",
+"taglia",
+"s",
+"m",
+"l",
+"piccola",
+"grande",
+"42",
+"44",
+"46"
+]
+},
+{
+"say": "Questa costa cinquanta euro.",
+"hint": "Posso provarla?",
+"kw": [
+"provar",
+"prendo",
+"compro",
+"cara",
+"va bene"
+]
+},
+{
+"say": "Contanti o carta?",
+"hint": "Con la carta, per favore.",
+"kw": [
+"carta",
+"contanti",
+"bancomat"
+]
+}
+],
+"end": "Grazie, buona giornata!"
+},
+"emergency": {
+"steps": [
+{
+"say": "Servizio di emergenza, cosa è successo?",
+"hint": "C'è stato un incidente.",
+"kw": [
+"incidente",
+"fuoco",
+"incendio",
+"aiuto",
+"ferit",
+"rubato",
+"male"
+]
+},
+{
+"say": "Dove si trova?",
+"hint": "Vicino alla stazione.",
+"kw": [
+"via",
+"vicino",
+"davanti",
+"indirizzo",
+"stazione",
+"piazza",
+"in"
+]
+},
+{
+"say": "Ci sono feriti?",
+"hint": "Sì, una persona.",
+"kw": [
+"sì",
+"si",
+"no",
+"una",
+"persona",
+"uomo",
+"donna",
+"sangue"
+]
+}
+],
+"end": "I soccorsi stanno arrivando. Stia calmo."
+},
+"social": {
+"steps": [
+{
+"say": "Ciao! Sono Anna. Come ti chiami?",
+"hint": "Ciao, mi chiamo Max.",
+"kw": [
+"mi chiamo",
+"sono",
+"il mio nome"
+]
+},
+{
+"say": "Di dove sei?",
+"hint": "Sono indonesiano.",
+"kw": [
+"di",
+"indonesia",
+"sono",
+"italia",
+"vengo"
+]
+},
+{
+"say": "Cosa fai nel tempo libero?",
+"hint": "Mi piace giocare a calcio.",
+"kw": [
+"mi piace",
+"amo",
+"gioco",
+"leggo",
+"guardo",
+"calcio",
+"musica",
+"viaggiare"
+]
+},
+{
+"say": "Bello! Prendiamo un caffè qualche volta?",
+"hint": "Certo, volentieri!",
+"kw": [
+"sì",
+"si",
+"certo",
+"volentieri",
+"no",
+"mi dispiace"
+]
+}
+],
+"end": "Perfetto! A presto!"
+}
+}
+},
+"es": {
+"clarify": "Perdone, ¿puede repetir?",
+"s": {
+"restaurant": {
+"steps": [
+{
+"say": "¡Buenas noches! ¿Una mesa para cuántas personas?",
+"hint": "Una mesa para dos, por favor.",
+"kw": [
+"uno",
+"dos",
+"tres",
+"cuatro",
+"cinco",
+"seis",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "¿Qué desea beber?",
+"hint": "Agua, por favor.",
+"kw": [
+"agua",
+"café",
+"vino",
+"cerveza",
+"zumo",
+"jugo",
+"té",
+"refresco"
+]
+},
+{
+"say": "¿Y para comer?",
+"hint": "Quiero la paella, por favor.",
+"kw": [
+"quiero",
+"quisiera",
+"voy a tomar",
+"paella",
+"pasta",
+"ensalada",
+"pescado",
+"pollo",
+"sopa"
+]
+},
+{
+"say": "¿Algo más?",
+"hint": "No, gracias. La cuenta, por favor.",
+"kw": [
+"cuenta",
+"no",
+"nada más"
+]
+}
+],
+"end": "Aquí tiene. ¡Buenas noches!"
+},
+"interview": {
+"steps": [
+{
+"say": "Hola, siéntese, por favor. ¿Puede presentarse?",
+"hint": "Me llamo Max y soy diseñador.",
+"kw": [
+"me llamo",
+"soy",
+"mi nombre"
+]
+},
+{
+"say": "¿Por qué quiere este trabajo?",
+"hint": "Porque me interesa su empresa.",
+"kw": [
+"porque",
+"interesa",
+"quiero",
+"me gustaría",
+"experiencia"
+]
+},
+{
+"say": "¿Cuáles son sus puntos fuertes?",
+"hint": "Soy organizado y trabajo bien en equipo.",
+"kw": [
+"soy",
+"organizad",
+"equipo",
+"responsable",
+"creativ"
+]
+},
+{
+"say": "¿Tiene alguna pregunta?",
+"hint": "Sí, ¿cuándo podría empezar?",
+"kw": [
+"sí",
+"si",
+"no",
+"cuándo",
+"cuando",
+"cómo",
+"qué",
+"pregunta"
+]
+}
+],
+"end": "Gracias. Le llamaremos pronto."
+},
+"office": {
+"steps": [
+{
+"say": "¡Buenos días! ¿Tienes tiempo para una reunión corta hoy?",
+"hint": "Sí, ¿a las tres?",
+"kw": [
+"sí",
+"si",
+"claro",
+"no",
+"a las",
+"tarde",
+"vale"
+]
+},
+{
+"say": "¿Me puedes enviar el informe?",
+"hint": "Claro, te lo envío hoy.",
+"kw": [
+"claro",
+"sí",
+"si",
+"hoy",
+"mañana",
+"envío",
+"vale"
+]
+},
+{
+"say": "¿El proyecto va según lo previsto?",
+"hint": "Sí, está casi terminado.",
+"kw": [
+"sí",
+"si",
+"no",
+"retraso",
+"casi",
+"terminado",
+"previsto"
+]
+},
+{
+"say": "Perfecto. ¡Hasta luego!",
+"hint": "¡Hasta luego!",
+"kw": [
+"hasta luego",
+"adiós",
+"gracias",
+"chao"
+]
+}
+],
+"end": "¡Hasta luego!"
+},
+"airport": {
+"steps": [
+{
+"say": "Buenos días. Su pasaporte, por favor.",
+"hint": "Aquí tiene.",
+"kw": [
+"aquí",
+"sí",
+"si",
+"claro"
+]
+},
+{
+"say": "¿Adónde viaja?",
+"hint": "A Roma.",
+"kw": [
+"a",
+"roma",
+"parís",
+"londres",
+"yakarta",
+"tokio",
+"madrid",
+"berlín"
+]
+},
+{
+"say": "¿Tiene equipaje para facturar?",
+"hint": "Sí, una maleta.",
+"kw": [
+"sí",
+"si",
+"no",
+"una",
+"maleta",
+"equipaje",
+"bolsa"
+]
+},
+{
+"say": "¿Ventanilla o pasillo?",
+"hint": "Ventanilla, por favor.",
+"kw": [
+"ventanilla",
+"pasillo"
+]
+}
+],
+"end": "Aquí tiene su tarjeta de embarque. Puerta 12."
+},
+"hotel": {
+"steps": [
+{
+"say": "Buenas noches. ¿Tiene una reserva?",
+"hint": "Sí, a nombre de Verstappen.",
+"kw": [
+"sí",
+"si",
+"no",
+"reserva",
+"nombre"
+]
+},
+{
+"say": "¿Cuántas noches?",
+"hint": "Tres noches.",
+"kw": [
+"noche",
+"uno",
+"dos",
+"tres",
+"cuatro",
+"cinco",
+"seis",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "El desayuno es de siete a diez. ¿Necesita algo más?",
+"hint": "¿Cuál es la contraseña del wifi?",
+"kw": [
+"wifi",
+"wi-fi",
+"contraseña",
+"no",
+"gracias",
+"toalla",
+"sí"
+]
+}
+],
+"end": "Aquí tiene la llave. ¡Que disfrute su estancia!"
+},
+"doctor": {
+"steps": [
+{
+"say": "Hola, ¿qué le pasa?",
+"hint": "Me duele la cabeza y tengo fiebre.",
+"kw": [
+"duele",
+"dolor",
+"fiebre",
+"tos",
+"enfermo",
+"mal"
+]
+},
+{
+"say": "¿Desde cuándo?",
+"hint": "Desde ayer.",
+"kw": [
+"desde",
+"ayer",
+"días",
+"semana",
+"hoy",
+"mañana"
+]
+},
+{
+"say": "¿Es alérgico a algún medicamento?",
+"hint": "No, no soy alérgico.",
+"kw": [
+"no",
+"sí",
+"si",
+"alérgic",
+"penicilina"
+]
+}
+],
+"end": "Tome esto dos veces al día y descanse."
+},
+"shopping": {
+"steps": [
+{
+"say": "Hola, ¿le puedo ayudar?",
+"hint": "Sí, busco una chaqueta.",
+"kw": [
+"busco",
+"quiero",
+"sí",
+"si",
+"solo estoy mirando",
+"chaqueta",
+"camisa",
+"zapatos"
+]
+},
+{
+"say": "¿Qué talla?",
+"hint": "La mediana, por favor.",
+"kw": [
+"pequeña",
+"mediana",
+"grande",
+"talla",
+"s",
+"m",
+"l"
+]
+},
+{
+"say": "Esta cuesta cincuenta euros.",
+"hint": "¿Me la puedo probar?",
+"kw": [
+"probar",
+"me la llevo",
+"compro",
+"cara",
+"vale"
+]
+},
+{
+"say": "¿Efectivo o tarjeta?",
+"hint": "Con tarjeta, por favor.",
+"kw": [
+"tarjeta",
+"efectivo"
+]
+}
+],
+"end": "¡Gracias, que tenga un buen día!"
+},
+"emergency": {
+"steps": [
+{
+"say": "Emergencias, ¿qué ha pasado?",
+"hint": "Ha habido un accidente.",
+"kw": [
+"accidente",
+"fuego",
+"incendio",
+"ayuda",
+"herid",
+"robado"
+]
+},
+{
+"say": "¿Dónde está?",
+"hint": "Cerca de la estación.",
+"kw": [
+"calle",
+"cerca",
+"delante",
+"dirección",
+"estación",
+"plaza",
+"en"
+]
+},
+{
+"say": "¿Hay algún herido?",
+"hint": "Sí, una persona.",
+"kw": [
+"sí",
+"si",
+"no",
+"una",
+"persona",
+"hombre",
+"mujer",
+"sangr"
+]
+}
+],
+"end": "La ayuda va en camino. Mantenga la calma."
+},
+"social": {
+"steps": [
+{
+"say": "¡Hola! Soy Anna. ¿Cómo te llamas?",
+"hint": "Hola, me llamo Max.",
+"kw": [
+"me llamo",
+"soy",
+"mi nombre"
+]
+},
+{
+"say": "¿De dónde eres?",
+"hint": "Soy de Indonesia.",
+"kw": [
+"de",
+"indonesia",
+"soy"
+]
+},
+{
+"say": "¿Qué haces en tu tiempo libre?",
+"hint": "Me gusta jugar al fútbol.",
+"kw": [
+"me gusta",
+"me encanta",
+"juego",
+"leo",
+"veo",
+"fútbol",
+"música",
+"viajar"
+]
+},
+{
+"say": "¡Qué bien! ¿Tomamos un café algún día?",
+"hint": "¡Claro, me encantaría!",
+"kw": [
+"sí",
+"si",
+"claro",
+"me encantaría",
+"vale",
+"no",
+"lo siento"
+]
+}
+],
+"end": "¡Genial! ¡Hasta pronto!"
+}
+}
+},
+"fr": {
+"clarify": "Pardon, vous pouvez répéter ?",
+"s": {
+"restaurant": {
+"steps": [
+{
+"say": "Bonsoir ! Une table pour combien de personnes ?",
+"hint": "Une table pour deux, s'il vous plaît.",
+"kw": [
+"un",
+"deux",
+"trois",
+"quatre",
+"cinq",
+"six",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "Qu'est-ce que vous voulez boire ?",
+"hint": "De l'eau, s'il vous plaît.",
+"kw": [
+"eau",
+"café",
+"vin",
+"bière",
+"jus",
+"thé",
+"coca"
+]
+},
+{
+"say": "Et pour manger ?",
+"hint": "Je voudrais le poulet, s'il vous plaît.",
+"kw": [
+"je voudrais",
+"je vais prendre",
+"je prends",
+"poulet",
+"poisson",
+"salade",
+"steak",
+"soupe",
+"pâtes"
+]
+},
+{
+"say": "Autre chose ?",
+"hint": "Non merci. L'addition, s'il vous plaît.",
+"kw": [
+"addition",
+"non",
+"c'est tout"
+]
+}
+],
+"end": "Voilà. Bonne soirée !"
+},
+"interview": {
+"steps": [
+{
+"say": "Bonjour, asseyez-vous. Pouvez-vous vous présenter ?",
+"hint": "Je m'appelle Max et je suis designer.",
+"kw": [
+"je m'appelle",
+"je suis",
+"mon nom"
+]
+},
+{
+"say": "Pourquoi voulez-vous ce poste ?",
+"hint": "Parce que votre entreprise m'intéresse.",
+"kw": [
+"parce que",
+"intéress",
+"je voudrais",
+"je veux",
+"expérience"
+]
+},
+{
+"say": "Quels sont vos points forts ?",
+"hint": "Je suis organisé et j'aime travailler en équipe.",
+"kw": [
+"je suis",
+"organisé",
+"équipe",
+"fiable",
+"créati",
+"sérieu"
+]
+},
+{
+"say": "Avez-vous des questions ?",
+"hint": "Oui, quand pourrais-je commencer ?",
+"kw": [
+"oui",
+"non",
+"quand",
+"comment",
+"quoi",
+"question"
+]
+}
+],
+"end": "Merci. Nous vous recontacterons bientôt."
+},
+"office": {
+"steps": [
+{
+"say": "Bonjour ! Tu as le temps pour une petite réunion aujourd'hui ?",
+"hint": "Oui, à quinze heures ?",
+"kw": [
+"oui",
+"bien sûr",
+"non",
+"désolé",
+"heures",
+"après-midi",
+"à"
+]
+},
+{
+"say": "Tu peux m'envoyer le rapport ?",
+"hint": "Bien sûr, je te l'envoie aujourd'hui.",
+"kw": [
+"bien sûr",
+"oui",
+"aujourd'hui",
+"demain",
+"envoie",
+"d'accord"
+]
+},
+{
+"say": "Le projet est dans les temps ?",
+"hint": "Oui, c'est presque fini.",
+"kw": [
+"oui",
+"non",
+"retard",
+"presque",
+"fini",
+"temps"
+]
+},
+{
+"say": "Parfait. À plus tard !",
+"hint": "À plus tard !",
+"kw": [
+"à plus",
+"au revoir",
+"merci",
+"salut"
+]
+}
+],
+"end": "À plus tard !"
+},
+"airport": {
+"steps": [
+{
+"say": "Bonjour. Votre passeport, s'il vous plaît.",
+"hint": "Voilà.",
+"kw": [
+"voilà",
+"voici",
+"oui",
+"bien sûr"
+]
+},
+{
+"say": "Où allez-vous ?",
+"hint": "À Rome.",
+"kw": [
+"à",
+"rome",
+"paris",
+"londres",
+"jakarta",
+"tokyo",
+"madrid",
+"berlin"
+]
+},
+{
+"say": "Vous avez des bagages à enregistrer ?",
+"hint": "Oui, une valise.",
+"kw": [
+"oui",
+"non",
+"une",
+"valise",
+"bagage",
+"sac"
+]
+},
+{
+"say": "Hublot ou couloir ?",
+"hint": "Hublot, s'il vous plaît.",
+"kw": [
+"hublot",
+"fenêtre",
+"couloir"
+]
+}
+],
+"end": "Voici votre carte d'embarquement. Porte 12."
+},
+"hotel": {
+"steps": [
+{
+"say": "Bonsoir. Vous avez une réservation ?",
+"hint": "Oui, au nom de Verstappen.",
+"kw": [
+"oui",
+"non",
+"réservation",
+"nom"
+]
+},
+{
+"say": "Pour combien de nuits ?",
+"hint": "Trois nuits.",
+"kw": [
+"nuit",
+"un",
+"deux",
+"trois",
+"quatre",
+"cinq",
+"six",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "Le petit-déjeuner est servi de sept à dix heures. Vous avez besoin d'autre chose ?",
+"hint": "Quel est le mot de passe du wifi ?",
+"kw": [
+"wifi",
+"wi-fi",
+"mot de passe",
+"non",
+"merci",
+"serviette",
+"oui"
+]
+}
+],
+"end": "Voici votre clé. Bon séjour !"
+},
+"doctor": {
+"steps": [
+{
+"say": "Bonjour, qu'est-ce qui ne va pas ?",
+"hint": "J'ai mal à la tête et de la fièvre.",
+"kw": [
+"mal",
+"douleur",
+"fièvre",
+"tousse",
+"toux",
+"malade"
+]
+},
+{
+"say": "Depuis quand ?",
+"hint": "Depuis hier.",
+"kw": [
+"depuis",
+"hier",
+"jours",
+"semaine",
+"aujourd'hui",
+"matin"
+]
+},
+{
+"say": "Vous êtes allergique à un médicament ?",
+"hint": "Non, je ne suis pas allergique.",
+"kw": [
+"non",
+"oui",
+"allergique",
+"pénicilline"
+]
+}
+],
+"end": "Prenez ceci deux fois par jour et reposez-vous."
+},
+"shopping": {
+"steps": [
+{
+"say": "Bonjour, je peux vous aider ?",
+"hint": "Oui, je cherche une veste.",
+"kw": [
+"je cherche",
+"je voudrais",
+"oui",
+"je regarde",
+"veste",
+"chemise",
+"chaussures"
+]
+},
+{
+"say": "Quelle taille ?",
+"hint": "Du M, s'il vous plaît.",
+"kw": [
+"taille",
+"s",
+"m",
+"l",
+"petit",
+"moyen",
+"grand",
+"38",
+"40",
+"42"
+]
+},
+{
+"say": "Celle-ci coûte cinquante euros.",
+"hint": "Je peux l'essayer ?",
+"kw": [
+"essayer",
+"je la prends",
+"j'achète",
+"cher",
+"d'accord"
+]
+},
+{
+"say": "Espèces ou carte ?",
+"hint": "Par carte, s'il vous plaît.",
+"kw": [
+"carte",
+"espèces",
+"liquide"
+]
+}
+],
+"end": "Merci, bonne journée !"
+},
+"emergency": {
+"steps": [
+{
+"say": "Service d'urgence, que se passe-t-il ?",
+"hint": "Il y a eu un accident.",
+"kw": [
+"accident",
+"feu",
+"incendie",
+"au secours",
+"aide",
+"blessé",
+"volé"
+]
+},
+{
+"say": "Où êtes-vous ?",
+"hint": "Près de la gare.",
+"kw": [
+"rue",
+"près",
+"devant",
+"adresse",
+"gare",
+"place",
+"à"
+]
+},
+{
+"say": "Il y a des blessés ?",
+"hint": "Oui, une personne.",
+"kw": [
+"oui",
+"non",
+"une",
+"personne",
+"homme",
+"femme",
+"saign"
+]
+}
+],
+"end": "Les secours arrivent. Restez calme."
+},
+"social": {
+"steps": [
+{
+"say": "Salut ! Moi, c'est Anna. Tu t'appelles comment ?",
+"hint": "Salut, je m'appelle Max.",
+"kw": [
+"je m'appelle",
+"je suis",
+"moi c'est",
+"mon nom"
+]
+},
+{
+"say": "Tu viens d'où ?",
+"hint": "Je viens d'Indonésie.",
+"kw": [
+"je viens",
+"indonésie",
+"je suis",
+"de"
+]
+},
+{
+"say": "Qu'est-ce que tu fais pendant ton temps libre ?",
+"hint": "J'aime jouer au foot.",
+"kw": [
+"j'aime",
+"j'adore",
+"je joue",
+"je lis",
+"je regarde",
+"foot",
+"musique",
+"voyager"
+]
+},
+{
+"say": "Cool ! On prend un café un de ces jours ?",
+"hint": "Oui, avec plaisir !",
+"kw": [
+"oui",
+"avec plaisir",
+"bien sûr",
+"volontiers",
+"non",
+"désolé"
+]
+}
+],
+"end": "Super ! À bientôt !"
+}
+}
+},
+"de": {
+"clarify": "Entschuldigung, können Sie das wiederholen?",
+"s": {
+"restaurant": {
+"steps": [
+{
+"say": "Guten Abend! Ein Tisch für wie viele Personen?",
+"hint": "Einen Tisch für zwei, bitte.",
+"kw": [
+"eins",
+"zwei",
+"drei",
+"vier",
+"fünf",
+"sechs",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6",
+"zwei"
+]
+},
+{
+"say": "Was möchten Sie trinken?",
+"hint": "Ein Wasser, bitte.",
+"kw": [
+"wasser",
+"kaffee",
+"wein",
+"bier",
+"saft",
+"tee",
+"cola"
+]
+},
+{
+"say": "Und zum Essen?",
+"hint": "Ich hätte gern das Schnitzel.",
+"kw": [
+"ich hätte gern",
+"ich möchte",
+"ich nehme",
+"schnitzel",
+"salat",
+"fisch",
+"hähnchen",
+"suppe",
+"pasta"
+]
+},
+{
+"say": "Noch etwas?",
+"hint": "Nein, danke. Die Rechnung, bitte.",
+"kw": [
+"rechnung",
+"zahlen",
+"nein",
+"das ist alles"
+]
+}
+],
+"end": "Bitte schön. Einen schönen Abend!"
+},
+"interview": {
+"steps": [
+{
+"say": "Guten Tag, nehmen Sie bitte Platz. Können Sie sich vorstellen?",
+"hint": "Ich heiße Max und bin Designer.",
+"kw": [
+"ich heiße",
+"ich bin",
+"mein name"
+]
+},
+{
+"say": "Warum möchten Sie diese Stelle?",
+"hint": "Weil mich Ihr Unternehmen interessiert.",
+"kw": [
+"weil",
+"interess",
+"ich möchte",
+"erfahrung"
+]
+},
+{
+"say": "Was sind Ihre Stärken?",
+"hint": "Ich bin organisiert und arbeite gern im Team.",
+"kw": [
+"ich bin",
+"organisiert",
+"team",
+"zuverlässig",
+"kreativ"
+]
+},
+{
+"say": "Haben Sie noch Fragen an uns?",
+"hint": "Ja, wann könnte ich anfangen?",
+"kw": [
+"ja",
+"nein",
+"wann",
+"wie",
+"was",
+"frage"
+]
+}
+],
+"end": "Vielen Dank. Wir melden uns bald bei Ihnen."
+},
+"office": {
+"steps": [
+{
+"say": "Guten Morgen! Hast du heute Zeit für ein kurzes Meeting?",
+"hint": "Ja, um drei Uhr?",
+"kw": [
+"ja",
+"klar",
+"gern",
+"nein",
+"leider",
+"uhr",
+"nachmittag",
+"um"
+]
+},
+{
+"say": "Kannst du mir den Bericht schicken?",
+"hint": "Klar, ich schicke ihn heute.",
+"kw": [
+"klar",
+"ja",
+"heute",
+"morgen",
+"schicke",
+"okay",
+"gern"
+]
+},
+{
+"say": "Liegt das Projekt im Zeitplan?",
+"hint": "Ja, es ist fast fertig.",
+"kw": [
+"ja",
+"nein",
+"verspätung",
+"fast",
+"fertig",
+"zeitplan"
+]
+},
+{
+"say": "Super. Bis später!",
+"hint": "Bis später!",
+"kw": [
+"bis später",
+"tschüss",
+"danke",
+"ciao"
+]
+}
+],
+"end": "Bis später!"
+},
+"airport": {
+"steps": [
+{
+"say": "Guten Morgen. Ihren Reisepass, bitte.",
+"hint": "Bitte schön.",
+"kw": [
+"bitte",
+"hier",
+"ja",
+"natürlich"
+]
+},
+{
+"say": "Wohin fliegen Sie?",
+"hint": "Nach Rom.",
+"kw": [
+"nach",
+"rom",
+"paris",
+"london",
+"jakarta",
+"tokio",
+"madrid",
+"berlin"
+]
+},
+{
+"say": "Haben Sie Gepäck aufzugeben?",
+"hint": "Ja, einen Koffer.",
+"kw": [
+"ja",
+"nein",
+"einen",
+"koffer",
+"gepäck",
+"tasche"
+]
+},
+{
+"say": "Fenster oder Gang?",
+"hint": "Fenster, bitte.",
+"kw": [
+"fenster",
+"gang"
+]
+}
+],
+"end": "Hier ist Ihre Bordkarte. Gate 12."
+},
+"hotel": {
+"steps": [
+{
+"say": "Guten Abend. Haben Sie eine Reservierung?",
+"hint": "Ja, auf den Namen Verstappen.",
+"kw": [
+"ja",
+"nein",
+"reservierung",
+"namen"
+]
+},
+{
+"say": "Für wie viele Nächte?",
+"hint": "Drei Nächte.",
+"kw": [
+"nacht",
+"nächte",
+"eins",
+"zwei",
+"drei",
+"vier",
+"fünf",
+"sechs",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+]
+},
+{
+"say": "Frühstück gibt es von sieben bis zehn Uhr. Brauchen Sie noch etwas?",
+"hint": "Wie ist das WLAN-Passwort?",
+"kw": [
+"wlan",
+"wifi",
+"passwort",
+"nein",
+"danke",
+"handtuch",
+"ja"
+]
+}
+],
+"end": "Hier ist Ihr Schlüssel. Einen schönen Aufenthalt!"
+},
+"doctor": {
+"steps": [
+{
+"say": "Guten Tag, was fehlt Ihnen?",
+"hint": "Ich habe Kopfschmerzen und Fieber.",
+"kw": [
+"schmerz",
+"weh",
+"fieber",
+"husten",
+"krank"
+]
+},
+{
+"say": "Seit wann?",
+"hint": "Seit gestern.",
+"kw": [
+"seit",
+"gestern",
+"tagen",
+"woche",
+"heute",
+"morgen"
+]
+},
+{
+"say": "Sind Sie gegen Medikamente allergisch?",
+"hint": "Nein, ich bin nicht allergisch.",
+"kw": [
+"nein",
+"ja",
+"allergisch",
+"penicillin"
+]
+}
+],
+"end": "Nehmen Sie das zweimal täglich und ruhen Sie sich aus."
+},
+"shopping": {
+"steps": [
+{
+"say": "Guten Tag, kann ich Ihnen helfen?",
+"hint": "Ja, ich suche eine Jacke.",
+"kw": [
+"ich suche",
+"ich möchte",
+"ja",
+"ich schaue nur",
+"jacke",
+"hemd",
+"schuhe"
+]
+},
+{
+"say": "Welche Größe?",
+"hint": "Größe M, bitte.",
+"kw": [
+"größe",
+"s",
+"m",
+"l",
+"klein",
+"mittel",
+"groß",
+"38",
+"40",
+"42"
+]
+},
+{
+"say": "Diese kostet fünfzig Euro.",
+"hint": "Kann ich sie anprobieren?",
+"kw": [
+"anprobieren",
+"ich nehme",
+"kaufe",
+"teuer",
+"okay"
+]
+},
+{
+"say": "Bar oder mit Karte?",
+"hint": "Mit Karte, bitte.",
+"kw": [
+"karte",
+"bar"
+]
+}
+],
+"end": "Danke, einen schönen Tag noch!"
+},
+"emergency": {
+"steps": [
+{
+"say": "Notruf, was ist passiert?",
+"hint": "Es hat einen Unfall gegeben.",
+"kw": [
+"unfall",
+"feuer",
+"brand",
+"hilfe",
+"verletzt",
+"gestohlen"
+]
+},
+{
+"say": "Wo sind Sie?",
+"hint": "In der Nähe vom Bahnhof.",
+"kw": [
+"straße",
+"nähe",
+"vor",
+"adresse",
+"bahnhof",
+"platz",
+"in"
+]
+},
+{
+"say": "Gibt es Verletzte?",
+"hint": "Ja, eine Person.",
+"kw": [
+"ja",
+"nein",
+"eine",
+"person",
+"mann",
+"frau",
+"blut"
+]
+}
+],
+"end": "Hilfe ist unterwegs. Bleiben Sie ruhig."
+},
+"social": {
+"steps": [
+{
+"say": "Hallo! Ich bin Anna. Wie heißt du?",
+"hint": "Hallo, ich heiße Max.",
+"kw": [
+"ich heiße",
+"ich bin",
+"mein name"
+]
+},
+{
+"say": "Woher kommst du?",
+"hint": "Ich komme aus Indonesien.",
+"kw": [
+"ich komme",
+"aus",
+"indonesien"
+]
+},
+{
+"say": "Was machst du in deiner Freizeit?",
+"hint": "Ich spiele gern Fußball.",
+"kw": [
+"gern",
+"ich spiele",
+"ich lese",
+"ich mag",
+"fußball",
+"musik",
+"reisen"
+]
+},
+{
+"say": "Cool! Wollen wir mal einen Kaffee trinken?",
+"hint": "Klar, sehr gern!",
+"kw": [
+"ja",
+"klar",
+"gern",
+"nein",
+"leider"
+]
+}
+],
+"end": "Super! Bis bald!"
+}
+}
+},
+"ja": {
+"clarify": "すみません、もう一度お願いします。",
+"s": {
+"restaurant": {
+"steps": [
+{
+"say": "いらっしゃいませ。何名様ですか？",
+"hint": "二人です。",
+"kw": [
+"一",
+"二",
+"三",
+"四",
+"五",
+"六",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6",
+"ひとり",
+"ふたり",
+"さんにん",
+"よにん",
+"一人",
+"二人",
+"三人",
+"四人",
+"名"
+]
+},
+{
+"say": "お飲み物は何になさいますか？",
+"hint": "お水をお願いします。",
+"kw": [
+"水",
+"コーヒー",
+"お茶",
+"ビール",
+"ジュース",
+"ワイン",
+"紅茶"
+]
+},
+{
+"say": "お食事はいかがなさいますか？",
+"hint": "ラーメンをお願いします。",
+"kw": [
+"お願いします",
+"ください",
+"ラーメン",
+"寿司",
+"カレー",
+"うどん",
+"天ぷら",
+"定食"
+]
+},
+{
+"say": "ほかにご注文はございますか？",
+"hint": "いいえ、結構です。お会計をお願いします。",
+"kw": [
+"会計",
+"いいえ",
+"結構",
+"大丈夫"
+]
+}
+],
+"end": "ありがとうございました。"
+},
+"interview": {
+"steps": [
+{
+"say": "こんにちは。どうぞおかけください。自己紹介をお願いします。",
+"hint": "マックスと申します。デザイナーです。",
+"kw": [
+"申します",
+"です",
+"名前",
+"私は"
+]
+},
+{
+"say": "どうしてこの仕事を希望されましたか？",
+"hint": "御社に興味があるからです。",
+"kw": [
+"から",
+"興味",
+"したい",
+"経験",
+"ので"
+]
+},
+{
+"say": "あなたの長所は何ですか？",
+"hint": "責任感があり、チームで働くのが得意です。",
+"kw": [
+"得意",
+"責任感",
+"チーム",
+"まじめ",
+"長所"
+]
+},
+{
+"say": "何か質問はありますか？",
+"hint": "はい、いつから働けますか？",
+"kw": [
+"はい",
+"いいえ",
+"いつ",
+"どう",
+"何",
+"質問"
+]
+}
+],
+"end": "ありがとうございました。後日ご連絡いたします。"
+},
+"office": {
+"steps": [
+{
+"say": "おはようございます。今日、少し打ち合わせの時間はありますか？",
+"hint": "はい、三時はどうですか？",
+"kw": [
+"はい",
+"大丈夫",
+"いいえ",
+"すみません",
+"時",
+"午後"
+]
+},
+{
+"say": "報告書を送ってもらえますか？",
+"hint": "はい、今日送ります。",
+"kw": [
+"はい",
+"今日",
+"明日",
+"送ります",
+"わかりました",
+"承知"
+]
+},
+{
+"say": "プロジェクトは予定どおり進んでいますか？",
+"hint": "はい、ほぼ終わりました。",
+"kw": [
+"はい",
+"いいえ",
+"遅れ",
+"ほぼ",
+"終わ",
+"予定"
+]
+},
+{
+"say": "いいですね。じゃあ、また後で。",
+"hint": "また後で。",
+"kw": [
+"また",
+"失礼します",
+"ありがとう",
+"お疲れ"
+]
+}
+],
+"end": "お疲れさまです。"
+},
+"airport": {
+"steps": [
+{
+"say": "おはようございます。パスポートをお願いします。",
+"hint": "はい、どうぞ。",
+"kw": [
+"はい",
+"どうぞ"
+]
+},
+{
+"say": "どちらへ行かれますか？",
+"hint": "ローマです。",
+"kw": [
+"です",
+"ローマ",
+"パリ",
+"ロンドン",
+"ジャカルタ",
+"東京",
+"ソウル",
+"へ"
+]
+},
+{
+"say": "お預けになる荷物はありますか？",
+"hint": "はい、スーツケースが一つあります。",
+"kw": [
+"はい",
+"いいえ",
+"一つ",
+"スーツケース",
+"荷物",
+"かばん"
+]
+},
+{
+"say": "窓側と通路側、どちらがよろしいですか？",
+"hint": "窓側をお願いします。",
+"kw": [
+"窓",
+"通路"
+]
+}
+],
+"end": "こちらが搭乗券です。十二番ゲートです。"
+},
+"hotel": {
+"steps": [
+{
+"say": "こんばんは。ご予約はございますか？",
+"hint": "はい、フェルスタッペンで予約しています。",
+"kw": [
+"はい",
+"いいえ",
+"予約",
+"名前"
+]
+},
+{
+"say": "何泊のご予定ですか？",
+"hint": "三泊です。",
+"kw": [
+"泊",
+"一",
+"二",
+"三",
+"四",
+"五",
+"1",
+"2",
+"3",
+"4",
+"5"
+]
+},
+{
+"say": "朝食は七時から十時までです。ほかに何かございますか？",
+"hint": "Wi-Fiのパスワードを教えてください。",
+"kw": [
+"wi-fi",
+"wifi",
+"パスワード",
+"いいえ",
+"大丈夫",
+"タオル",
+"はい"
+]
+}
+],
+"end": "こちらがお部屋の鍵です。ごゆっくりどうぞ。"
+},
+"doctor": {
+"steps": [
+{
+"say": "こんにちは。どうされましたか？",
+"hint": "頭が痛くて、熱があります。",
+"kw": [
+"痛",
+"熱",
+"咳",
+"せき",
+"気分が悪"
+]
+},
+{
+"say": "いつからですか？",
+"hint": "昨日からです。",
+"kw": [
+"から",
+"昨日",
+"日",
+"週間",
+"今日",
+"朝"
+]
+},
+{
+"say": "何か薬のアレルギーはありますか？",
+"hint": "いいえ、ありません。",
+"kw": [
+"いいえ",
+"はい",
+"アレルギー",
+"ありません",
+"あります"
+]
+}
+],
+"end": "この薬を一日二回飲んで、ゆっくり休んでください。"
+},
+"shopping": {
+"steps": [
+{
+"say": "いらっしゃいませ。何かお探しですか？",
+"hint": "はい、ジャケットを探しています。",
+"kw": [
+"探して",
+"はい",
+"見ているだけ",
+"ジャケット",
+"シャツ",
+"靴"
+]
+},
+{
+"say": "サイズはいかがですか？",
+"hint": "Mサイズをお願いします。",
+"kw": [
+"サイズ",
+"s",
+"m",
+"l",
+"エス",
+"エム",
+"エル"
+]
+},
+{
+"say": "こちらは五十ユーロです。",
+"hint": "試着してもいいですか？",
+"kw": [
+"試着",
+"買います",
+"これにします",
+"高い",
+"いいです"
+]
+},
+{
+"say": "お支払いは現金ですか、カードですか？",
+"hint": "カードでお願いします。",
+"kw": [
+"カード",
+"現金"
+]
+}
+],
+"end": "ありがとうございました。"
+},
+"emergency": {
+"steps": [
+{
+"say": "はい、救急です。どうしましたか？",
+"hint": "事故がありました。",
+"kw": [
+"事故",
+"火事",
+"助けて",
+"けが",
+"怪我",
+"盗まれ"
+]
+},
+{
+"say": "場所はどこですか？",
+"hint": "駅の近くです。",
+"kw": [
+"近く",
+"前",
+"住所",
+"駅",
+"通り",
+"です"
+]
+},
+{
+"say": "けが人はいますか？",
+"hint": "はい、一人います。",
+"kw": [
+"はい",
+"いいえ",
+"一人",
+"人",
+"血"
+]
+}
+],
+"end": "救急車が向かっています。落ち着いてください。"
+},
+"social": {
+"steps": [
+{
+"say": "こんにちは！アンナです。お名前は？",
+"hint": "マックスです。よろしくお願いします。",
+"kw": [
+"です",
+"名前",
+"と申します",
+"私は"
+]
+},
+{
+"say": "どちらの出身ですか？",
+"hint": "インドネシアです。",
+"kw": [
+"インドネシア",
+"出身",
+"から",
+"です"
+]
+},
+{
+"say": "暇なとき、何をしていますか？",
+"hint": "サッカーをするのが好きです。",
+"kw": [
+"好き",
+"します",
+"読み",
+"見ます",
+"サッカー",
+"音楽",
+"旅行"
+]
+},
+{
+"say": "いいですね！今度コーヒーでもどうですか？",
+"hint": "ぜひ！",
+"kw": [
+"ぜひ",
+"はい",
+"いいですね",
+"すみません",
+"いいえ"
+]
+}
+],
+"end": "よかった！じゃあ、また！"
+}
+}
+}
+}
+}
